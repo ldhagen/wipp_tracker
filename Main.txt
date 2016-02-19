@@ -1,0 +1,194 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<meta name="msvalidate.01" content="E04157DFD334A77B7E6DAB14CAD59287" />
+<TITLE>Waste Isolation Pilot Plant</TITLE>
+<META name="Keywords" content="WIPP, waste,Isolation,Pilot,Plant,Waste Isolation Pilot Plant,Home,Carlsbad Field Office,CBFO,DOE,transuranic,radioactive,permanently,dispose,first,underground,repository,Hazardous,Facility,salt,mine,NTP,National TRU Programs,TRU">
+<META content=false name=MSSmartTagsPreventParsing>
+<META http-equiv=imagetoolbar content=no>
+<META http-equiv=Content-Language content=en-us>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="Index, ALL" name=robots>
+<LINK href="wipp.css" type=text/css rel=stylesheet>
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+</style>
+<link href="font-awesome.min.css" type="text/css" rel="stylesheet"/>
+<link href="slide-style.css" type="text/css" rel="stylesheet"/>
+
+<META content="MSHTML 6.00.2900.5803" name=GENERATOR>
+ 
+
+
+
+</HEAD>
+<BODY>
+
+
+<DIV id=wrapper>
+<DIV id=header> <a href="http://wipp.energy.gov" id="header">Logo</a></DIV>
+<DIV id=menu>
+<DIV id=menu1>
+<a href="https://twitter.com/WIPPNEWS" class="twitter-follow-button" data-show-count="false">Follow @WIPPNEWS</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
+</DIV>
+<DIV id=menu2>
+  <p>Last Updated: 
+    <!-- #BeginDate format:Am2 -->2/16/16<!-- #EndDate -->
+  </p>
+</DIV>
+<DIV id=menu3>
+  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
+    <A href="http://www.wipp.energy.gov/search.asp">Search</A></div>
+</DIV>
+
+</DIV>
+<DIV id=content>
+  <table width="654" border="0" cellpadding="7">
+    <tr>
+      <td width="388" rowspan="2" align="left" valign="top">
+      <div id="slides">
+    	<div>
+    		<img src="Images/Slideshow/10_2/SVS.jpg">
+    		<div class="caption">The supplemental ventilation system installed in the air intake drift</div>
+    	</div>
+    	<div>
+    		<img src="Images/Slideshow/10_2/Bolter.jpg">
+    		<div class="caption">WIPP's new hybrid (diesel/electric) bolter in the underground mine</div>
+    	</div>
+    	<div>
+    		<img src="Images/Slideshow/10_2/EOC.jpg">
+    		<div class="caption">A drill being run at WIPP's new Emergency Operations Center </div>
+    		</div>
+		<div>
+			<img src="Images/Slideshow/10_2/UG_Fire_Ambulance.jpg">
+			<div class="caption">Emergency response vehicles stationed in the WIPP underground</div>
+		</div>
+		
+		
+          <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa-chevron-left icon-large"></i></a>
+	      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa-chevron-right icon-large"></i></a>
+	    
+	  </div>
+
+      <h1>WIPP Update</h1>
+        <h6 align="left"><strong>February 12, 2016<br />
+            <br />
+        </strong></h6>
+        <p align="center"><strong>Anniversary of Fire, Radiological Events Marks  Major Progress at WIPP</strong></p>
+        <p>February  2016 marks two years since the underground fire and radiological release events  forced the temporary closure of the Department of Energy&rsquo;s (DOE) Waste  Isolation Pilot Plant (WIPP), near Carlsbad, New Mexico.  Since that time much progress has been made  in the recovery of the underground including mine stability and habitability,  initial panel closure, radiological risk remediation and the addition of an  interim ventilation system. Additionally, in response to investigations from  the Accident Investigation Boards (AIB), the site has made significant changes  to all safety management programs and is in the process of revising the  Documented Safety Analysis (DSA) that establishes the safety envelope for all  activities on the WIPP site.</p>
+        <p>As recovery  actions at the site begin to wind down, DOE and NWP will begin a series of  readiness activities necessary to ensure that all equipment, people and  procedures have been thoroughly tested and are ready to resume plant operations  in 2016. The readiness activities will culminate with separate contractor and  DOE Operational Readiness Reviews that must be passed before DOE and Regulators  will give authorization to commence with waste emplacement.  </p>
+        <p>As  Energy Secretary Ernest Moniz indicated in the February 9th budget  rollout, &ldquo;We really expect to get WIPP operating at the end of this year,  resuming operations and ramping over a few years to full operations and then of  course cleaning out the backlog that has been create by its shutdown for the  last couple of years,&rdquo; Moniz said.&nbsp; &ldquo;That is a very, very high  priority.&rdquo;  WIPP remains an important component of the Department  of Energy&rsquo;s Office of Environmental Management transuranic waste disposal program  and has been key to their success in remediating 22 transuranic waste generator  sites and significantly reducing DOE&rsquo;s footprint for legacy waste management. </p>
+        <p>For  a more in-depth look at WIPP&rsquo;s recovery progress, please see the <strong><a href="http://wipp.energy.gov/fctshts/Anniversary_Roundup.pdf" target="_blank">WIPP Recovery  Fact sheet</a></strong>.</p>
+        <p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April  7</strong></p>
+<p>The City of Carlsbad and the  Department of Energy&rsquo;s Carlsbad Field Office will co-host its quarterly Town  Hall meeting featuring updates on WIPP recovery activities on Thursday, April 7  at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.   Live streaming of the meeting can be  seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
+      <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
+        <h6 align="center">&nbsp;</h6>
+        <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events (Rev. 1)</a></p>
+        <p><a href="../Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="NWP CAP Plan" width="17" height="17" /> NWP Corrective Action Addendum for Radiological Release Event</a><br />
+        </p>
+        <p><a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the February 14 Radiological Event</a></p>
+        <p><a href="../Special/Phase_2_AIB_Slides.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Investigation Summary Slides</a></p>
+        <p><a href="../Special/AIB Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the February 5 Fire<br />
+          <br />
+          </a><a href="../Special/AIB Summary.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Investigation Summary Slides<br />
+            </a><br />
+          <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the February 14
+            Radiological Event</a><br />
+  <br />
+          <a href="../Special/AIB_Rad_Report_Presentation.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Investigation Summary Slides</a><br />
+          <br />
+          <a href="../Special/DOE_WIPP_Salt_Haul_Fire_Corrective_Action_Plan.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for Fire Event</a><br />
+          <br />
+          <a href="../Special/DOE_Rad_Phase1_CAP_Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for the Radiological Event</a></p>
+        <p><a href="../Special/EA_memo_10152015.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Office of Enterprise Assessments Operational Analysis of Safety Trends at the Waste Isolation Pilot Plant, May 2014 - May 2015</a><br />
+          <br />
+          <a href="../Special/FINAL NWP Fire and Phase 1 Rad CAP_REDACT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> NWP Corrective Action Plan for the Fire and Radiological Events</a><br />
+          <br />
+          <a href="../Special/TECHNICAL_ASSESSMENT_TEAM_REPORT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Technical Assessment Team Report </a></p>
+        <h6 align="center">Supporting Documents</h6>
+        <p><a href="http://energy.gov/em/listings/supporting-technical-documents" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Supporting documents for the AIB and TAT reports</a><br />
+
+      </h2></td>
+    </tr>
+</table>
+  <hr />
+</DIV>
+<DIV id=sidebar>
+<DIV class=linkbox> 
+<h3>Recovery Page</h3>
+
+<p class="open_page">Home</p> 
+
+<hr>
+<h3>Event Information</h3>
+<h6><a href="accident_desc.html">Accident Description</a></h6> 
+<h6><a href="protective_actions.html">Protective Actions</a></h6>
+<h6><a href="sampling_results.html">Sampling Results</a></h6>
+<h6><a href="plans_reports.html">Plans and Reports<br />
+</a></h6>
+<hr>
+<h3>News and Updates</h3>
+  <h6><a href="updates.html">Past WIPP Updates</a></h6>
+  <h6><a href="news.html">News Releases</a></h6> 
+  <h6><a href="fact_sheets.html">Fact Sheets</a></h6>
+  <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
+  <h6><a href="photo_video.html">Photo and Video</a>  </h6>
+  <h6><a href="faq.html">Frequently Asked Questions</a></h6>
+  <h6><a href="townhallmeeting.html">Town Hall Meetings</a><BR />
+  </h6>
+  <hr>
+
+<H3>Other WIPP Documents and Tools</H3>
+<h6>Hazardous Waste Permit</h6>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/library/Information_Repository.htm">Information Repository</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/library/STKInfo/STKInformation.htm">Stakeholder Documents</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">Submitted Modifications/Requests for Comments</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
+
+<h6>WIPP Toolbox</h6>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/WWISWeb/index.aspx">WIPP Waste Information System Public Access</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
+  <p><br />
+  </p>
+</DIV>
+</DIV>
+<p class="floated">&nbsp;</p>
+<DIV id=footer>
+  <b>Notice To Users:</b> &nbsp;Use of this system constitutes consent to security monitoring and testing.  All activity is logged with your host name and IP address.&nbsp; For more information, please refer to the<a href="http://energy.gov/about-us/web-policies/privacy">DOE Privacy Policy </a> <br />
+Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site Inquiry">webmaster&#64wipp.ws </a>
+
+</DIV>
+</DIV>
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="JS/jquery.slides.min.js"></script>
+
+  <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 380,
+        height: 283,
+		navigation: false,
+		 play: {
+      		active: true,
+       		effect: "slide",
+		    interval: 5000,
+			auto: true,
+			swap: true,
+			pauseOnHover: false,
+			restartDelay: 2500
+    	}
+      });
+    });
+  </script>
+
+</BODY></HTML>

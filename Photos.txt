@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<TITLE>WIPP | Waste Isolation Pilot Plant</TITLE>
+<META name="Keywords" content="WIPP, waste,Isolation,Pilot,Plant,Waste Isolation Pilot Plant,Home,Carlsbad Field Office,CBFO,DOE,transuranic,radioactive,permanently,dispose,first,underground,repository,Hazardous,Facility,salt,mine,NTP,National TRU Programs,TRU">
+<META content=false name=MSSmartTagsPreventParsing>
+<META http-equiv=imagetoolbar content=no>
+<META http-equiv=Content-Language content=en-us>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+<META content="Index, ALL" name=robots>
+<LINK href="wipp.css" type=text/css rel=stylesheet>
+<META content="MSHTML 6.00.2900.5803" name=GENERATOR>
+
+<style type="text/css">
+<!--
+.Heading {	font-size: 18px;
+	font-weight: bold;
+}
+.Subheading {	font-size: 14px;
+	font-weight: bold;
+}
+.Text {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+-->
+</style>
+</HEAD>
+<BODY>
+
+
+<DIV id=wrapper>
+<DIV id=header><a href="http://wipp.energy.gov" id="header">Logo</a></DIV>
+<DIV id=menu>
+<DIV id=menu1>
+<a href="https://twitter.com/WIPPNEWS" class="twitter-follow-button" data-show-count="false">Follow @WIPPNEWS</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+</script>
+</DIV>
+<DIV id=menu2>
+  <p>Last Updated: 
+    <!-- #BeginDate format:Am2 -->6/12/15<!-- #EndDate --></p>
+</DIV>
+<DIV id=menu3>
+  <div align="center"><a href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</a><img src="images/filler.png" alt="" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><a href="http://www.wipp.energy.gov/contacts.htm">Contact Us</a><img src="images/filler.png" alt="" /> <a href="http://www.wipp.energy.gov/search.asp">Search</a></div>
+</DIV>
+
+</DIV>
+<DIV id=content>
+<H1>Photos and Videos</H1>
+<h2>Videos<br />
+</h2>
+<h4>Re-Entry and Other Video<br />
+</h4>
+<table width="588" cellpadding="5">
+  <tr>
+    <td width="397" height="131" valign="top"><ul>
+      <li><a href="../Video/Mitigating_Contamination.mp4" target="_blank" class="list1">Mitigating Contamination  - March 11, 2015</a><a href="../Video/Drum_Radiography.mp4" target="_blank" class="list1"><br />
+      </a>As seen in this video, WIPP teams are utilizing a fresh waster spray to mitigate the contamination in the WIPP underground. The water spray is applied to the walls  of the mine causing the contamination to be trapped within the salt rock.</li>
+      <li><a href="../Video/REACH_Jan2015.m4v" target="_blank" class="list1">Project Reach Video - January 26, 2015</a><a href="../Video/Drum_Radiography.mp4" target="_blank" class="list1"><br />
+      </a> Project Reach, a 90-foot composite boom equipped with high resolution video equipment, was specifically designed and built to examine all waste containers in Panel 7, Room 7 in support of the Accident Investigation Board.  The boom is installed on a movable cradle and mounted on a support structure that allows for both lateral and horizontal movement.</li>
+      <li><a href="../Video/Drum_Radiography.mp4" target="_blank" class="list1">Drum Radiography Video<br />
+      </a> This attached video shows the real time radiography that was conducted on the specific container that breached in WIPP’s underground disposal area. These videos are evaluated by trained radiography technicians. The video, from file, shows one of the processes used to inspect waste containers to determine if they meet waste acceptance criteria before they are shipped to WIPP. </li>
+    </ul>
+      <ul>
+        <li><a href="../Video/WIPP_5_30_14.mp4" target="_blank" class="list1">WIPP Re-Entry May 30, 2014</a><br />
+        </li>
+      </ul>
+      <ul>
+        <li><a href="../Video/WIPP_5_19_14.mp4" target="_blank" class="list1">WIPP Re-Entry May 19, 2014<br />
+        </a> This low resolution video clip was  produced by use of a rope camera that was lowered between columns of waste for  a closer look at the bottom and middle row of some waste containers in the  affected area.</li>
+      </ul>
+      <ul>
+        <li><a href="../Video/WIPP_5_15_14.m4v" target="_blank" class="list1">WIPP Re-Entry May 15, 2014</a><br />
+        </li>
+      </ul>
+      <ul>
+        <li><a href="../Video/WIPP_5_10_14.m4v" target="_blank" class="list1">WIPP Re-Entry May 10, 2014</a></li>
+      </ul>
+      <ul>
+        <li><a href="../Video/WIPP_4_30_14.m4v" target="_blank" class="list1">WIPP Re-Entry April 30, 2014</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://youtu.be/uubzM33TPjE" target="_blank" class="list1">Putting Current Radiation Levels in Perspective</a></li>
+      </ul></td>
+    <td width="120" valign="top"><img src="Images/Movie Reel.png" width="120" height="121" alt="Movie Reel" /><br />
+      </td>
+    </tr>
+</table>
+<hr />
+<h2>Photos</h2>
+<p class="Text">Click on a thumbnail image to see a larger version of the photographs.</p>
+<p class="Subheading">Secretary of Energy Ernest Moniz Visits WIPP</p>
+<p class="Text">On August 11-12, 2014, Energy Secretary Ernest Moniz visited Carlsbad to tour the WIPP site and see firsthand the recovery   efforts underway at WIPP. Secretary Moniz met with area residents at a town hall meeting and with WIPP employees at the site. Also on hand were DOE Deputy Under Secretary for Management and Performance David Klaus,  Senator Tom Udall, Senator Martin Heinrich, Congressman Steve Pearce, Secretary   of the New Mexico Environment Department Ryan Flynn and Carlsbad Mayor Dale   Janway.</p>
+<table width="600" cellpadding="5">
+  <tr>
+    <td height="153" valign="top"><a href="Images/AP1.jpg" target="_blank"><img src="Images/AP1_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS13" /></a><a href="Images/5_10_Image1.jpg" target="_blank"><br />
+    </a></td>
+    <td valign="top"><a href="Images/TH1.jpg" target="_blank"><img src="Images/TH1_sm.jpg" width="200" height="143" alt="" /></a><a href="Images/5_10_Image2.jpg" target="_blank"><br />
+    </a></td>
+    <td valign="top"><a href="Images/TH2.jpg" target="_blank"><img src="Images/TH2_sm.jpg" width="200" height="143" alt="" /><br />
+    </a></td>
+  </tr>
+</table>
+<table width="600" cellpadding="5">
+  <tr>
+    <td height="153" valign="top"><a href="Images/TH3.jpg" target="_blank"><img src="Images/TH3_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS14" /></a><a href="Images/5_10_Image1.jpg" target="_blank"><br />
+    </a></td>
+    <td valign="top"><a href="Images/WS2.jpg" target="_blank"><img src="Images/WS2_sm.jpg" width="200" height="143" alt="" /></a><a href="Images/5_10_Image2.jpg" target="_blank"><br />
+    </a></td>
+    <td valign="top"><a href="Images/WS3.jpg" target="_blank"><img src="Images/WS3_sm.jpg" width="200" height="143" alt="" /><br />
+    </a></td>
+  </tr>
+</table>
+<hr />
+<p class="Subheading">Gathering Samples from Panel 7, Room 7</p>
+<p class="Text">On May 30, 2014, WIPP recovery teams obtained samples from the previously identified damaged drum and nearby magnesium oxide piles. The sample contents will be analyzed as part of the investigation to determine the cause of the February 14, 2014 radiological event.</p>
+<table width="600" cellpadding="5">
+  <tr>
+    <td height="153" valign="top"><a href="Images/5_30_Image_1.jpg" target="_blank"><img src="Images/5_30_Image_1_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS10" /></a><a href="Images/5_10_Image1.jpg" target="_blank"><br />
+      </a></td>
+    <td valign="top"><a href="Images/5_30_Image_2.jpg" target="_blank"><img src="Images/5_30_Image_2_sm.jpg" width="200" height="143" alt="" /></a><a href="Images/5_10_Image2.jpg" target="_blank"><br />
+      </a></td>
+    <td valign="top"><a href="Images/5_30_Image_3.jpg" target="_blank"><img src="Images/5_30_Image_3_sm.jpg" width="200" height="143" alt="" /><br />
+    </a></td>
+  </tr>
+</table>
+<table width="426" cellpadding="5">
+  <tr>
+    <td width="202" height="153" valign="top"><a href="Images/5_30_Image_4.jpg" target="_blank"><img src="Images/5_30_Image_4_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS12" /></a><a href="Images/5_10_Image1.jpg" target="_blank"><br />
+    </a></td>
+    <td width="370" valign="top"><a href="Images/5_30_Image_5.jpg" target="_blank"><img src="Images/5_30_Image_5_sm.jpg" width="200" height="143" alt="" /></a><a href="Images/5_30_Image_3.jpg" target="_blank"><br />
+      </a></td>
+    </tr>
+</table>
+<hr />
+<p class="Subheading">Evidence of Damaged Drum in Panel 7, Room 7</p>
+<table width="645" cellpadding="5">
+  <tr>
+    <td width="202" height="127" valign="top"><p><a href="Images/5_22_14_Photo_1.jpg" target="_blank"><img src="Images/5_22_14_Photo_1_sm.jpg" width="200" height="267" border="0" /></a><br />
+      During the May 22 entry, this close up photo of the unsealed waste container was taken.</p></td>
+    <td width="202" valign="top"><p><a href="Images/5_22_14_Photo_2.jpg" target="_blank"><img src="Images/5_22_14_Photo_2_sm.jpg" width="200" height="268" /></a><br />
+      May 22 - Heat damage is evident on this photo of a waste container.</p></td>
+    <td width="201" valign="top"><p><a href="Images/5_22_14_Photo_3.jpg" target="_blank"><img src="Images/5_22_14_Photo_3_sm.jpg" width="200" height="267" /></a><br />
+      May 22 - A rope camera was used to inspect waste containers from between the columns.<br />
+      </p></td>
+  </tr>
+</table>
+<table width="645" cellpadding="5">
+  <tr>
+    <td width="202" height="275" valign="top"><p><a href="Images/5_19_Image.jpg" target="_blank"></a><a href="Images/5_15_Image_lrg.jpg" target="_blank"><img src="Images/5_15_Image.jpg" alt="" name="WCS1" width="200" height="266" id="WCS11" /></a><br />
+      The May 15 entry into Panel 7, Room 7 produced the above photo of a waste container with its lid unsealed and apparent heat discoloration.<br />
+    </p></td>
+    <td width="202" valign="top"><p><a href="Images/5_19_Image.jpg" target="_blank"><img src="Images/5_19_Image_sm.jpg" alt="" width="200" height="267" /></a><br />
+    The May 19 entry into Panel 7, Room 7 captured this image. Damage can be seen to the slip sheet on top of the waste container and there are remnants of a magnesium oxide bag also visible.</p></td>
+    <td width="201" valign="top"><p><img src="Images/5_19_Image2_sm.jpg" width="200" height="267" /><br />
+      May 19 - The above photo shows the bottom of the waste container with the unsealed lid.  The upper portion of the drum shows heat damage.<br />
+    </p></td>
+  </tr>
+</table>
+<hr />
+<p class="Subheading">Looking Closer at the Waste in Panel 7, Room 7</p>
+<p class="Text">On May 10, 2014, WIPP recovery teams again re-entered the mine and proceeded into Panel 7, Room 7 to gather additional visual data. As seen in the photos below, evidence of a heat-producing event is visible.</p>
+<table width="600" cellpadding="5">
+  <tr>
+    <td valign="top"><a href="Images/5_10_Image1.jpg" target="_blank"><img src="Images/5_10_Image1_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS8" /><br />
+      </a>The waste face (front of the waste stacks) from Panel 7, Room 7 is neatly stacked with Magnesium Oxide (MgO) bags on top.<a href="Images/5_10_Image1.jpg" target="_blank"><br />
+      </a></td>
+    <td valign="top"><a href="Images/5_10_Image2.jpg" target="_blank"><img src="Images/5_10_Image2_sm.jpg" width="200" height="143" alt="" /><br />
+      </a>Evidence of a heat-producing event can be seen from the black marks on the sides of a Standard Waste Box.<a href="Images/5_10_Image2.jpg" target="_blank"><br />
+      </a></td>
+    <td valign="top"><a href="Images/5_10_Image3.jpg" target="_blank"><img src="Images/5_10_Image3_sm.jpg" width="200" height="143" alt="" /><br />
+      </a>MgO bags are open and torn leaving MgO piles on top of the waste. </td>
+  </tr>
+</table>
+<table width="600" cellpadding="5">
+  <tr>
+    <td valign="top"><a href="Images/5_10_Image4.jpg" target="_blank"><img src="Images/5_10_Image4_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS9" /><br />
+      </a>MgO piles on top of waste drums. Melted material can been seen on the sides of the drums.      <a href="Images/5_10_Image4.jpg" target="_blank"><br />
+      </a></td>
+    <td valign="top"><a href="Images/5_10_Image5.jpg" target="_blank"><img src="Images/5_10_Image5_sm.jpg" width="200" height="143" alt="" /><br />
+      </a>MgO piled on top of the waste stack. Discoloration can be seen on the right-hand wall.    </td>
+    <td valign="top"><a href="Images/5_10_Image6.jpg" target="_blank"><img src="Images/5_10_Image6_sm.jpg" width="200" height="143" alt="" /><br />
+      </a>View of the left side of the waste stacks. MgO bags broken apart with heat damage visible on a Standard Waste Box.<a href="Images/5_10_Image6.jpg" target="_blank"><br />
+      </a></td>
+  </tr>
+</table>
+<hr />
+<p class="Subheading">Moving Deeper into the Underground</p>
+<p align="left" class="Text">On April 30, 2014, WIPP recovery teams re-entered the mine and proceeded into Panel 7, Room 7 to gather additional visual data to help determine the exact location of the radiation event. Workers were able to confirm there were not any issues with the roof or walls of the disposal room; however, it was confirmed that several magnesium oxide (MgO) bags were   damaged. Photos of open MgO piles are shown below.</p>
+<p align="left" class="Text"><a href="Images/MGO_1.jpg" target="_blank"><img src="Images/MGO_1_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS7" /></a> <a href="Images/MGO_2.jpg" target="_blank"><img src="Images/MGO_2_sm.jpg" width="200" height="143" alt="" /></a> <a href="Images/MGO_3.jpg" target="_blank"><img src="Images/MGO_3_sm.jpg" width="200" height="143" alt="" /></a></p>
+<p align="left" class="Text">During April 14 - 23, 2014, WIPP recovery teams made multiple trips  into the WIPP underground -- eventually reaching Panel 7, Room 7 -- the suspected location of the radiological event. During these entries, teams took continuous radiological surveys and assessed the mine's conditions. Additional Continuous Air Monitors (CAMs), which provide early detection and monitoring of airborne radiological contamination, were installed and clean bases were established. On April 23, a small discovery team entered Panel 7 and proceeded toward the columns of waste containers located in Room 7. The discovery team did not see any visible damage among the first few rows of containers.</p>
+<p align="left" class="Text"><a href="Images/Phase 3 Route Map.png" target="_blank"><img src="Images/Phase 3 route map_sm.jpg" alt="" name="WCS1" width="200" height="121" id="WCS2" /></a> <a href="Images/4_29_Image.jpg" target="_blank"><img src="Images/4_29_Image_sm.jpg" width="200" height="143" alt="" /></a> <a href="Images/Pre_Panel_7_Entry.jpg" target="_blank"><img src="Images/Pre_Panel_7_Entry_sm.jpg" width="200" height="143" alt="" /></a></p>
+<p align="left" class="Text"><a href="Images/Level_B_Suits.jpg" target="_blank"><img src="Images/Level_B_Suits_sm.jpg" alt="" name="WCS1" width="200" height="143" id="WCS6" /></a> <a href="Images/Panel_7_Face.jpg" target="_blank"><img src="Images/Panel_7_Face_sm.jpg" width="200" height="143" alt="" /></a> <a href="Images/Panel_7_lrg.jpg" target="_blank"><img src="Images/Panel_7_sm.jpg" width="200" height="143" alt="" /></a></p>
+<hr />
+<p class="Subheading">Entering the Underground for the First Time Since February 14</p>
+<p class="Text">On April 2, 2014, two  teams re-entered the WIPP underground facility for the first time since the  February 14 radiological release. As a precaution, workers put on protective  clothing and were fitted with positive air respirators. Having practiced and  drilled for this event, teams were well prepared to enter the mine. At  approximately 1 p.m., the first team entered the mine through the Salt Handling  Shaft. After no airborne contamination was detected, the second team then  descended into the underground. The teams surveyed conditions from the Salt  Shaft Station to the Air Intake Station—thereby complying with the Mine Safety  and Health Administration (MSHA) standard of two exit locations from the mine.  An operating base was established near the salt handling shaft and communication and  safety equipment was tested. Team members also installed four portable  Continuous Air Monitors (CAM) that provide early detection and monitoring of  airborne radiation.  For more information see the <a href="http://www.wipp.energy.gov/Special/WIPP Update 4_02_14.pdf" target="_blank">April 2</a> and <a href="http://www.wipp.energy.gov/Special/WIPP Update 4_03_14.pdf" target="_blank">April 3</a> WIPP Update.</p>
+<p align="left" class="Text"><a href="Images/4_2_Image_1.jpg" target="_blank"><img src="Images/4_2_Image_1a.jpg" alt="" name="WCS1" width="200" height="143" id="WCS" /></a> <a href="Images/4_2_Image_2.jpg" target="_blank"><img src="Images/4_2_Image_2a.jpg" width="200" height="143" alt="" /></a> <a href="Images/4_2_Image_3.jpg" target="_blank"><img src="Images/4_2_Image_3a.jpg" width="200" height="143" alt="" /></a></p>
+<hr />
+<p align="left" class="Text"><span class="Subheading">Transuranic Waste Shipment to Waste Control Specialists</span></p>
+<p class="Text">On April 2, 2014 the first transuranic waste shipment arrived at the Waste Control Specialists facility in Andrews, Texas. The defense-related transuranic waste will be temporarily staged at the commercial facility until WIPP resumes disposal operations. The shipment originated from Los Alamos National Laboratory in northern New Mexico, and reinforces DOE's commitment to removing 3,706 cubic meters of transuranic waste at the lab by <br />
+  June 30, 2014.</p>
+<p align="left" class="Text"><a href="Images/WCS Receipt1.jpg" target="_blank"><img src="Images/WCS Receipt1a.jpg" alt="" width="200" height="143" /></a> <a href="Images/WCS Receipt2.jpg" target="_blank"><img src="Images/WCS Receipt2a.jpg" width="200" height="143" alt="" /></a></p>
+<p align="left" class="Text">  <a href="Images/WCS Receipt3.jpg" target="_blank"><img src="Images/WCS Receipt3a.jpg" width="143" height="191" alt="" /></a>  <a href="Images/WCS Receipt4.jpg" target="_blank"><img src="Images/WCS Receipt4a.jpg" width="143" height="191" alt="" /></a> <a href="Images/WCS Receipt6.jpg" target="_blank"><img src="Images/WCS Receipt6a.jpg" width="143" height="191" alt="" /></a></p>
+<hr />
+<p align="left" class="Text"><span class="Subheading">Radiological Detection Instruments</span></p>
+<p align="left" class="Text">On March 7, 2014, WIPP outfitted the Salt Handling Shaft hoist with equipment used for radiological testing. A   video camera was attached to the frame of the Salt Shaft prior to deployment. The camera and other radiological instruments were  deployed to gather  information on the conditions  underground.</p>
+<p align="left" class="Text"><a href="Images/Instruments.jpg" target="_blank"><img src="Images/Instruments_1.jpg" alt="" name="WCS1" width="200" height="143" id="WCS5" /></a> <a href="Images/Air Sampler.jpg" target="_blank"><img src="Images/Air Sampler_1.jpg" width="200" height="143" alt="" /></a> <a href="Images/Loading.jpg" target="_blank"><img src="Images/Loading_1.jpg" width="200" height="143" alt="" /></a></p>
+<p align="left" class="Text">Some of the deployed monitoring instruments  included two air monitors, a gas monitor, a data logger to capture  information underground and an air sampler.</p>
+<hr />
+<p align="left" class="Text"><span class="Subheading">Radiological Detection</span></p>
+<p class="Text">On March 7, 2014, the radiological detection and air quality instruments were lowered into into the mine to test underground conditions.</p>
+<p align="left" class="Text"><a href="Images/Image_1.jpg" target="_blank"><img src="Images/Image_1a.jpg" alt="" name="WCS1" width="200" height="143" id="WCS3" /></a> <a href="Images/Image_2.jpg" target="_blank"><img src="Images/Image_2a.jpg" width="200" height="143" alt="" /></a> <a href="Images/Image_3.jpg" target="_blank"><img src="Images/Image_3a.jpg" width="200" height="143" alt="" /></a></p>
+<hr />
+<p class="Text"><span class="Subheading">Visits</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p class="Text">Senior Department of Energy (DOE) representatives were in  Carlsbad, N.M., on March 6, 2014 to get first-hand knowledge of the recovery process  at the Waste Isolation Pilot Plant (WIPP), to talk with WIPP employees and to  assure the community of DOE&rsquo;s continued interest in WIPP as the nation&rsquo;s only  repository for defense transuranic waste.</p>
+<p class="Text"><a href="Images/Site Visit 3_6_14a.jpg" target="_blank"><img src="Images/Site Visit_1a.jpg" alt="" name="WCS1" width="200" height="143" id="WCS4" /></a> <a href="Images/Site Visit 3_6_14b.jpg" target="_blank"><img src="Images/Site Visit_1b.jpg" width="200" height="143" alt="" /></a> <a href="Images/Site Visit 3_6_14c.jpg" target="_blank"><img src="Images/Site Visit_1c.jpg" width="200" height="143" alt="" /></a></p>
+<p class="Text">The DOE senior representatives toured the WIPP site to see  first-hand the conditions at the site and to talk with employees. All indicated  they were impressed with the attitude of employees, which focused on recovery  and safe return to work.</p>
+<hr />
+<h5>Media Contact for Recovery</h5>
+  
+<DIV id=note>
+
+   <p><b>Tim Runyon</b><br />
+U.S. Department of Energy<br />
+WIPP Recovery Communications<br />
+P.O. Box 3090<br />
+Carlsbad, NM 88221-2078&nbsp;<br />
+Phone: (575) 234-7545<br />
+E-mail: <a href="mail to:Tim.Runyon@cbfo.doe.gov">Tim.Runyon@cbfo.doe.gov</a></p>
+  
+</DIV>  
+<DIV id=note>
+
+<p><b>Donavan Mager</b><br />
+ Manager Communications<br />
+ Nuclear Waste Partnership LLC<br />
+ P.O. Box 2078 GSA-104<br />
+ Carlsbad, NM 88221-2078 <br />
+ Phone: (575) 234-7586<br />
+ E-mail: <a href="mailto: Donavan.Mager@wipp.ws">Donavan.Mager@wipp.ws </a></p>
+</DIV>
+ <DIV class=content2>
+  <hr />
+  <h5>Public Inquiries</h5>
+  <p><b>WIPP Information Center</b><br />
+    Phone: 1-800-336-WIPP (9477)<br />
+  E-mail:  <a href="mailto: Infocntr@wipp.ws">Infocntr@wipp.ws</a></p><br/>
+  </DIV>
+ &nbsp;</p>
+ <hr />
+ <BR>
+</DIV>
+<DIV id=sidebar>
+<DIV class=linkbox> 
+<h3>Recovery Page</h3>
+  <h6><a href="recovery.html">Home</a></h6> 
+<hr>
+<h3>Event Information</h3>
+<h6><a href="accident_desc.html">Accident Description</a></h6>
+<h6><a href="protective_actions.html">Protective Actions</a></h6>
+<h6><a href="sampling_results.html">Sampling Results</a></h6>
+<h6><a href="plans_reports.html">Plans and Reports<br />
+</a></h6>
+<hr>
+<h3>News and Updates</h3>
+ <h6><a href="updates.html">Past WIPP Updates</a></h6>
+  <h6><a href="news.html">News Releases</a></h6>
+  <h6><a href="fact_sheets.html">Fact Sheets</a></h6>
+  <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
+  <p class="open_page">Photo and Video</p>
+  <h6><a href="faq.html">Frequently Asked Questions</a></h6>
+  <h6><a href="townhallmeeting.html">Town Hall Meetings </a></h6>
+   <hr>
+
+<H3>Other WIPP Documents and Tools</H3>
+<h6>Hazardous Waste Permit</h6>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/library/Information_Repository.htm">Information Repository</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/library/STKInfo/STKInformation.htm">Stakeholder Documents</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">Submitted Modifications/Requests for Comments</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
+
+<h6>WIPP Toolbox</h6>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/WWISWeb/index.aspx">WIPP Waste Information System Public Access</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
+<br />
+</DIV>
+
+</DIV>
+<DIV id=footer>
+<b>Notice To Users:</b> &nbsp;Use of this system constitutes consent to security monitoring and testing.  All activity is logged with your host name and IP address.&nbsp; For more information, please refer to the<a href="http://energy.gov/about-us/web-policies/privacy">DOE Privacy Policy </a> <br />
+Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site Inquiry">webmaster&#64wipp.ws </a>
+
+</DIV>
+</DIV>
+
+
+</BODY></HTML>
