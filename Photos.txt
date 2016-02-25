@@ -40,7 +40,7 @@
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->6/12/15<!-- #EndDate --></p>
+    <!-- #BeginDate format:Am2 -->2/25/16<!-- #EndDate --></p>
 </DIV>
 <DIV id=menu3>
   <div align="center"><a href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</a><img src="images/filler.png" alt="" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><a href="http://www.wipp.energy.gov/contacts.htm">Contact Us</a><img src="images/filler.png" alt="" /> <a href="http://www.wipp.energy.gov/search.asp">Search</a></div>
@@ -267,7 +267,7 @@ E-mail: <a href="mail to:Tim.Runyon@cbfo.doe.gov">Tim.Runyon@cbfo.doe.gov</a></p
 <h3>News and Updates</h3>
  <h6><a href="updates.html">Past WIPP Updates</a></h6>
   <h6><a href="news.html">News Releases</a></h6>
-  <h6><a href="fact_sheets.html">Fact Sheets</a></h6>
+  <h6><a href="fact_sheets.html">Fact Sheets and Papers</a></h6>
   <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
   <p class="open_page">Photo and Video</p>
   <h6><a href="faq.html">Frequently Asked Questions</a></h6>
