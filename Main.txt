@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->2/25/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->3/3/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,15 +79,14 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>February 12, 2016<br />
+        <h6 align="left"><strong>March 3, 2016<br />
             <br />
         </strong></h6>
-        <p align="center"><strong>Anniversary of Fire, Radiological Events Marks  Major Progress at WIPP</strong></p>
-        <p>February  2016 marks two years since the underground fire and radiological release events  forced the temporary closure of the Department of Energy&rsquo;s (DOE) Waste  Isolation Pilot Plant (WIPP), near Carlsbad, New Mexico.  Since that time much progress has been made  in the recovery of the underground including mine stability and habitability,  initial panel closure, radiological risk remediation and the addition of an  interim ventilation system. Additionally, in response to investigations from  the Accident Investigation Boards (AIB), the site has made significant changes  to all safety management programs and is in the process of revising the  Documented Safety Analysis (DSA) that establishes the safety envelope for all  activities on the WIPP site.</p>
-        <p>As recovery  actions at the site begin to wind down, DOE and NWP will begin a series of  readiness activities necessary to ensure that all equipment, people and  procedures have been thoroughly tested and are ready to resume plant operations  in 2016. The readiness activities will culminate with separate contractor and  DOE Operational Readiness Reviews that must be passed before DOE and Regulators  will give authorization to commence with waste emplacement.  </p>
-        <p>As  Energy Secretary Ernest Moniz indicated in the February 9th budget  rollout, &ldquo;We really expect to get WIPP operating at the end of this year,  resuming operations and ramping over a few years to full operations and then of  course cleaning out the backlog that has been create by its shutdown for the  last couple of years,&rdquo; Moniz said.&nbsp; &ldquo;That is a very, very high  priority.&rdquo;  WIPP remains an important component of the Department  of Energy&rsquo;s Office of Environmental Management transuranic waste disposal program  and has been key to their success in remediating 22 transuranic waste generator  sites and significantly reducing DOE&rsquo;s footprint for legacy waste management. </p>
-        <p>For  a more in-depth look at WIPP&rsquo;s recovery progress, please see the <strong><a href="http://wipp.energy.gov/fctshts/Anniversary_Roundup.pdf" target="_blank">WIPP Recovery  Fact sheet</a></strong>.</p>
-        <p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April  7</strong></p>
+        <p align="center"><strong>Interim  Ventilation System Tie-in Completed</strong></p>
+        <p><a href="Images/IVS1.jpg" target="_blank"><img src="Images/IVS1sm.jpg" style="float:right" hspace="5" width="250" height="141" alt="IVS Ducts" /></a>Early this week sub-contractors at the Waste  Isolation Pilot Plant (WIPP) completed the &ldquo;tie in&rdquo; of the new interim  ventilation system (IVS) to the ductwork for the existing underground  ventilation system.  Following a series  of operational tests, the IVS is expected to increase airflow in the WIPP  underground by approximately 54,000 cubic feet per minute. </p>
+        <p>The tie-in operation consisted of removal of sections  of the existing ductwork from both the 860 and 700 series fans and replacing  those sections to allow the IVS to draw air from the underground exhaust shaft  through banks of high efficiency particulate air filters that are part of the  IVS system. Although the work was performed under radiological controls, site health  physicists reported that no fixed or removable contamination was detected on  the sections of ductwork that were removed.</p>
+        <p><a href="Images/IVS2.jpg" target="_blank"><img src="Images/IVS2sm.jpg" style="float:left" width="266" hspace="5" height="155" alt="IVS in construction" /></a>Leak testing of the system began on Wednesday,  March 2nd and all remaining electrical and mechanical field work is expected to  be completed by the end of the week. The next step in the process is to perform  contractor readiness activities for the unit.  The IVS is expected to be turned over to  operations in April. </p>
+<p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April  7</strong></p>
 <p>The City of Carlsbad and the  Department of Energy&rsquo;s Carlsbad Field Office will co-host its quarterly Town  Hall meeting featuring updates on WIPP recovery activities on Thursday, April 7  at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.   Live streaming of the meeting can be  seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
