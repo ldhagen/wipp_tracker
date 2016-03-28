@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->3/17/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->3/28/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,15 +79,17 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>March 17, 2016<br />
+        <h6 align="left"><strong>March 28, 2016<br />
             <br />
         </strong></h6>
-        <p align="center"><strong>Video Highlights  Accomplishments, Path Forward for WIPP</strong></p>
-        <p>Participants at the Waste Management Symposium in Phoenix  learned last week about the progress that has been made to recover the Department  of Energy&rsquo;s Waste Isolation Pilot Plant (WIPP) and what steps remain to restart  WIPP, the nation&rsquo;s only deep-geologic repository for defense transuranic waste later  this year. As part of the update, WIPP&rsquo;s leadership team showed a short video  that provides key elements of the recovery progress and restart activities.  View the video <a href="https://www.youtube.com/watch?v=VOK9bW4W94E&amp;feature=youtu.be">here</a> or at <a href="https://www.youtube.com/watch?v=VOK9bW4W94E&amp;feature=youtu.be">https://www.youtube.com/watch?v=VOK9bW4W94E&amp;feature=youtu.be</a>.</p>
-        <p align="center"><strong>DNFSB  Hosts Public Hearing on LANL TRU Waste Management</strong></p>
-        <p>On  March 22, the Defense Nuclear Facilities Safety Board (DNFSB) will host a  public hearing to gather information regarding the hazards to  the public and workers posed by the management of transuranic (TRU) waste at  Los Alamos National Laboratory (LANL) as well as the Department of Energy&rsquo;s  (DOE) plans to address those hazards.  The hearing is being held at the Santa Fe Community Convention Center,  201 West Marcy St., Santa Fe, NM and will also be presented live through  Internet video streaming.  There will be  two sessions, Sessions #1 at 5-6:30p.m. (MDT) and Session #2 at 6:45-9:00 p.m.  (MDT).  A link to a video-stream of the meeting  will be available on the Board&rsquo;s Web site at <a href="http://www.dnfsb.gov/"><em>www.dnfsb.gov</em></a>. Further information about the hearing can be found on the DNFSB web  site at <a href="http://www.dnfsb.gov/board-activities/public-hearings/los-alamos-national-laboratory-transuranic-waste-management-public-">http://www.dnfsb.gov/board-activities/public-hearings/los-alamos-national-laboratory-transuranic-waste-management-public-</a>.</p>
-<p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April  7</strong></p>
-<p>The City of Carlsbad and the  Department of Energy&rsquo;s Carlsbad Field Office will co-host its quarterly Town  Hall meeting featuring updates on WIPP recovery activities on Thursday, April 7  at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.   Live streaming of the meeting can be  seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
+        <p align="center"><strong>WIPP Ends Safety Pause</strong></p>
+        <p>A safety pause, declared by Nuclear Waste  Partnership in response to air quality issues in two remote areas of the WIPP underground,  was ended and normal work in these areas has resumed. The pause began February  22 after workers detected elevated levels of carbon monoxide and volatile  organic compounds (VOC) in two areas at extreme ends of the underground. The  pause allowed time to thoroughly investigate each event while work in un-impacted  portions of the WIPP underground continued.</p>
+        <p>We are learning from operating experience and  continuing to improve our programs and processes to better protect workers,&rdquo;  said Phil Breidenbach, NWP President and Project Manager. &ldquo;We used the Safety Pause to improve our  detection and measurement procedures; increase worker training and awareness of  potential air quality issues, and develop procedures that help us recognize and  respond to potential air quality issues before they become a problem.&rdquo;</p>
+        <p>Based on the findings from the investigation,  improvements have been made to procedures and processes to help ensure that  workers entering low airflow areas with potential poor air quality continue to  be adequately protected. Emphasis on increasing ventilation to low airflow work  areas in advance of planned activities will ensure workers entering these areas  have sufficient fresh air. Additional warning signs were placed in these known  low airflow areas to reflect where continuous air monitoring and additional  ventilation is required for entry. </p>
+        <p>During the safety pause, additional training  was provided to all workers on the use of air monitoring equipment, understanding  alarm levels, and responding to alarms. </p>
+        <p>Historically, the buildup of diesel  particulates, carbon monoxide and nitrogen oxide, as well as VOCs from the  waste, have been detected in areas of the underground where there is minimal  airflow or where the air is stagnant. These areas are generally found in the  extreme north and south ends of the underground, or dead-end areas such as the  entrance to closed waste panels. The WIPP Industrial Safety monitoring  equipment alarms at a much lower level than industry guidelines to ensure a  conservative margin for personnel safety. Should workers detect elevated air  quality conditions, they are trained to immediately retreat from the area.</p>
+        <p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April 7</strong></p>
+        <p>The City of Carlsbad and DOE will co-host its  quarterly Town Hall meeting, featuring updates on WIPP recovery activities, on  5:30 p.m., Thursday, April 7 at the Carlsbad City Council Chambers, 101 N.  Halagueno Street. Live streaming of the meeting can be seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events (Rev. 1)</a></p>
