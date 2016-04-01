@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->3/28/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->3/31/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,16 +79,16 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>March 28, 2016<br />
+        <h6 align="left"><strong>March 31, 2016<br />
             <br />
         </strong></h6>
-        <p align="center"><strong>WIPP Ends Safety Pause</strong></p>
-        <p>A safety pause, declared by Nuclear Waste  Partnership in response to air quality issues in two remote areas of the WIPP underground,  was ended and normal work in these areas has resumed. The pause began February  22 after workers detected elevated levels of carbon monoxide and volatile  organic compounds (VOC) in two areas at extreme ends of the underground. The  pause allowed time to thoroughly investigate each event while work in un-impacted  portions of the WIPP underground continued.</p>
-        <p>We are learning from operating experience and  continuing to improve our programs and processes to better protect workers,&rdquo;  said Phil Breidenbach, NWP President and Project Manager. &ldquo;We used the Safety Pause to improve our  detection and measurement procedures; increase worker training and awareness of  potential air quality issues, and develop procedures that help us recognize and  respond to potential air quality issues before they become a problem.&rdquo;</p>
-        <p>Based on the findings from the investigation,  improvements have been made to procedures and processes to help ensure that  workers entering low airflow areas with potential poor air quality continue to  be adequately protected. Emphasis on increasing ventilation to low airflow work  areas in advance of planned activities will ensure workers entering these areas  have sufficient fresh air. Additional warning signs were placed in these known  low airflow areas to reflect where continuous air monitoring and additional  ventilation is required for entry. </p>
-        <p>During the safety pause, additional training  was provided to all workers on the use of air monitoring equipment, understanding  alarm levels, and responding to alarms. </p>
-        <p>Historically, the buildup of diesel  particulates, carbon monoxide and nitrogen oxide, as well as VOCs from the  waste, have been detected in areas of the underground where there is minimal  airflow or where the air is stagnant. These areas are generally found in the  extreme north and south ends of the underground, or dead-end areas such as the  entrance to closed waste panels. The WIPP Industrial Safety monitoring  equipment alarms at a much lower level than industry guidelines to ensure a  conservative margin for personnel safety. Should workers detect elevated air  quality conditions, they are trained to immediately retreat from the area.</p>
-        <p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April 7</strong></p>
+        <p align="center"><strong>WIPP Installs Underground Personnel Notification  and Tracking System</strong></p>
+<p>A  new underground Wireless Notification and Tracking System (WNTS) has been  installed at the Waste Isolation Pilot Plant (WIPP) that allows for two-way  communication for both talk and text, audible and flashing alarms and allows  personnel to immediately signal the Central Monitoring Room (CMR) in the event  of an emergency.  It also provides real-time  tracking of all personnel entering the WIPP underground.</p>
+<p>&ldquo;I&rsquo;m  incredibly proud of this accomplishment,&rdquo; said Phil Breidenbach, Nuclear Waste  Partnership President and Project Manager. &ldquo;We have done many things to improve  safety in the WIPP underground but none are more important or impactful than  this system.&rdquo;</p>
+<p><img src="Images/WNTS.jpg" width="380" height="198" alt="Underground Notification at WIPP Improves Safety" /><em>Hard  hat icons, representing dozens of workers in the WIPP underground, appear on  one of the tracking monitors located at the WIPP facility. The hats actually move in real time as WIPP  employees travel throughout the underground facility</em>.</p>
+<p>The  wireless system works with radios, which look like a walkie-talkie, that are  clipped to each employee&rsquo;s belt.  In  addition to providing two-way communication between the underground and the  surface, the radios are equipped with an emergency alert button.  If an employee is in trouble or sees an  emergency situation, they push the button, which activates an emergency alert  that overrides all other communication.   It also signals an alarm on three separate monitors, including one in  the CMR, and identifies the employee&rsquo;s location in the underground.  </p>
+<p>Monitors  constantly update in real-time to show the location of each individual employee.  Training is currently on going and the system  will be implemented over the next few weeks. The WNTS represents another improvement  that ensures additional safety and accountability for all personnel entering  the WIPP underground.</p>
+<p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April 7</strong></p>
         <p>The City of Carlsbad and DOE will co-host its  quarterly Town Hall meeting, featuring updates on WIPP recovery activities, on  5:30 p.m., Thursday, April 7 at the Carlsbad City Council Chambers, 101 N.  Halagueno Street. Live streaming of the meeting can be seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
