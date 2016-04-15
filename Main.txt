@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->4/7/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->4/15/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,22 +79,24 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>April 7, 2016<br />
+        <h6 align="left"><strong>April 15, 2016<br />
             <br />
         </strong></h6>
-        <p align="center"><strong>DOE, State Officials Cut Ribbon for New WIPP  Emergency Operations Center</strong></p>
-<p>New Mexico Governor Susana  Martinez joined U.S. Department of Energy (DOE) officials for a ribbon cutting  ceremony to mark the completion of a new state-of-the-art Emergency Operations  Center (EOC) located in Carlsbad, NM. <br />
-          <br />
-          &ldquo;We&rsquo;re pleased to share this accomplishment  with Governor Martinez and other state and community leaders,&rdquo; said Mark  Whitney, DOE&rsquo;s Principal Deputy Assistant Secretary for Environmental  Management. &ldquo;This new EOC facility signifies our commitment to Carlsbad, the  State of New Mexico and our neighbors to operate the Waste Isolation Pilot  Plant (WIPP) in a safe manner that protects the environment.&rdquo; <br />
-          <br />
-          <img src="Images/NMgov.jpg" width="380" height="253" alt="NM Governor Susana Martinez Cuts the Ribbon in the WIPP EOC" /><em>New Mexico Governor Susana Martinez, along with other state and federal  dignitaries, cuts the ribbon for the new WIPP Emergency Operations Center.</em></p>
-<p>The off-site EOC facility  is one of many significant improvements made by the DOE to ensure that WIPP  will be able to resume waste emplacement operations safely later this year. The  facility is equipped with new technologies that allow the WIPP emergency  management organization to coordinate response actions effectively with  emergency management and responders at the WIPP site, 26 miles southeast of  Carlsbad.</p>
-        <p>EOC capabilities include:  a communication system that provides immediate notification to emergency  responders; a web-based system that allows real-time communications among  Carlsbad Field Office, WIPP, and other agencies that may be involved in an  event response; and with those assisting with emergency response planning and  resources.  The state-of-the-art facility  is also available to assist other agencies in managing emergencies, if needed. <br />
-          <br />
-          WIPP is a DOE facility  mined in an ancient salt formation 2,150 feet below the surface that is  designed to safely isolate defense-related transuranic waste from people and  the environment and began operations in 1999.</p>
-        <p>In February 2014, two  unrelated events occurred underground at WIPP resulting in the temporary  suspension of waste disposal operations. A salt haul truck caught fire on  Feb.5, followed nine days later, on Feb. 14, by a release of radiological  contamination from a waste drum that contained incompatible materials. Since  that time, WIPP has worked to recover the facility, implement corrective  actions and upgrade equipment, programs, site infrastructure and training.</p>
-        <p align="center"><strong>Next WIPP Town Hall Meeting Scheduled April 7</strong></p>
-        <p>The City of Carlsbad and DOE will co-host its  quarterly Town Hall meeting, featuring updates on WIPP recovery activities, on  5:30 p.m., Thursday, April 7 at the Carlsbad City Council Chambers, 101 N.  Halagueno Street. Live streaming of the meeting can be seen at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
+        <p align="center"><strong>WIPP Blue Mine Rescue Team Wins Local Competition</strong></p>
+        <p align="center">The Waste Isolation Pilot Plant (WIPP) Blue mine rescue team took top honors  last week in the Southwest Regional Mine Rescue Contest, held in Carlsbad, NM. The  WIPP Blue outdueled five other teams from the region, including the defending  national champion WIPP Red team, to win first place overall in the competition.  WIPP&rsquo;s Red team took first place in the first aid competition.</p>
+        <p><img src="Images/MineRescueTeam.jpg" width="380" height="253" alt="WIPP Blue Mine Rescue Team" /><strong>The winning WIPP Blue mine  rescue team competes during last week&rsquo;s Southwest Regional Mine Rescue  Competition.</strong></p>
+        <p>Federal law  requires every operating mine in the United States to have access to two mine  rescue teams. Mine rescuers are highly- trained specialists with life-saving  skills they hope they'll never need to use. In addition to rescue capabilities,  WIPP&rsquo;s Blue and Red mine rescue teams support (and are supported by) personnel  from area potash mines through Memorandums of Understanding. This ensures that  mines in the same region have access to capable, highly-trained personnel in  the event of an emergency.</p>
+        <p>Mine rescue competitions are designed  to sharpen skills and test the knowledge of team members who would be called on  to respond to a mine emergency. The contests require team members to solve  hypothetical mine emergency problems (such as fires, explosions or cave-ins)  while being timed and observed by judges from the Mine Safety and Health  Administration.</p>
+        <p>Teams are tested on knowledge of mine  gases, ventilation, first-aid, mine recovery, and fire-fighting.<br />
+          Points are deducted according to the  types and seriousness of infractions. In other words, teams are penalized more  for life-threatening mistakes than for minor procedural mistakes.</p>
+        <p>At WIPP and most other mines, mine  rescue team members consist of volunteers who report to work every day,  performing normal tasks. The teams are composed of hoisting supervisors,  mechanics, waste handlers, mining operators, and other occupations. Teams  practice and prepare for the day they are called to a real emergency. These  volunteers devote countless hours, both before and after work, honing their  skills.</p>
+        <p>In real emergencies, the lives of mine  rescue team members and their co-workers depend on the proficiency of each  individual&rsquo;s skill and training.</p>
+        <p><strong>Blue  Team: </strong>Heath  Fowler, Ed Keyser, Ty Zimmerly, Kirk Nance, Nico Dominguez, Lance Tunbow, Gary  Kessler and Manny Marquez.</p>
+        <p><strong>Red  Team: </strong>Matt  Ridgway, Mark Long, Fabian Carrasco, Matt Carnathan, Justin Bailey, Tony  Mihelic, Aaron Ballew and Kelly Burke.</p>
+        <p align="center"><strong>WIPP EOC Ribbon Cutting Video On-Line</strong></p>
+        <p>Last week WIPP celebrated  the opening of the new state-of-the-art Emergency Operations Center with a  ribbon cutting that was attended by New Mexico Governor Susana Martinez, local  dignitaries from the City and Carlsbad and Lea/Eddy County and Principal Deputy  Assistant Secretary for the Department of Energy&rsquo;s Office of Environmental  Management. Video of the ceremony is available at the following link: <a href="https://www.youtube.com/watch?v=UvfglGc4T3I&amp;feature=youtu.be">https://www.youtube.com/watch?v=UvfglGc4T3I&amp;feature=youtu.be</a>.</p>
+        <p align="center"><strong>April 7 WIPP Town Hall Meeting Available  On-Line</strong></p>
+The April 7 WIPP Town  Hall Meeting is now available on-line at: <a href="http://livestream.com/rrv/events/5145942">http://livestream.com/rrv/events/5145942.</a></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events (Rev. 1)</a></p>
