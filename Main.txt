@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->5/24/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->6/14/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -95,10 +95,8 @@ body {
 <p>&nbsp;</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
-        <p><a href="../Special/DSA Rev. 5 Chapters 0-2.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
-        </a><a href="../Special/DSA Rev. 5 Chapters 0-2.pdf" target="_blank">Rev. 5b Chapters 0-2</a></p>
-        <p><a href="../Special/DSA Rev.5 Chapters 3-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
-          Rev. 5b Chapters 3-18</a></p>
+        <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
+          Rev. 5b Chapters 0-18</a></p>
         <p><a href="../Special/DSA_TSRs.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
         <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for<br />
           Documented Safety Analysis, Rev. 5b </a> </p>
