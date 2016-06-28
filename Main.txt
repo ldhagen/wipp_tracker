@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->6/22/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->6/28/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,24 +79,53 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>June 22, 2016<br /></strong></h6>
-        <p align="center"><strong><br />
-          Prestart Activities Continue  at WIPP</strong></p>
-        <p>Prestart  activities are continuing at the Waste Isolation Pilot  Plant (WIPP) as employees verify and validate operating procedures in  preparation for resuming transuranic waste emplacement operations at WIPP. On  June 1 WIPP workers began the phase of prestart activities referred to as Cold  Operations. Cold Operations includes verifying adequacy of procedures and  equipment operability; and allows operators to regain proficiency with both. These  activities are all conducted in a controlled environment using simulated waste  containers. </p>
-        <p><img src="Images/Prestart_Activities.jpg" width="380" height="253" alt="Prestart Activities at WIPP" /><em>WIPP waste handling personnel review a procedure as  part of prestart activities at WIPP</em>.</p>
-        <p>The daily operations or &ldquo;evolutions&rdquo; start with  the basic tasks and increase in complexity until the entire procedure or  process has been completed.  The idea is  to implement and practice all procedures and ensure they can be easily  understood and accurately followed as written. Waste handling personnel are  working through all the procedures, performing pre-operational checks on  equipment and have begun practice loading and unloading TRUPACT-II shipping  casks. Cold Operations is expected to last through the end of July or until all  activities can be performed safely and efficiently. </p>
-        <p align="center"><strong>WIPP Red  Team Wins Northern Regional Mine Rescue Competition</strong></p>
-        <p>The WIPP Red Team (mine rescue)  took top honors last week at the Northern Regional Mine Rescue Contest, in  Clymer, New York. The WIPP Red team outdueled eight other teams from the  region, to win first place overall in the competition. WIPP&rsquo;s Red team took  first place in the first aid competition, first in the trainer competition,  first in the technical competition and third in the field competition on their  way to the overall first place win.  &ldquo;We  are very proud of both mine rescue teams,&rdquo; said Phil Breidenbach, NWP President  and Project Manager.  &ldquo;These men and  women put in countless hours training to perfect their skills so they are ready  to respond if needed.&rdquo;</p>
-        <p>Federal law requires every  operating mine in the United States to have access to two mine rescue teams.  Mine rescuers are highly trained specialists with life-saving skills they hope  they'll never need to use. In addition to rescue capabilities, WIPP&rsquo;s Blue and  Red mine rescue teams support (and are supported by) personnel from area potash  mines through Memorandums of Understanding. This ensures that mines in the same  region have access to capable, highly trained personnel in the event of an  emergency.<br />
+        <h6 align="left"><strong>June 28, 2016<br /></strong></h6>
+        <p align="center"><strong><br /></strong>The U.S.  Department of Energy Carlsbad Field Office and Nuclear Waste Partnership LLC  (Permittees) will conduct two public meetings on Tuesday, June 28, and  Thursday, June 30, 2016.</p>
+        <table width="367" border="0" cellspacing="1" cellpadding="1">
+          <tr>
+            <td width="180" scope="col"><p>Tuesday,  June 28, 2016<br />
+              3:00 to 5:00 P.M<br />
+              Courtyard by Marriott<br />
+              3347 Cerrillos Road<br />
+              Santa Fe, New Mexico            </p></td>
+            <td width="180" scope="col"><p>Thursday,  June 30, 2016<br />
+  5:00 to 7:00 P.M<br />
+  Skeen-Whitlock Building<br />
+  4021 National Parks Highway<br />
+Carlsbad, New Mexico  </p></td>
+          </tr>
+      </table>
+        <p> The purpose of the meetings is to  provide information to the public on a proposed request to modify the Waste  Isolation Pilot Plant (WIPP) Hazardous Waste Facility Permit. The Class 2  Permit Modification Request was submitted by the Permittees to the New Mexico  Environment Department on June 3, 2016. The permit  modification request proposes to:</p>
+        <ul>
+          <li>
+            <p>Provide the Permittees the ability to  implement alternative measures in situations where the active room ventilation  rate cannot be met. These alternative measures would continue to ensure the  safety of the personnel performing these operations. </p>
+          </li>
+          <li>
+            <p>Provide the Permittees the ability to  propose an alternative remedial action plan to the Secretary in lieu of closing  the active room if the requirements of Permit Part 4, Section 4.6.3.3., cannot  be met.</p>
+          </li>
+          <li>
+            <p>Simplify the Resource Conservation  and Recovery Act (RCRA) Contingency Plan implementation criteria.</p>
+          </li>
+          <li>
+            <p>Remove the minimum air velocity value  in Attachment A2.</p>
+          </li>
+          <li>
+            <p>Address the new WIPP Fire Department.</p>
+          </li>
+          <li>
+            <p>Revise and update the Resource  Conservation and Recovery Act Contingency Plan.</p>
+          </li>
+          <li>
+            <p>Revise emergency response personnel  job titles/descriptions and training.</p>
+          </li>
+          <li>
+            <p>Make editorial changes.</p>
+          </li>
+      </ul>
+        <p>The Class 2  Permit Modification Request package and public notice is available on the WIPP  web site at <a href="http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm</a>. For more information, contact  Bobby St. John at 1-800-336-9477.   <br />
           <br />
-          Mine rescue competitions are  designed to sharpen skills and test the knowledge of team members who would be  called on to respond to a mine emergency. The contests require team members to  solve hypothetical mine emergency problems (such as fires, explosions or  cave-ins) while being timed and observed by judges from the Mine Safety and  Health Administration. Both Red and Blue Teams from WIPP will be competing in  the upcoming national metal/nonmetal mine competition July 25-28 in Reno,  Nevada.  <br />
-          <br />
-  <strong>Carswell to Lead National  TRU Program</strong></p>
-        <p><img src="Carswell.png" alt="Jeff Carswell" style="float:left" hspace="5" width="130" height="162" />Senior  Nuclear Safety Specialist Jeff Carswell was recently appointed as the acting  National Transuranic (TRU) Program (NTP) Recovery Manager.  &ldquo;Jeff  will be responsible for coordinating all of  the activities of the National TRU Program,   Quality Assurance, and other Carlsbad Field Office and contractor  organizations responsible for ensuring we are able to ship and receive waste  once WIPP re-opens&ldquo;, said Carlsbad Field Office Manager Todd Shrader. &ldquo;I am  pleased that Jeff has accepted this position and look forward to his help in  moving the NTP program forward&rdquo;. Carswell recently completed the WIPP  Documented Safety Analysis process that established the safety envelope for all  operations at WIPP and outlines Waste Acceptance Criteria. <br />
-          <br />
-  <strong>Tentative  Date for Next WIPP Town Hall Meeting - August 4</strong></p>
-        <p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP recovery and restart activities. The next  meeting is tentatively scheduled for Thursday, August 4 at 5:30 p.m. Location:  Carlsbad City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall  Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>. </p>
-<p>&nbsp;</p></td>
+          <strong>Tentative  Date for Next WIPP Town Hall Meeting - August 4</strong></p>
+        <p>The City of  Carlsbad and DOE co-host Town Hall meetings to provide updates on WIPP recovery  and restart activities. The next meeting is tentatively scheduled for Thursday,  August 4 at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N.  Halagueno Street. WIPP Town Hall Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
