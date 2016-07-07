@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->6/30/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->7/6/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,17 +79,17 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>June 30, 2016<br /></strong></h6>
-        <p align="center"><strong><br /></strong><strong>New Waste Acceptance Criteria Released</strong></p>
-        <p>On June 27 the Carlsbad Field Office (CBFO)  issued the revised Waste Acceptance Criteria (WAC) for the Waste Isolation  Pilot Plant (WIPP) to transuranic (TRU) waste generator site programs across  the DOE complex. Changes in WAC criteria for WIPP are being made in response to  findings of the Accident Investigation Board&rsquo;s report on the radiological release  at WIPP in February 2014.</p>
-        <p>The WAC Revision 8 goes into effect on July  5 and TRU waste generator site programs will temporarily suspend certification  of TRU waste, pending a determination that they comply with the revised WIPP  WAC. DOE is also implementing Environmental Protection Agency standards for  hazardous waste determination to evaluate and identify appropriate treatment  for waste containing oxidizers.<br />
+        <h6 align="left"><strong>July 6, 2016<br /></strong></h6>
+        <p align="center"><strong><br /></strong><strong>Annual Exercise Tests WIPP Emergency  Response Capabilities</strong></p>
+        <p>The Waste Isolation Pilot Plant (WIPP) recently held its annual  full-scale exercise to demonstrate employees&rsquo; overall capability to recognize,  respond, and mitigate any emergency situation that might occur at WIPP. </p>
+        <p>On June 22,  more than 100 external evaluators assessed the performance of WIPP Safety  Management Programs at the day-long exercise, including a simulated underground  fire and radiological release. Participants were evaluated on their ability to  follow and implement plans and procedures and their overall response to  simulated events. Post-exercise critiques identified activities that went well  and areas where there are opportunities for improvement.<br />
           <br />
-          This new WAC also requires that TRU waste  generator sites and WIPP-certified programs will undergo a Generator Site  Technical Review and Quality Assurance audit. This audit will ensure that waste  packaging, treatment and certification activities are performed under adequate  controls and that waste is accurately determined and documented before certification  and subsequent shipment to WIPP.<br />
-          <br />
-          All previously  certified waste containers not currently disposed at WIPP will need to be  validated to ensure the revised requirements are met prior to shipment to WIPP.  Some wastes may need to be treated and repackaged prior to shipment to WIPP but  it will take the Department several months to determine which, if any, wastes  may be impacted.</p>
-        <p>There are  currently approximately 1000 drums across the country that meet this new  standard. Although some waste may need to be retreated and repackaged, we do  not anticipate that this will affect the reopening of WIPP.</p>
-        <p align="center"><strong>Next  WIPP Town Hall Meeting - August 4</strong></p>
-        <p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP recovery and restart activities. The next  meeting is scheduled for Thursday, August 4 at 5:30 p.m. Location: Carlsbad  City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall Meetings are  live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>. </p></td>
+          <a href="Images/MRT 7_5_16.jpg"><img src="Images/MRT 7_5_16 SM.jpg" width="380" height="253" alt="WIPP mine rescue members simulate rescuing two underground workers" /></a><strong>Several members of the WIPP  Mine Rescue Team simulate rescuing two injured underground workers during last  week&rsquo;s emergency exercise.</strong></p>
+        <p>The exercise  required the activation of the WIPP Emergency Operations Center (EOC) and Joint  Information Center (JIC), and included involvement of WIPP&rsquo;s emergency  responders in the field and various offsite agencies, allowing these  organizations an opportunity to work together on a coordinated response.</p>
+        <p>Participating  organizations included the DOE Headquarters Emergency Management Team, National  Atmospheric Release Advisory Center, DOE Region IV Radiological Assistance  Program Team (support request), New Mexico Department of Homeland Security and  Emergency Management State EOC, Mine Safety and Health Administration, New  Mexico State Mine EOC, Regional Emergency Dispatch Authority, Eddy County EOC and  Office of Emergency Management, Lea County EOC and Office of Emergency  Management, Carlsbad Fire Department, and Carlsbad Medical Center. Argonne  National Laboratory&rsquo;s Center for Integrated Emergency Preparedness provided  support for the Joint Information Center, including simulated media interest. </p>
+        <p>Many  significant improvements have been made to the Emergency Response Organization  to ensure that WIPP will be able to safely resume waste emplacement operations  later this year. Improvements include the new, state-of-the art EOC facility in  Carlsbad, which was utilized during this exercise. An official After Action  Report will be developed in the next few weeks that will highlight the  strengths and areas for improvement in the WIPP response, as observed during  the exercise, and recommend corrective actions for additional improvements.</p>
+        <p align="center"><strong>Date for Next WIPP Town Hall Meeting - August  4</strong></p>
+The City of Carlsbad and  DOE co-host Town Hall meetings to provide updates on WIPP restart activities.  The next meeting is scheduled for Thursday, August 4 at 5:30 p.m. Location:  Carlsbad City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall  Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.<strong> </strong></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
