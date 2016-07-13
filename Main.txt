@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->7/11/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->7/13/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -91,7 +91,7 @@ body {
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
           Rev. 5b Chapters 0-18</a></p>
-        <p><a href="../Special/DSA_TSRs.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
+        <p><a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
         <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for<br />
           Documented Safety Analysis, Rev. 5b </a> </p>
         <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events (Rev. 1)</a></p>
