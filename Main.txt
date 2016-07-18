@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->7/13/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->7/18/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,14 +79,26 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>July 11, 2016<br /></strong></h6>
+        <h6 align="left"><strong>July 15, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        IN MEMORIAM: Dr. Abraham  (Abe) Van Luik (1944-2016)</strong></p>
-        <p>The Carlsbad Field  Office (CBFO) workforce is saddened by the recent loss of Dr. Abraham (Abe) Van  Luik. Abe was a key member of the CBFO team and was well respected at DOE and  in the international community. </p>
-        <p><img src="Images/Van Luik.jpg" style="float:right" hspace="5" width="160" height="200" alt="Van Luik" />          Abe  led the CBFO International Repository Science Program. His work included  contributions to coordinated research and sharing of results through bilateral  and multilateral cooperation. Interacting with several international  organizations, he supported the DOE Office of Environmental Management and  Nuclear Energy radioactive waste management program plans and international  exchanges for developing and operating geological repositories. </p>
-        <p>Abe always had a  word of wisdom to pass on, and he brought balance and scientific integrity to  those navigating the world of scientific programs. He constantly encouraged  WIPP to keep a high profile on the international stage. He would often say  &ldquo;what happens there, happens here&rdquo; about anything nuclear.&nbsp;He believed  that whenever we can do something that contributes to other nations doing  something safely, we are helping the world be a safer place.&nbsp;Abe made many  international contributions to the subject of the safety case for deep geologic  repositories, especially for the Radioactive Waste Management Committee of the  Nuclear Energy Agency and the International Atomic Energy Agency. </p>
-        <p>Prior  to arriving at WIPP in 2010, he worked 11 years in federal service for the  Office of Civilian Radioactive Waste Management in Nevada, as a Senior Policy  Advisor for the Yucca Mountain Project.   He also held a variety of contractor positions within the DOE complex,  including Performance Assessment manager for TRW at the Yucca Mountain Project  in Nevada; Manager of International Technical Support Programs at the Pacific  Northwest National Laboratory; and Weston Technical Support Staff and  Crystalline Rock Repository program manager at Argonne National Laboratory. He  began his association with DOE at Rockwell Hanford Operations in 1978, planning  and investigating characteristics of legacy radioactive waste disposal  facilities.</p>
-        <p>&ldquo;Dr. Van Luik  represented the Department in several international scientific communities and  is known for his dedication to sharing the science of salt as a geological  repository and work on how these repositories will be marked in the future. His  many contributions to the Department and CBFO, along with his sense of humor  and quick wit, will be missed. We extend our sympathy to his family and many  friends,&rdquo; said CBFO Manager Todd Shrader.<strong> </strong></p></td>
+        </strong><strong>Status Update on WIPP Restart</strong></p>
+        <p>Workers at the Waste Isolation Pilot Plant  (WIPP) are now well into the second month of Cold Operations at the facility,  and while significant progress has been made, much remains to be accomplished  in order to meet the December 2016 projected timeframe for restarting  transuranic waste operations. In addition to Cold Operations, Carlsbad Field Office (CBFO)  and Nuclear Waste Partnership (NWP) program managers are focused on a number of  activities necessary to ensure the safety of workers at the site, including  ground control objectives (bolting); completion of readiness and testing  activities necessary for the Interim Ventilation System (IVS) to become  operational; and repairs and upgrades to fire suppression systems, both on  vehicles and in the underground, that will be required for restart.  </p>
+        <p>&ldquo;We are working to restart in December,&rdquo;  said CBFO Manager Todd Shrader, &ldquo;but admittedly the schedule is tight. The completion and implementation of the Documented  Safety Analysis (DSA) was a critical prerequisite to many of our other restart  activities, and being the first DSA developed under the new DOE standard  DOE-STD-3009-2014, it required us to use a considerable amount of our schedule  contingency. That said, it was absolutely necessary as part of our restart  activities.&rdquo;</p>
+<p>Late  last week, Secretary Moniz directed the Carlsbad Field Office to reevaluate the  critical path schedule for reopening WIPP and emphasized that safety is  paramount.</p>
+<p>The second hybrid bolter and an additional  mining crew are expected to address outstanding ground control issues, and the  IVS is now expected to be operational in August. Subcontractors are on site performing tests on  existing fire protection systems and installing automatic fire suppression  systems on vehicles used in the underground. </p>
+<p>DOE and NWP are working to determine the  safest and most efficient path to re-open WIPP as soon as practicable. &ldquo;We have  always said we would only reopen when it was safe to do so&rdquo; said Shrader. &ldquo;Our  position has not changed.&rdquo;</p>
+<table width="380" border="0">
+  <tr>
+    <td width="210"><img src="Images/Cold Ops.jpg" style="float:right" hspace="5" width="200" height="160" alt="Cold Ops" /></td>
+    <td width="160"><p>Waste Handling 
+      and Radiological Control  personnel discuss a waste handling procedure during a recent Cold Operations  training evolution.</p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p align="center"><strong>Next WIPP Town Hall Meeting - August 4</strong></p>
+<p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP recovery and restart activities. The next  meeting is scheduled for Thursday, August 4 at 5:30 p.m. Location: Carlsbad  City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall Meetings are  live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.<br />
+  <strong>                                                                                                                                                                                             </strong></p>
+<p>&nbsp;</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
