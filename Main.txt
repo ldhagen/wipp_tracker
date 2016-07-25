@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->7/18/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->7/22/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,19 +79,16 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>July 15, 2016<br /></strong></h6>
+        <h6 align="left"><strong>July 22, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>Status Update on WIPP Restart</strong></p>
-        <p>Workers at the Waste Isolation Pilot Plant  (WIPP) are now well into the second month of Cold Operations at the facility,  and while significant progress has been made, much remains to be accomplished  in order to meet the December 2016 projected timeframe for restarting  transuranic waste operations. In addition to Cold Operations, Carlsbad Field Office (CBFO)  and Nuclear Waste Partnership (NWP) program managers are focused on a number of  activities necessary to ensure the safety of workers at the site, including  ground control objectives (bolting); completion of readiness and testing  activities necessary for the Interim Ventilation System (IVS) to become  operational; and repairs and upgrades to fire suppression systems, both on  vehicles and in the underground, that will be required for restart.  </p>
-        <p>&ldquo;We are working to restart in December,&rdquo;  said CBFO Manager Todd Shrader, &ldquo;but admittedly the schedule is tight. The completion and implementation of the Documented  Safety Analysis (DSA) was a critical prerequisite to many of our other restart  activities, and being the first DSA developed under the new DOE standard  DOE-STD-3009-2014, it required us to use a considerable amount of our schedule  contingency. That said, it was absolutely necessary as part of our restart  activities.&rdquo;</p>
-<p>Late  last week, Secretary Moniz directed the Carlsbad Field Office to reevaluate the  critical path schedule for reopening WIPP and emphasized that safety is  paramount.</p>
-<p>The second hybrid bolter and an additional  mining crew are expected to address outstanding ground control issues, and the  IVS is now expected to be operational in August. Subcontractors are on site performing tests on  existing fire protection systems and installing automatic fire suppression  systems on vehicles used in the underground. </p>
-<p>DOE and NWP are working to determine the  safest and most efficient path to re-open WIPP as soon as practicable. &ldquo;We have  always said we would only reopen when it was safe to do so&rdquo; said Shrader. &ldquo;Our  position has not changed.&rdquo;</p>
+        </strong><strong>Backup Power Installed for WIPP EOC</strong></p>
+        <p>The Waste Isolation Pilot Plant&rsquo;s (WIPP) Emergency Operations Center  (EOC) will soon have guaranteed operation in the event of a power outage. A  1,250-kilowatt diesel generator is being installed at the Skeen-Whitlock  Building, the location of the EOC. The generator is designed to automatically start  when a disruption in power is detected. While the primary purpose of the  generator is to ensure emergency response capabilities for the EOC in the event  of a power loss, the generator will also power the entire building. It will  allow the building to function as normal, including heating and cooling. WIPP  continues to focus on improving emergency response capabilities, to protect  employees, human health and the environment.</p>
+        <p>The  new EOC was recently constructed at the Skeen-Whitlock Building, located within  the city of Carlsbad, NM.  Approximately  4,000 square feet of the building was remodeled to accommodate the necessary  changes in order to install the state-of-the-art communications facility. The physical  changes include a primary EOC area, Emergency Management Support area and  several contingency rooms. Other key upgrades include a number of software  enhancements, installation of numerous computers, wall-mounted monitors and  interactive boards.</p>
 <table width="380" border="0">
   <tr>
-    <td width="210"><img src="Images/Cold Ops.jpg" style="float:right" hspace="5" width="200" height="160" alt="Cold Ops" /></td>
-    <td width="160"><p>Waste Handling 
-      and Radiological Control  personnel discuss a waste handling procedure during a recent Cold Operations  training evolution.</p></td>
+    <td width="210"><img src="Images/Generator.jpg" width="214" height="250" alt="Generator" /></td>
+    <td width="160"><p>A section of  the generator <br />
+      is placed and aligned for installation. </p></td>
   </tr>
 </table>
 <p>&nbsp;</p>
