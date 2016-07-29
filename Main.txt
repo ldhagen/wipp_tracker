@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->7/22/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->7/28/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,16 +79,18 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>July 22, 2016<br /></strong></h6>
+        <h6 align="left"><strong>July 28, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>Backup Power Installed for WIPP EOC</strong></p>
-        <p>The Waste Isolation Pilot Plant&rsquo;s (WIPP) Emergency Operations Center  (EOC) will soon have guaranteed operation in the event of a power outage. A  1,250-kilowatt diesel generator is being installed at the Skeen-Whitlock  Building, the location of the EOC. The generator is designed to automatically start  when a disruption in power is detected. While the primary purpose of the  generator is to ensure emergency response capabilities for the EOC in the event  of a power loss, the generator will also power the entire building. It will  allow the building to function as normal, including heating and cooling. WIPP  continues to focus on improving emergency response capabilities, to protect  employees, human health and the environment.</p>
-        <p>The  new EOC was recently constructed at the Skeen-Whitlock Building, located within  the city of Carlsbad, NM.  Approximately  4,000 square feet of the building was remodeled to accommodate the necessary  changes in order to install the state-of-the-art communications facility. The physical  changes include a primary EOC area, Emergency Management Support area and  several contingency rooms. Other key upgrades include a number of software  enhancements, installation of numerous computers, wall-mounted monitors and  interactive boards.</p>
+        </strong><strong>WIPP Begins Preliminary Work on New  Permanent Ventilation System </strong></p>
+<p>Preliminary work has begun to determine the feasibility of  constructing a new Permanent Ventilation System (PVS) that will include a new  filter building and a new exhaust shaft at the Waste Isolation Pilot Plant  (WIPP). Activities include drilling multiple boreholes and the collection of  core samples at various depths. Data collected from the drilling/coring  activity will provide information for the building design team on geologic support  capacity, seismic design parameters and building foundation design requirements.</p>
+<p>The design for the new PVS will include a new unfiltered exhaust shaft  and a 55,000-square- foot ventilation building installed east of the existing  ventilation system. The new ventilation building will replace the existing exhaust  system, which filters air exiting the underground through high-efficiency  particulate air (HEPA) filters.</p>
+<p>The PVS ventilation building will use the existing air exhaust shaft and  provide a modern safety- significant confinement ventilation system, with an  exhaust capacity up to 540,000 cubic feet per minute. The new ventilation  building will contain 22 separate HEPA filters banks to filter the exhaust air  exiting the underground.</p>
+<p>The new unfiltered exhaust shaft, the second part of the PVS, will enable  a dual airflow circuit in the WIPP underground. The two elements of the PVS  will allow concurrent waste emplacement, maintenance, bolting activities and  mining operations with the separate airflow circuits. Separate airflow circuits  are necessary because salt dust from mining operations will otherwise clog the HEPA  filters.  </p>
+<p>Due to the current limited airflow conditions in the WIPP underground,  waste emplacement and mining activities will need to be conducted separately  when operations resume. All exhaust air is filtered because certain areas of  the WIPP underground remain contaminated as a result of the radiological event of  February 2014.</p>
 <table width="380" border="0">
   <tr>
-    <td width="210"><img src="Images/Generator.jpg" width="214" height="250" alt="Generator" /></td>
-    <td width="160"><p>A section of  the generator <br />
-      is placed and aligned for installation. </p></td>
+    <td width="210"><img src="Images/Boreholes.jpg" width="200" height="160" alt="Boreholes" /></td>
+    <td width="160"><p>Subcontractors  prepare to begin borehole drilling in support of constructing a new Permanent  Ventilation System at WIPP.</p></td>
   </tr>
 </table>
 <p>&nbsp;</p>
