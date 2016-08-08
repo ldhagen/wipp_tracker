@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->7/29/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->8/8/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -110,21 +110,22 @@ body {
 <p>&nbsp;</p></td>
       <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
-        <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, <br />
+        <p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
+        <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
           Rev. 5b Chapters 0-18</a></p>
         <p><a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
-        <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for<br />
+        <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for 
           Documented Safety Analysis, Rev. 5b </a> </p>
-        <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events (Rev. 1)</a></p>
+        <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events, Rev. 1</a></p>
         <p><a href="../Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="NWP CAP Plan" width="17" height="17" /> NWP Corrective Action Addendum for Radiological Release Event</a><br />
         </p>
-        <p><a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the February 14 Radiological Event</a></p>
+        <p><a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the Feb. 14 Radiological Event</a></p>
         <p><a href="../Special/Phase_2_AIB_Slides.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Investigation Summary Slides</a></p>
-        <p><a href="../Special/AIB Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the February 5 Fire<br />
+        <p><a href="../Special/AIB Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the Feb. 5 Fire<br />
           <br />
           </a><a href="../Special/AIB Summary.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Investigation Summary Slides<br />
             </a><br />
-          <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the February 14
+          <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the Feb. 14
             Radiological Event</a><br />
   <br />
           <a href="../Special/AIB_Rad_Report_Presentation.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Investigation Summary Slides</a><br />
