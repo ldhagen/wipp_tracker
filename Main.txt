@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->8/11/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->10/3/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -51,9 +51,9 @@ body {
 
 </DIV>
 <DIV id=content>
-  <table width="654" border="0" cellpadding="7">
+  <table width="658" border="0" cellpadding="7">
     <tr>
-      <td width="388" rowspan="2" align="left" valign="top">
+      <td width="386" rowspan="2" align="left" valign="top">
       <div id="slides">
     	<div>
     		<img src="Images/Slideshow/10_2/SVS.jpg">
@@ -79,36 +79,28 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>July 29, 2016<br /></strong></h6>
+        <h6 align="left"><strong>October 3, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>WIPP Mine Rescue Team Wins Field Competition at National  Championship</strong></p>
-<table width="380" border="0">
-  <tr>
-    <td><img src="Images/Blue Team.jpg" width="380" height="285" alt="Blue Team" /></td>
-  </tr>
-  <tr>
-    <td><em>The WIPP Blue Mine Rescue Team  poses with their national championship trophy in the field competition.  Pictured are (front row, left to right) Ty Zimmerly, Kirk Nance, Heath Fowler,  Richard (Stik) West and Phil Breidenbach, NWP President and Project Manager.  (Back row) Kenny Padilla, DOE Carlsbad Field Office Mine Operations Manager, Ed  Kyser, Manny Marquez, Nico Dominguez, Chris Dominguez, Lance Turnbow, Gary  Kessler and David Stuhan, NWP Emergency Operations and Security Manager. </em></td>
-  </tr>
-</table>
-<p align="center">&nbsp;</p>
-<p align="center">The  Waste Isolation Pilot Plant (WIPP) Blue Mine Rescue Team captured top honors in  the field competition at the Metal/Non-Metal National Mine Rescue Championship,  topping 36 teams from 18 states, spanning from Alaska to Georgia, who were  competing this week in Reno, Nevada. Newmont Mining Corporation from Carlin,  Nevada, edged out WIPP for the overall national championship.</p>
-<p align="center">&ldquo;I  couldn&rsquo;t be prouder of the professionals we call the WIPP Mine Rescue Team,&rdquo;  said Phil Breidenbach, President and Project Manager of Nuclear Waste  Partnership, the management and operating contractor whose employees  represented WIPP at the national competition. &ldquo;After watching the competition  and seeing our employees&rsquo; passion, it makes me proud to be associated with  them. Every person at WIPP can rest assured that we work with the best mine  rescue teams in the nation.&rdquo;</p>
-<p align="left">The Blue Team was  led by Team Captain Heath Fowler. He recently took over team captain duties  from Gary Kessler, who was inducted into  the Metal/Non-Metal National Mine Rescue Hall of Fame two years ago. The Mine  Safety and Health Administration (MSHA) established the Hall of Fame to honor  individuals who through their accomplishments and commitment stand out as  exceptional in the field of mine rescue.</p>
-<p align="left">The Blue Team also finished fourth in the team  technician competition, which assesses the ability of two technicians to ensure  the multi-gas and self-contained breathing apparatuses are in proper working  condition.</p>
-<p align="left">WIPP&rsquo;s Red Mine Rescue Team, which also  participated in the national championship, placed sixth in the first aid  competition, which requires individuals to deal with medical emergency  techniques.</p>
-<p align="left">The National Mine Rescue Championship is held  every other year. Teams are tested on knowledge of mine gases, ventilation,  first-aid, miner recovery, and firefighting. Points are deducted according to  the types and seriousness of infractions. In other words, teams are penalized  more for life-threatening mistakes than for minor procedural mistakes. </p>
-<p>Federal law  requires every operating mine in the United States to have access to two mine  rescue teams. Mine rescuers are highly-trained specialists with life-saving  skills they hope they'll never need to use. In addition to rescue capabilities,  WIPP&rsquo;s Blue and Red mine rescue teams support (and are supported by) personnel  from area potash mines through Memorandums of Understanding. This ensures that  mines in the same region have access to capable, highly-trained teams in the  event of an emergency.</p>
-<p>Mine rescue competitions are designed  to sharpen skills and test the knowledge of team members in a mine emergency.  The contests require team members to solve hypothetical mine emergency problems,  such as fires, explosions or cave-ins, while being timed and observed by judges  from the Mine Safety and Health Administration.</p>
-<p>At WIPP and most other mines, mine  rescue team members consist of volunteers who report to work every day,  performing normal tasks. The teams are composed of hoisting supervisors,  mechanics, waste handlers, mining operators, and other occupations. Teams  practice and prepare for the day they are called to a real emergency. These  volunteers devote countless hours, both before and after work, honing their  skills.</p>
-<p align="left">Mine rescue teams participate in several  competitions each year to sharpen their skills, share lessons learned and  continually raise the level of mine safety in the world. In real emergencies,  the lives of mine rescue team members and their coworkers depend on the  proficiency of each individual&rsquo;s skill and training.</p>
-<p align="left"><strong><em>Blue Team: </em></strong><em>Heath Fowler, Ed Keyser, Ty  Zimmerly, Kirk Nance, Nico Dominguez, Lance Tunbow, Gary Kessler, Manny Marquez  and Richard (Stik) West (trainer).</em></p>
-<p><strong><em>Red Team: </em></strong><em>Matt Ridgway, Mark Long, Fabian  Carrasco, Matt Carnathan, Justin Bailey, Tony Mihelic, Aaron Ballew, Kelly  Burke and Richard (Stik) West (trainer).</em></p>
-<p>&nbsp;</p>
-<p><strong>Next WIPP Town Hall Meeting - August 4</strong></p>
-<p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP recovery and restart activities. The next  meeting is scheduled for Thursday, August 4 at 5:30 p.m. Location: Carlsbad  City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall Meetings are  live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.<br />
-  <strong>                                                                                                                                                                                             </strong></p>
-<p>&nbsp;</p></td>
-      <td width="232" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
+        </strong><strong>Ground Control Review Underway Following Rock Fall</strong></p>
+        <p align="center">          On  Tuesday, Sept. 27, salt rock debris was discovered by ground control crews  during routine monitoring and inspections of the Panel 4 entrance within the  WIPP underground. Panel 4, one of the most southern portions of WIPP, was  closed in 2010 and consists of seven disposal rooms filled with transuranic (TRU)  waste. No WIPP personnel were present at the time of the salt rock fall, as the  area had already been under restricted access -- requiring management approval  to access -- since March 2016. Recently, access was more strictly prohibited --  no personnel entry allowed -- since Sept. 21, when geotechnical engineers  discovered that a temporary closure bulkhead in Panel 4 was bulging from  pressure exerted from natural movement of the salt. </p>
+<p>Since  Panel 4 access drifts were closed in 2010, in accordance with procedures  approved by the New Mexico Environmental Department, an internal review post-  rock fall indicated that no personnel have been in the entrance of the panel  for over six months.</p>
+<p>The  deformation of bulkheads, like the entrance to Panel 4, is due to natural &ldquo;salt  creep&rdquo; -- which is one of the reasons that salt is the chosen disposal medium  for TRU waste. This salt rock fall occurred in the access drift near a filled  and closed panel, well away from the area where waste emplacement operations  will take place.&nbsp;Nuclear Waste Partnership (NWP) is working closely with  the workforce and their geotechnical experts to identify any additional areas  of the underground that may need to be closed because of ground control  concerns.&nbsp; </p>
+<p>WIPP&rsquo;s  ground control team is responsible for monitoring the movement of the salt in  open areas of the mine. Ground control is one of the highest priority operations  to ensure the safety of the WIPP workforce. The area where the rock fall  occurred had already been restricted to worker access due to previous findings. <br />
+  <br />
+  Certain  underground areas at the south end of the mined areas have been restricted, and  only geotechnical experts performing ground control inspections can enter with  authorization from NWP senior management. This event occurred far from currently  planned waste emplacement operations and is not  expected to affect the resumption of waste emplacement activities.</p>
+<p align="center"><strong>Contractor  Operational Readiness Review Begins</strong></p>
+<p>October  3 marks the beginning of the Contractor Operational Readiness Review (CORR).  Having successfully started up the new Interim Ventilation System and closed  out all of the pre-start findings from the Management Self-Assessment (MSA) and  the CORR Plan of Action pre-requisites, NWP held their kickoff meeting earlier  today. Last week, NWP completed the remaining pre-start activities, including a  successful demonstration of waste emplacement in the underground using full  personal protective equipment. </p>
+<p>NWP is utilizing a  team of independent subject matter experts to conduct the CORR, which focuses  on the following: </p>
+<ul>
+  <li>Implementation of all  corrective actions associated with the Accident Investigation Board;</li>
+  <li>Implementation of the  Safety Management Program corrective actions; and</li>
+  <li>Ensuring the plant, people  and processes are ready for safe and compliant resumption of waste emplacement  activities.</li>
+</ul>
+<p>&ldquo;Think of it this  way,&rdquo; said Phil Breidenbach, NWP President and Project Manager, &ldquo;the Management  Self-Assessment was like a chapter test, the CORR is the mid-term exam, and the  Department of Energy Operational Readiness Review (DOE ORR) will be the final  exam. I&rsquo;m very proud of our workforce.&rdquo;</p>
+<p align="center"><strong>Next WIPP Town Hall Meeting – Nov. 3, 2016</strong></p>
+<p>The City of Carlsbad and DOE co-host  Town Hall Meetings to provide updates on WIPP restart activities. The next meeting  is tentatively scheduled for 5:30 p.m. Thursday, Nov. 3. Location: Carlsbad  City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall Meetings are  live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.<strong>                                                         </strong><br />
+</p></td>
+      <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
