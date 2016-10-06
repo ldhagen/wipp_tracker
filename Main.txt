@@ -86,6 +86,8 @@ body {
         <p>Ground  control and bulkhead inspections are conducted to meet Mine Safety and Health  Administration (MSHA) standards and are required by the New Mexico Environment  Department (NMED) Hazardous Waste Facility Permit. Inspections are performed on  a weekly basis in order to ensure worker safety; visual observations of access  drifts and bulkheads are made from outside of the prohibited areas. The fact  that WIPP salt naturally and continuously closes in on open spaces is why it  was selected for a waste repository. Rock falls in areas designated as  &ldquo;prohibited areas&rdquo; do not represent a safety issue or violation of regulatory  standards for safety.</p>
         <p>Nuclear  Waste Partnership (NWP) and the Carlsbad Field Office (CBFO) are working  closely with the workforce and their geotechnical experts to continue to  identify areas of the underground that may need to be closed because of ground  control concerns.</p>
         <p>A  town hall meeting on ground control is planned for Thursday, October 13, at  5:30 pm at the Carlsbad City Council Chambers, 101 N. Halagueno Street. Subject  matter experts from NWP and CBFO will be on hand to provide information and  answer questions relative to ground control status at WIPP. </p>
+        <p><img src="Images/Panel 3 Rock Fall.jpg" width="380" height="246" alt="Panel 3" /></p>
+        <p>&nbsp;</p>
         <strong>                              </strong><br /></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
