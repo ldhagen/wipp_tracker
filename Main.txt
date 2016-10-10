@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->10/5/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->10/7/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,14 +79,23 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>October 5, 2016<br /></strong></h6>
+        <h6 align="left"><strong>October 7, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>Ground Control Review Identifies Additional Rock Fall</strong></p>
-        <p align="center">On  October 4, during on-going ground control inspections, mining and ground control  engineers at WIPP discovered a rock fall had taken place in what was the  exhaust access drift to Panel 3. Panel 3 was closed in February 2007, and  access to the openings of the panel have been restricted (requiring management  approval to access) since November 2014 and prohibited (no personnel entry  allowed) since January 2015. No employees were present at the time of the rock  fall. This was the second rock fall identified within the last seven days in  the south area of the underground, where bolting and ground control has not  been performed and where access by workers has been restricted. </p>
-        <p>Ground  control and bulkhead inspections are conducted to meet Mine Safety and Health  Administration (MSHA) standards and are required by the New Mexico Environment  Department (NMED) Hazardous Waste Facility Permit. Inspections are performed on  a weekly basis in order to ensure worker safety; visual observations of access  drifts and bulkheads are made from outside of the prohibited areas. The fact  that WIPP salt naturally and continuously closes in on open spaces is why it  was selected for a waste repository. Rock falls in areas designated as  &ldquo;prohibited areas&rdquo; do not represent a safety issue or violation of regulatory  standards for safety.</p>
-        <p>Nuclear  Waste Partnership (NWP) and the Carlsbad Field Office (CBFO) are working  closely with the workforce and their geotechnical experts to continue to  identify areas of the underground that may need to be closed because of ground  control concerns.</p>
-        <p>A  town hall meeting on ground control is planned for Thursday, October 13, at  5:30 pm at the Carlsbad City Council Chambers, 101 N. Halagueno Street. Subject  matter experts from NWP and CBFO will be on hand to provide information and  answer questions relative to ground control status at WIPP. </p>
-        <p><img src="Images/Panel 3 Rock Fall.jpg" width="380" height="246" alt="Panel 3" /></p>
+        </strong><strong>Updates on Ground Control  Activities</strong></p>
+        <p align="center"><strong>Additional Rock Falls in Panel 3 Access Drift</strong></p>
+        <p>This morning,  October 7th, Nuclear Waste Partnership (NWP) was evaluating the area  of the rock fall in the Panel 3 exhaust drift and determined that additional  sections have dislodged since the initial report earlier this week.&nbsp;This  area was, and continues to be, prohibited which means no personnel are allowed  to enter.&nbsp;Being an inactive area of the mine, no ground control measures  are being taken and additional falls may occur in this area until the remainder  of the unstable portions of the drift have fallen. This additional rock fall in  the Panel 3 drift is smaller than the initial fall earlier this week. This  prohibited area shows signs that some rock fall will continue until it reaches  a stabilized area of the underground that has been identified as a mined out  area approximately 10 feet further to the west. &nbsp;As previously reported,  this area of the underground does not impact current operations or the  resumption of waste emplacement operations. The rock fall area remains in the  prohibited portions of the mine.</p>
+<p align="center"><strong>Panel  7 Room 5 Ground Control Events</strong></p>
+        <p>Late Monday October 3, during bolting and scaling  operations, ground control crews working in Room 5 of Panel 7 identified  fracturing when applying tension to roof bolts in areas along the west ribline  (intersection of the ceiling and wall) of room 5. Evaluation by geotechnical engineers  identified low angle fracturing in the area and miners began using a piece of  mining equipment (seal cutter) to safely bring down the section of ceiling. A  section of rock approximately 5 feet x 7 feet by 1 foot thick was released  during this operation.  </p> 
+        <img src="../images/SealCutter.jpg" width="380" height="246" alt="Seal Cutter" longdesc="../images/SealCutter.jpg" />  
+       <p>Image:  Miners operating seal cutters are well away from  the location where the rock is being removed</p>
+        <p>Access to  room 5 has been restricted and a team consisting of miners, geotechnical  engineers and radiation control staff are evaluating options for managing the  remaining area to ensure worker safety. The actions taken by the miners and  geotechnical engineers is typical for ground control and maintenance performed  in the WIPP underground when conditions, such as large fractures, warrant this  type of action.</p>
+<p>Panel 7 Room  5 is within the area contaminated by the February 2014 radiological release.  Workers have been milling floors and roof bolting in the area in preparation  for the resumption of waste emplacement operations. This is not expected to  impact the restart date for waste emplacement operations.</p>
+        <p>Next  Thursday, October 13 the Carlsbad Field Office and Nuclear Waste Partnership  will be holding a town hall meeting to discuss recent ground control issues.  Mining and geotechnical experts will be on hand to provide information and  answer questions regarding recent rock falls that have occurred at the  facility. Details on the time and location are below.</p>
+        <p align="center"><strong>Oct. 6 Non-Emergency  Evacuation of the WIPP Underground</strong></p>
+        <p>The Department  of Energy identified a deficiency in the WIPP Mine Escape and Evacuation Plan,  which still relied on evacuation routes established before some areas had been  posted as prohibited. NWP had identified compensatory measures—immediate  changes that could be made while the Evacuation Plan is formally updated. During  a verification of the implementation of the compensatory measures,  representatives of the DOE’s Carlsbad Field Office discovered problems with the  corrective actions. To ensure worker safety, NWP performed a non-emergency  controlled egress of the WIPP underground until the compensatory measures were  fully implemented. The compensatory measures ensure each worker knows the  egress routes from their work area in the event of an evacuation, based on current  underground conditions. &nbsp;The deficiencies were resolved later in the same  shift and normal access to the underground has been restored.<strong> </strong></p>
+        <p align="center"><strong>Next WIPP Town Hall Meeting – October 13</strong></p>
+The City of Carlsbad  and DOE co-host Town Hall meetings to provide updates on WIPP recovery and  restart activities. The next meeting is scheduled for Thursday, October 13 at  5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.  This meeting will focus on mining and ground control at the WIPP site. WIPP  Town Hall Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>
+<p>&nbsp;</p>
         <p>&nbsp;</p>
         <strong>                              </strong><br /></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
