@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->11/4/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->11/8/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,23 +79,19 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>November 4, 2016<br /></strong></h6>
+        <h6 align="left"><strong>November 8, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>Rock Fall Confirmed in Panel 7, Room 4</strong><br />
+        </strong><strong>Work Resumes at WIPP</strong><br />
         <br />
-          A team consisting of geotechnical  staff, radiological control personnel, members of the mine rescue team and a  representative from the Mine Safety and Health Administration (MSHA) re-entered  the Waste Isolation Pilot Plant (WIPP) underground earlier today to determine  the location and extent 
-          of a rock fall 
-          (<a href="http://www.wipp.energy.gov/wipprecovery/updates.html">See  Nov. 3 WIPP Update</a>) that was believed to have occurred late yesterday in  Panel 7. </p>
-        <p>Results of the investigation  concluded that a rock fall took place in Room 4 of Panel 7. The team reported  that salt rock debris visible on the floor of the room suggested that a  significant portion 
-          of the ceiling or &ldquo;back&rdquo; in the 300 ft. by 33 ft. disposal room had fallen, but  the fall was limited to Room 4. </p>
-        <p>The roof fall in Room 4 was  expected, as ongoing geotechnical monitoring results for Room 4 had identified  accelerated convergence rates (salt movement) over the past several months, and  WIPP geotechnical engineers had already prohibited entry into the room due to  personnel safety concerns.</p>
-        <p>Although portions of Panel 7  remain contaminated as a result of the February 2014 radiological release,  there were no indications of a release of radioactive contamination associated  with the 
-          rock fall.  </p>
-        <p>&ldquo;Safety of the workers is and will always be  our highest priority,&rdquo; said Phil Breidenbach, Nuclear Waste Partnership  President and Project Manager.          &ldquo;The fact that the rock fall occurred in a  prohibited area where people are not allowed is evidence that our program is  working to protect the workers.&rdquo;</p>
-        <p>The Department of Energy and  Nuclear Waste Partnership will be working with MSHA to develop a plan and path  forward to address ground control issues in Panel 7. After nearly three years  of reduced ground control, areas in the WIPP underground are showing signs of  increased salt creep that naturally occurs over time. This salt creep is what  will eventually seal the transuranic waste and was an important characteristic  in the selection of the location for the WIPP repository.</p>
-        <p>For more information on the WIPP  ground control program, please see the October 13 <a href="http://www.wipp.energy.gov/wipprecovery/townhallmeeting.html">Town Hall  Meeting</a>.</p>
+ Recovery and restart operations  have resumed at the Waste Isolation Pilot Plant (WIPP) as of Saturday, November  5, a day after a team investigating a rock fall confirmed that the fall was  limited to Room 4 of Panel 7. Workers returned to normal ground control operations  in the non-prohibited areas outside of Panel 7 over the weekend, while geotechnical  engineers re-entered Panel 7 to collect geo-mechanical data from the  non-prohibited areas of the panel.</p>
+        <p>&ldquo;A representative from the Mine  Safety and Health Administration (MSHA) was part of the entry team that  investigated the rock fall, and we have continued to coordinate with them  throughout the investigation,&rdquo; said Todd Shrader, Manager of the DOE Carlsbad  Field Office (CBFO). &ldquo;MSHA, CBFO and Nuclear Waste Partnership (NWP) approved  re-entry of the area to collect additional data on Saturday, and by Sunday  afternoon, the geotechnical engineers had analyzed the data and concluded that  all of the non-prohibited areas were stable.&rdquo; Bolting operations in Panel 7  resumed on Monday.</p>
+        <p>Geotechnical engineers have  increased monitoring of convergence rates (salt creep) for Panel 7, and NWP is  working on plans to increase bolting efforts in order ensure worker safety and  viability of disposal capacity when waste emplacement operations resume. </p>
+        <p align="center"><strong>Next WIPP Town  Hall Meeting – December 8</strong></p>
+        <p>The City of  Carlsbad and DOE co-host Town Hall meetings to provide updates on WIPP recovery  and restart activities. The next meeting is scheduled for Thursday, December 8,  at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.  This meeting will be a special Town Hall focused on mining and ground control  at the WIPP site. WIPP Town Hall Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
         <p><strong>                              </strong><br />
-    </p></td>
+  </p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <h6 align="center">&nbsp;</h6>
         <p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
