@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->11/8/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->11/15/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -79,16 +79,16 @@ body {
 	  </div>
 
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>November 8, 2016<br /></strong></h6>
+        <h6 align="left"><strong>November 15, 2016<br /></strong></h6>
         <p align="center"><strong><br />
-        </strong><strong>Work Resumes at WIPP</strong><br />
-        <br />
- Recovery and restart operations  have resumed at the Waste Isolation Pilot Plant (WIPP) as of Saturday, November  5, a day after a team investigating a rock fall confirmed that the fall was  limited to Room 4 of Panel 7. Workers returned to normal ground control operations  in the non-prohibited areas outside of Panel 7 over the weekend, while geotechnical  engineers re-entered Panel 7 to collect geo-mechanical data from the  non-prohibited areas of the panel.</p>
-        <p>&ldquo;A representative from the Mine  Safety and Health Administration (MSHA) was part of the entry team that  investigated the rock fall, and we have continued to coordinate with them  throughout the investigation,&rdquo; said Todd Shrader, Manager of the DOE Carlsbad  Field Office (CBFO). &ldquo;MSHA, CBFO and Nuclear Waste Partnership (NWP) approved  re-entry of the area to collect additional data on Saturday, and by Sunday  afternoon, the geotechnical engineers had analyzed the data and concluded that  all of the non-prohibited areas were stable.&rdquo; Bolting operations in Panel 7  resumed on Monday.</p>
-        <p>Geotechnical engineers have  increased monitoring of convergence rates (salt creep) for Panel 7, and NWP is  working on plans to increase bolting efforts in order ensure worker safety and  viability of disposal capacity when waste emplacement operations resume. </p>
-        <p align="center"><strong>Next WIPP Town  Hall Meeting – December 8</strong></p>
+        </strong><strong>DOE Begins  Operational Readiness Review</strong></p>
+        <p>The final  operational readiness review, which is necessary to ensure that the Waste  Isolation Pilot Plant (WIPP) can safely return to waste emplacement operations,  started this week. The Department of Energy (DOE) Operational Readiness Review  (DORR) team is comprised of 19 subject matter experts from around the DOE  complex who were selected based on their relevant experience in nuclear  operations, engineering and safety management. The team arrived on site Monday  and began a two-week review process that focuses on demonstration of  proficiency in receipt and handling of contact-handled transuranic (TRU) waste;  systems maintenance and operations; and fire safety, radiological controls, emergency management and other  safety programs.</p>
+        <p>The DORR team will take approximately  two weeks to observe operations and conduct the necessary personnel interviews  and document reviews to ensure quality of operations. A closeout meeting and a  final report are planned for early December.</p>
+        <p>&ldquo;This is a little different than  previous operational readiness reviews in that the federal employees at the  Carlsbad Field Office (CBFO) are also being evaluated along with the  contractor,&rdquo; said Todd Shrader, manager of CBFO, which oversees WIPP. &ldquo;This is an  important review and the last hurdle we need to cross before declaring the facility  is ready to resume transuranic waste operations.&rdquo;</p>
+        <p>Once the DORR is completed and  corrective actions for any prestart findings have been developed, implemented  and validated, authorization to commence waste emplacement will be declared. In  conjunction with the DOE, the New Mexico Environment Department will perform a  site inspection to ensure WIPP is in full compliance with its hazardous waste  facility permit and administrative orders. </p>
+        <p>Successful completion of all the  assessments and reviews, as well as associated corrective actions, will ensure  the WIPP plant, people and processes are ready for the safe and compliant  resumption of waste emplacement activities. </p>
+        <p><strong>&nbsp;</strong><strong>Next WIPP  Town Hall Meeting – December 8</strong></p>
         <p>The City of  Carlsbad and DOE co-host Town Hall meetings to provide updates on WIPP recovery  and restart activities. The next meeting is scheduled for Thursday, December 8,  at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street.  This meeting will be a special Town Hall focused on mining and ground control  at the WIPP site. WIPP Town Hall Meetings are live streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p>
-        <p>&nbsp;</p>
         <p>&nbsp;</p>
         <p><strong>                              </strong><br />
   </p></td>
