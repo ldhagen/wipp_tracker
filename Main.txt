@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <HEAD>
@@ -31,7 +31,7 @@ body {
 
 
 <DIV id=wrapper>
-<DIV id=header> <a href="http://wipp.energy.gov" id="header">Logo</a></DIV>
+<DIV id=header> <a href="https://wipp.energy.gov" id="header">Logo</a></DIV>
 <DIV id=menu>
 <DIV id=menu1>
 <a href="https://twitter.com/WIPPNEWS" class="twitter-follow-button" data-show-count="false">Follow @WIPPNEWS</a>
@@ -41,12 +41,12 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->12/7/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->12/22/16<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
-  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
-    <A href="http://www.wipp.energy.gov/search.asp">Search</A></div>
+  <div align="center"><A href="https://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="https://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
+    <A href="https://www.wipp.energy.gov/search.asp">Search</A></div>
 </DIV>
 
 </DIV>
@@ -72,34 +72,56 @@ body {
 			<div class="caption">Emergency response vehicles stationed in the WIPP underground</div>
 		</div>
 		
-		
           <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa-chevron-left icon-large"></i></a>
 	      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa-chevron-right icon-large"></i></a>
-	    
-	  </div>
-
+          
+	    </div>  
+        
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>December 7, 2016<br /></strong></h6>
+        <h6 align="left"><strong>December 23, 2016<br /></strong></h6>
         <p align="center"><br />
-          <strong>DORR Team Provides Preliminary Report</strong><br />
+          <strong>WIPP Authorized to Resume Waste Emplacement</strong><br />
           <br />
-          The DOE Operational Readiness Review (DORR) Team  provided an initial briefing of their findings to the senior leadership from DOE  and Nuclear Waste Partnership (NWP) on Dec. 2. The DOE ORR team concluded that  upon satisfactory closure of the pre-start findings and approval of corrective  action plans for the post-start findings, the Waste Isolation Pilot Plant  (WIPP) can be authorized to safely restart waste emplacement in accordance with  DOE standards. <br />
+        </p>
+<p>Today the Department of Energy (DOE) authorized Nuclear Waste  Partnership (NWP) to resume waste emplacement in the Waste Isolation Pilot  Plant. This decision confirms that all pre-start corrective actions identified  in the two operational readiness reviews have been completed and properly validated  and other required actions were completed. </p>
+        <p>It is anticipated that the first waste emplacement  will be completed in early January 2017 after final ground control preparations  are completed.</p>
+        <p>Carlsbad Field Office (CBFO) Manager Todd Shrader said, “Extensive efforts to identify and implement corrective  actions have resulted in a facility that is safer today and we look forward to  the facility soon resuming its highly critical mission to dispose of the  nation’s defense transuranic waste.”</p>
+        <p>“Tremendous credit should go to the WIPP workers for what we have  accomplished this year”, said Phil Breidenbach, President and Project Manager  for Nuclear Waste Partnership (NWP).</p>
+        <p>The WIPP workforce, CBFO and NWP, will jointly focus on the  completion of some minor ground control (i.e. floor leveling) that is necessary  in Panel 7 before initial waste emplacement begins. All start-up activities that  are required in order to begin to move the waste currently stored in the Waste  Handling Building into the underground have been reviewed and validated. As  always, safety takes the top priority and an official date for waste  emplacement resumption will be confirmed when the minor ground control work is  completed.</p>
+        <p>Today CBFO has posted to the WIPP Recovery Web Site the following documents,  among which are reports prepared by independent reviewers and oversight  regulators that conclude that WIPP is in compliance with oversight assessments: </p>
+        <p><strong>Department  of Energy Operational Readiness Review</strong></p>
+        <p>The <a href="../Special/WIPP Update 11_15_16.pdf" title="DOE Operational Readiness Review (DORR) Team" target="_blank">DOE Operational Readiness Review (DORR) Team</a> wrapped up its review and provided a  briefing on its findings at the <a href="townhallmeeting.html" title="Dec. 15, 2016 Town Hall Meeting" target="_blank">Dec. 15, 2016 Town Hall Meeting</a>. The DORR identified 21 pre-start findings  that had to be resolved and validated before waste emplacement could resume,  and 15 post-start findings that can be addressed concurrently with waste  emplacement activities.  The findings  addressed emergency preparedness, waste acceptance, fire protection, and other  functional areas.  In addition, the team  evaluated the CBFO’s capabilities to perform effective oversight.<br />
           <br />
-          The ORR identified 21 pre-start findings,  those issues that will have to be resolved and validated before waste  emplacement can resume, and 15 post-start findings, which can be addressed  concurrently with resumption of waste emplacement. In addition, the team  evaluated the Carlsbad Field Office&rsquo;s (CBFO) capabilities to perform effective  oversight.  </p>
-        <p>&ldquo;The team conducted a very thorough review,  and the findings identify areas we need to address,&rdquo; said CBFO Manager Todd  Shrader. &ldquo;We have worked very hard to get to this point, and the endorsement  that WIPP can safely re-start operations after addressing the pre-starts is  welcome news.&rdquo;</p>
-        <p>The next step in the process is to develop  corrective action plans for the findings. Once the corrective action plans for  each finding are finalized, the contractor must complete the actions for all of  the pre-start findings and then independently verify the corrective actions  have been fully implemented. </p>
-        <p>In order to provide sufficient time to review  the DORR findings, the Town Hall meeting has been moved from Dec. 8 to Dec.  15.  </p>
-        <p>There are a few additional items that must be  completed in order to allow for the resumption of waste emplacement, including final  preparations of Panel 7, completion of ground control activities, fire  protection system installations, and verification of closure of all applicable  Accident Investigation Board corrective actions. Completion  of all of these activities will determine the date for resumption of waste  emplacement at WIPP. </p>
-        <p>&ldquo;Emplacement of the first waste  from the Waste Handling Building before the end of December is still our goal,  but we will take the time necessary to ensure it can be done safely,&rdquo; said  Shrader.</p>
-        <p align="center"><strong>&nbsp;</strong><strong>Next WIPP Town Hall Meeting – Moved to December 15</strong></p>
-        <p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP recovery and restart activities. In  order to provide the best information possible to our stakeholders, the date  for the next meeting has been moved to Thursday, Dec. 15, at 5:30 p.m.  Location: Carlsbad City Council Chambers, 101 N. Halagueno Street. This meeting  will be a special Town Hall focused on the DOE Operational Readiness Review and  the remaining steps necessary to resume waste emplacement operations. WIPP Town  Hall Meetings are live-streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p>
+          The DORR team concluded that upon satisfactory closure of the  pre-start findings and approval of corrective action plans for the post-start  findings, WIPP can safely restart waste emplacement in accordance with DOE  standards. The full DORR report is available at <a href="../Special/WIPP_DORR_Final_Report.pdf" title="WIPP_DORR_Final_Report" target="_blank">https://www.wipp.energy.gov/Special/WIPP_DORR_Final_Report.pdf</a></p>
+        <p><strong>Contractor Operational Readiness Review</strong></p>
+        <p>A Contractor  Operational Readiness Review (CORR) was conducted at WIPP between October 3 and  October 14, 2016.  The CORR encompassed all aspects of the  restart of the Contact-Handled (CH) Waste Emplacement operations at WIPP and  provided DOE and CBFO with an independent assessment of Nuclear Waste  Partnership’s (NWP) readiness to commence CH waste emplacement operations.</p>
+        <p>The report identified seven pre-start findings in the areas of  emergency notification, initial response actions, emergency evacuation,  personnel training and qualifications, and procedure management.  The report also identified five post-start  findings in areas related to radiation control and job hazard analysis.  The CORR team report concluded that waste  emplacement operations could proceed safely, once pre-start findings have been  satisfactorily resolved and all prerequisites were completed. The full CORR  report is available at <a href="../Special/WIPP_CORR_Final_Report.pdf" title="/WIPP_CORR_Final_Report" target="_blank">https://www.wipp.energy.gov/Special/WIPP_CORR_Final_Report.pdf</a>.</p>
+        <p><strong>National Environmental Policy Act Supplement Analysis</strong></p>
+        <p>On December 21, 2016, the Department of Energy finalized a  Supplement Analysis (SA) to evaluate the proposed action to resume and continue  the transportation of waste to WIPP by truck and the operation of the WIPP for  the disposal of TRU waste generated by atomic energy defense activities. Based  on the analysis in this SA, DOE’s proposed action does not represent substantial  changes to either the Supplemental Environmental Impact Statement-II [DOE/EIS-00260S2]  or 2009 WIPP Supplement Analysis [DOE/EIS-0026-SA-07] that are relevant to  environmental concerns, and there are no significant new circumstances or  information relevant to environmental concerns and bearing on the Proposed  Action or its environmental impacts. DOE has therefore determined that no  further NEPA documentation is required. The SA can be found at <a href="../Special/Supplemental_Analysis.pdf" title="Supplemental_Analysis_WIPP_Operations_12_2016" target="_blank">https://www.wipp.energy.gov/Special/Supplemental_Analysis.pdf</a>.<br /><br />
+          <strong>Mine Safety  and Health Administration – Technical Support Evaluation</strong><br />
+          <br />
+          On December 1, 2016, the Mine Safety and Health Administration  (MSHA) issued a report documenting its recent Technical Support Evaluation of  the ground conditions at WIPP.  This  evaluation, which took place between October 24 and 31, 2016, was performed at  the request of CBFO, NWP and the MSHA South Central District, located in  Dallas, Texas.</p>
+        <p>The team recognized the challenges presented by the limited  ventilation in the underground and decrease in productivity for ground control  crews working in personal protective equipment and respirators.  The team had no adverse findings. The report recommends  several actions to avoid future ground falls and to return ground control  program to a proactive posture.  The full  report is available at <a href="../Special/MSHA_Technical_Support_Evaluation.pdf" title="MSHA_Technical_Support_Evaluation" target="_blank">https://www.wipp.energy.gov/Special/MSHA_Technical_Support_Evaluation.pdf</a>.</p>
+        <p><strong>WIPP Site  Incident Independent Review Team (WSIIR) – New Mexico Institute of Mining  and Technology</strong></p>
+        <p>The WIPP Site  Incident Independent Review Team (WSIIR) is a team of faculty and scientists  from New Mexico Tech, led by Dr. Van Romero, who were assembled at the request  of DOE to conduct an  independent and transparent review of the radiological release incident at  WIPP.  The team reviewed and analyzed reports  prepared by the DOE Accident Investigation Board, the Technical Assessment  Team, Los Alamos National Laboratory and the Carlsbad Environmental Monitoring  and Research Center.  The WSIIR team agreed  with the work done by the other investigations and identified complacency and  external pressures as contributing factors in the events.  The full report can be found at <a href="http://www.nmt.edu/images/stories/WSIIRFINALReport2016.pdf" title="WSIIRFINALReport2016" target="_blank">http://www.nmt.edu/images/stories/WSIIRFINALReport2016.pdf</a>.</p>
+        <p align="center"><br />
+        </p>
         <p>&nbsp;</p>
 <p>&nbsp;</p>
         <p><strong>                              </strong><br />
   </p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
-        <h6 align="center">&nbsp;</h6>
-        <p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
+        <p align="left"><br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
+          <br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_CORR_Final_Report.pdf">WIPP CORR Final Report</a><br />
+          <br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a><br />
+          <br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a><br />
+          <br />
+        </p>
+        <p align="left"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="https://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
           Rev. 5b Chapters 0-18</a></p>
         <p><a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
@@ -160,15 +182,15 @@ body {
 
 <H3>Other WIPP Documents and Tools</H3>
 <h6>Hazardous Waste Permit</h6>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/library/Information_Repository.htm">Information Repository</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/library/STKInfo/STKInformation.htm">Stakeholder Documents</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">Submitted Modifications/Requests for Comments</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/library/Information_Repository.htm">Information Repository</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/library/STKInfo/STKInformation.htm">Stakeholder Documents</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">Submitted Modifications/Requests for Comments</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
 
 <h6>WIPP Toolbox</h6>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/WWISWeb/index.aspx">WIPP Waste Information System Public Access</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/WWISWeb/index.aspx">WIPP Waste Information System Public Access</a></p>
+  <p class="indent20"><a href="https://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
   <p><br />
   </p>
 </DIV>
@@ -181,7 +203,7 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 </DIV>
 </DIV>
 
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
 
   <script>
