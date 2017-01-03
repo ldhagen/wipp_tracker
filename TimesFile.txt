@@ -1,4 +1,4 @@
-Wed Dec 28 20:58:11 2016
+Tue Jan  3 08:37:39 2017
 
 http://www.wipp.energy.gov/Special/Station%20A.pdf
 Tue, 22 Nov 2016 21:31:03 GMT
@@ -7,7 +7,7 @@ http://www.wipp.energy.gov/Special/Station%20B.pdf
 Tue, 22 Nov 2016 21:21:51 GMT
 
 http://wipp.energy.gov/wipprecovery/recovery.html
-Wed, 28 Dec 2016 17:28:54 GMT
+Fri, 30 Dec 2016 14:38:25 GMT
 
 http://wipp.energy.gov/wipprecovery/photo_video.html
 Thu, 25 Feb 2016 18:14:25 GMT
