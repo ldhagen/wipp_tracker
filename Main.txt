@@ -78,13 +78,11 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>December 30, 2016<br /></strong></h6>
-        <p align="center"><br />
-          <span style="font-size: small">Jeff Carswell Selected as CBFO Deputy Manager</span><br />
-          </p>
-        <p align="center"><img src="Images/Jeff_Carswell_small.jpg" width="300" height="375" alt="Jeff Carswell" longdesc="Images/Jeff_Carswell_small.jpg" /><br />
-        </p>
-<p> Jeffrey M.  Carswell has been selected as Deputy Manager, Carlsbad Field Office (CBFO) and also  appointed to the Senior Executive Service. Carswell has been at CBFO since  February 2015 as the Senior Technical Safety Manager.  </p>
+        <h6 align="left"><strong>December 30, 2016</strong><br />
+          <br />
+        </h6>
+        <p align="left"><span style="font-size: small"><strong>Jeff Carswell Selected as CBFO Deputy Manager</strong></span></p>
+        <p align="center"><img src="Images/Jeff_Carswell_small.jpg" width="160" height="200" alt="carswell" style="float:right" hspace="12" />Jeffrey M. Carswell has been selected as Deputy Manager, Carlsbad Field Office (CBFO) and also  appointed to the Senior Executive Service. Carswell has been at CBFO since  February 2015 as the Senior Technical Safety Manager.  </p>
 <p>He recently  led a nuclear safety team to develop the upgraded Documented Safety Analysis  (DSA) and Technical Safety Requirements (TSR) outlining the new safety  parameters for operations at WIPP.  He is  also the Acting National Transuranic (TRU) Program Recovery Manager, working  across the DOE complex to implement improvements in the program criteria for  accepting TRU waste at WIPP.<br />
   <br />
   &ldquo;It gives me  great pleasure to announce Jeff&rsquo;s selection as our new Deputy Manager,&rdquo; said  Todd Shrader, Manager CBFO.  &ldquo;Jeff brings  a wealth of experience from the Navy&rsquo;s nuclear submarine program, several  positions at the DOE&rsquo;s Savannah River Site and as a recognized leader in  nuclear safety. I look forward to having Jeff as part of the CBFO and WIPP  leadership team.&rdquo;</p>
@@ -105,7 +103,6 @@ body {
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a><br />
           <br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a><br />
-          <br />
         </p>
         <p align="left"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
         <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
