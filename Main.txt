@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->12/30/16<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->1/3/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -81,7 +81,8 @@ body {
         <h6 align="left"><strong>December 30, 2016<br /></strong></h6>
         <p align="center"><br />
           <span style="font-size: small">Jeff Carswell Selected as CBFO Deputy Manager</span><br />
-          <br />
+          </p>
+        <p align="center"><img src="Images/Jeff_Carswell_small.jpg" width="300" height="375" alt="Jeff Carswell" longdesc="Images/Jeff_Carswell_small.jpg" /><br />
         </p>
 <p> Jeffrey M.  Carswell has been selected as Deputy Manager, Carlsbad Field Office (CBFO) and also  appointed to the Senior Executive Service. Carswell has been at CBFO since  February 2015 as the Senior Technical Safety Manager.  </p>
 <p>He recently  led a nuclear safety team to develop the upgraded Documented Safety Analysis  (DSA) and Technical Safety Requirements (TSR) outlining the new safety  parameters for operations at WIPP.  He is  also the Acting National Transuranic (TRU) Program Recovery Manager, working  across the DOE complex to implement improvements in the program criteria for  accepting TRU waste at WIPP.<br />
