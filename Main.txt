@@ -186,7 +186,7 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 </DIV>
 </DIV>
 
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
 
   <script>
