@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->1/3/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->1/11/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,22 +78,52 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>December 30, 2016</strong><br />
+        <h6 align="left"><strong>January 9, 2016</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>Jeff Carswell Selected as CBFO Deputy Manager</strong></span></p>
-        <p align="center"><img src="Images/Jeff_Carswell_small.jpg" width="160" height="200" alt="carswell" style="float:right" hspace="12" />Jeffrey M. Carswell has been selected as Deputy Manager, Carlsbad Field Office (CBFO) and also  appointed to the Senior Executive Service. Carswell has been at CBFO since  February 2015 as the Senior Technical Safety Manager.  </p>
-<p>He recently  led a nuclear safety team to develop the upgraded Documented Safety Analysis  (DSA) and Technical Safety Requirements (TSR) outlining the new safety  parameters for operations at WIPP.  He is  also the Acting National Transuranic (TRU) Program Recovery Manager, working  across the DOE complex to implement improvements in the program criteria for  accepting TRU waste at WIPP.<br />
-  <br />
-  &ldquo;It gives me  great pleasure to announce Jeff&rsquo;s selection as our new Deputy Manager,&rdquo; said  Todd Shrader, Manager CBFO.  &ldquo;Jeff brings  a wealth of experience from the Navy&rsquo;s nuclear submarine program, several  positions at the DOE&rsquo;s Savannah River Site and as a recognized leader in  nuclear safety. I look forward to having Jeff as part of the CBFO and WIPP  leadership team.&rdquo;</p>
-<p>&ldquo;I would  also like to thank Sean Dunagan for serving as our Acting Deputy Manager for  the last year,&rdquo; Shrader said. </p>
-<p>In 1987,  Jeff received a commission in the U. S. Navy and attended the Navy&rsquo;s Nuclear  Power School followed by tours onboard two ballistic missile submarines in  Kings Bay, Georgia.  Upon leaving active  duty, he initially worked in the semiconductor industry before relocating to  Savannah River Site (SRS) in Aiken, South Carolina, where he held a variety of  contractor nuclear safety and engineering positions.  </p>
-<p>In 2009,  Jeff joined the Department as a Facility Representative, responsible for  oversight of the HB-Line facility at SRS. He then accepted a position as a  Program Manager at the Savannah River National Laboratory (SRNL) overseeing  Homeland Defense, National Security, and non-proliferation related programs at  the laboratory. In 2012, Jeff returned to the SRS contractor as the Safety  Basis Regulating Authority for the H-Canyon facility. He returned to federal  service at CBFO in February 2015.  </p>
-<p>Jeff  continues serving in the Navy Reserve as a Captain, assigned to Commander,  Naval Forces Europe, Naval Forces Africa, Sixth Fleet Detachment 802 in  Atlanta, Georgia, holding senior leadership positions as the Chief of Staff and  Executive Assistant. </p>
-<p>A Michigan  native, he received a Bachelor of Science degree in Chemistry from Wayne State  University in Detroit, and  holds a  Master&rsquo;s in Business Administration from Brenau University.  </p>
-<p>&nbsp;</p>
+        <table width="380" border="0">
+          <tr>
+            <td><img src="Images/ribbon cutting.jpg" width="380" height="253" alt="ribbon cutting" /></td>
+          </tr>
+          <tr>
+            <td class="caption"><em>U.S. Energy Secretary Ernest Moniz, N.M. Governor Susana Martinez and members 
+              of the N.M. congressional delegation cut a ceremonial ribbon in  WIPP's Waste Handling Building on Jan. 9, 2017.</em></td>
+          </tr>
+        </table>
+        <p align="left"><br />
+          <span style="font-size: small"><strong>Secretary, N.M. Delegation Recognize WIPP Reopening</strong></span></p>
+        <p align="left">On Jan. 9,  U.S. Energy Secretary Ernest Moniz, accompanied by members of the New Mexico delegation, including Governor Susana Martinez, U.S. Senator Martin Heinrich, U.S. Representatives Steve Pearce and Michelle Lujan Grisham, and Carlsbad Mayor Dale Janway, recognized the official reopening and resumption of waste operations at the Waste Isolation Pilot Plant (WIPP). WIPP is the nation&rsquo;s first deep-geological facility in the United States for disposal of defense-related transuranic (TRU) radioactive waste and is located 26 miles east of Carlsbad, NM. Waste emplacement activities were halted in February of 2014 following a waste drum rupture in an underground storage panel.</p>
+        <p>&ldquo;The tireless efforts by the workforce, the contractor and federal management, and the community to make WIPP a safer place to fulfill its critical mission is a remarkable feat. Their continued work to enable environmental cleanup in DOE host communities across the country exemplifies the American tradition of rising up to overcome our most technically complex challenges,&rdquo; said Secretary Moniz. &ldquo;The Department remains committed to safely and responsibly cleaning up the legacy of the Cold War. And, with continuing cooperation with our local partners and the State of New Mexico, WIPP will once again help meet that mission.&rdquo;</p>
+        <p>WIPP, first opened in 1999, was designed as a safe, long-term solution for TRU waste, which mostly consists of debris, soil, clothing, tools, rags, residues, and other items contaminated with radioactive elements from nuclear weapons research and testing operations of past defense activities. The ability to resume operations strengthens America&rsquo;s overall energy security, as it reestablishes a safe and environmentally protective method to properly manage nuclear waste from defense-related activities.</p>
+        <p>The workforce at WIPP successfully completed the first waste emplacement operations on Wednesday, Jan. 4, with waste from the Savannah River Site that had been recertified and stored in the Waste Handling Building (WHB). All recertified waste from the WHB will be emplaced prior to accepting new waste shipments from generator sites to WIPP. DOE expects to resume shipments to WIPP in spring 2017. A schedule for waste shipments has not been finalized, but it is expected that the facility will slowly and safely ramp up to approximately five shipments a week later this year. </p>
+        <table width="380" border="0">
+          <tr>
+            <td><img src="Images/reopening moniz.jpg" width="380" height="253" alt="reopening moniz" /></td>
+          </tr>
+          <tr>
+            <td height="67" class="caption"><em>U.S. Energy Secretary Ernest Moniz addresses workers and community members at a  reopening ceremony at the WIPP Site on Jan. 9, 2017. Other dignitaries who spoke included N.M. Governor Susana Martinez, U.S. Senator Martin Heinrich, U.S. Representatives Steve Pearce and Michelle Lujan Grisham, and Carlsbad Mayor Dale Janway.</em></td>
+          </tr>
+      </table>
+        <p>&nbsp;</p>
+        <table width="380" border="0">
+          <tr>
+            <td><img src="Images/emplacing waste.jpg" width="380" height="238" alt="emplacing waste" /></td>
+          </tr>
+          <tr>
+            <td><em>Workers move waste for emplacement underground at WIPP on Jan. 4, 2017.</em></td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <table width="380" border="0">
+          <tr>
+            <td><img src="Images/first waste emplacement hoorah.jpg" width="380" height="238" alt="first waste emplacement hoorah" /></td>
+          </tr>
+          <tr>
+            <td><em>Workers underground at WIPP celebrate the completion of the first waste emplacement since 2014.</em></td>
+          </tr>
+      </table>
         <p><strong>                              </strong><br />
-  </p></td>
+        </p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
@@ -186,7 +216,7 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 </DIV>
 </DIV>
 
-<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
 
   <script>
