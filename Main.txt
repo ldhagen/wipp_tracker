@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->1/11/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->2/8/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -215,6 +215,8 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 
 </DIV>
 </DIV>
+<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
+<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter." /></p>
 
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
