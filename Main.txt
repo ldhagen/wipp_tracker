@@ -1,4 +1,4 @@
-ï»¿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <HEAD>
@@ -95,7 +95,7 @@ body {
         <p align="left">On Jan. 9,  U.S. Energy Secretary Ernest Moniz, accompanied by members of the New Mexico delegation, including Governor Susana Martinez, U.S. Senator Martin Heinrich, U.S. Representatives Steve Pearce and Michelle Lujan Grisham, and Carlsbad Mayor Dale Janway, recognized the official reopening and resumption of waste operations at the Waste Isolation Pilot Plant (WIPP). WIPP is the nation&rsquo;s first deep-geological facility in the United States for disposal of defense-related transuranic (TRU) radioactive waste and is located 26 miles east of Carlsbad, NM. Waste emplacement activities were halted in February of 2014 following a waste drum rupture in an underground storage panel.</p>
         <p>&ldquo;The tireless efforts by the workforce, the contractor and federal management, and the community to make WIPP a safer place to fulfill its critical mission is a remarkable feat. Their continued work to enable environmental cleanup in DOE host communities across the country exemplifies the American tradition of rising up to overcome our most technically complex challenges,&rdquo; said Secretary Moniz. &ldquo;The Department remains committed to safely and responsibly cleaning up the legacy of the Cold War. And, with continuing cooperation with our local partners and the State of New Mexico, WIPP will once again help meet that mission.&rdquo;</p>
         <p>WIPP, first opened in 1999, was designed as a safe, long-term solution for TRU waste, which mostly consists of debris, soil, clothing, tools, rags, residues, and other items contaminated with radioactive elements from nuclear weapons research and testing operations of past defense activities. The ability to resume operations strengthens America&rsquo;s overall energy security, as it reestablishes a safe and environmentally protective method to properly manage nuclear waste from defense-related activities.</p>
-        <p>The workforce at WIPP successfully completed the first waste emplacement operations on Wednesday, Jan. 4, with waste from the Savannah River Site that had been recertified and stored in the Waste Handling Building (WHB). All recertified waste from the WHB will be emplaced prior to accepting new waste shipments from generator sites to WIPP. DOE expects to resume shipments to WIPP in spring 2017. A schedule for waste shipments has not been finalized, but it is expected that the facility will slowly and safely ramp up to approximately five shipments a week later this year.Â </p>
+        <p>The workforce at WIPP successfully completed the first waste emplacement operations on Wednesday, Jan. 4, with waste from the Savannah River Site that had been recertified and stored in the Waste Handling Building (WHB). All recertified waste from the WHB will be emplaced prior to accepting new waste shipments from generator sites to WIPP. DOE expects to resume shipments to WIPP in spring 2017. A schedule for waste shipments has not been finalized, but it is expected that the facility will slowly and safely ramp up to approximately five shipments a week later this year. </p>
         <table width="380" border="0">
           <tr>
             <td><img src="Images/reopening moniz.jpg" width="380" height="253" alt="reopening moniz" /></td>
@@ -122,7 +122,7 @@ body {
             <td><em>Workers underground at WIPP celebrate the completion of the first waste emplacement since 2014.</em></td>
           </tr>
       </table>
-        <p><strong>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â </strong><br />
+        <p><strong>                              </strong><br />
         </p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
@@ -216,7 +216,7 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 </DIV>
 </DIV>
 <p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
-<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter." /></p>
+<p align="center"> <img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
 
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
