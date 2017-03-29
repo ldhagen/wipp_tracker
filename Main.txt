@@ -10,7 +10,7 @@
 <META http-equiv=Content-Language content=en-us>
 <META http-equiv=Content-Type content="text/html; charset=utf-8">
 <META content="Index, ALL" name=robots>
-<LINK href="file://///troi2/wwwroot/WIPPRecovery/wipp.css" type=text/css rel=stylesheet>
+<LINK href="wipp.css" type=text/css rel=stylesheet>
 <style type="text/css">
 body {
 	margin-left: 0px;
@@ -18,8 +18,8 @@ body {
 }
 
 </style>
-<link href="file://///troi2/wwwroot/WIPPRecovery/font-awesome.min.css" type="text/css" rel="stylesheet"/>
-<link href="file://///troi2/wwwroot/WIPPRecovery/slide-style.css" type="text/css" rel="stylesheet"/>
+<link href="font-awesome.min.css" type="text/css" rel="stylesheet"/>
+<link href="slide-style.css" type="text/css" rel="stylesheet"/>
 
 <META content="MSHTML 6.00.2900.5803" name=GENERATOR>
  
@@ -41,11 +41,11 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->2/14/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->3/28/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
-  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="file://///troi2/wwwroot/WIPPRecovery/images/filler.png" /><a href="file://///troi2/wwwroot/WIPPRecovery/about.html">About WIPP</a><img src="file://///troi2/wwwroot/WIPPRecovery/images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="file://///troi2/wwwroot/WIPPRecovery/images/filler.png" />
+  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
     <A href="http://www.wipp.energy.gov/search.asp">Search</A></div>
 </DIV>
 
@@ -56,19 +56,19 @@ body {
       <td width="386" rowspan="2" align="left" valign="top">
       <div id="slides">
     	<div>
-    		<img src="file://///troi2/wwwroot/WIPPRecovery/Images/Slideshow/10_2/SVS.jpg">
+    		<img src="Images/Slideshow/10_2/SVS.jpg">
     		<div class="caption">The supplemental ventilation system installed in the air intake drift</div>
     	</div>
     	<div>
-    		<img src="file://///troi2/wwwroot/WIPPRecovery/Images/Slideshow/10_2/Bolter.jpg">
+    		<img src="Images/Slideshow/10_2/Bolter.jpg">
     		<div class="caption">WIPP's new hybrid (diesel/electric) bolter in the underground mine</div>
     	</div>
     	<div>
-    		<img src="file://///troi2/wwwroot/WIPPRecovery/Images/Slideshow/10_2/EOC.jpg">
+    		<img src="Images/Slideshow/10_2/EOC.jpg">
     		<div class="caption">A drill being run at WIPP's new Emergency Operations Center </div>
     		</div>
 		<div>
-			<img src="file://///troi2/wwwroot/WIPPRecovery/Images/Slideshow/10_2/UG_Fire_Ambulance.jpg">
+			<img src="Images/Slideshow/10_2/UG_Fire_Ambulance.jpg">
 			<div class="caption">Emergency response vehicles stationed in the WIPP underground</div>
 		</div>
 		
@@ -78,89 +78,64 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>February 14, 2017</strong><br />
+        <h6 align="left"><strong>February 27, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>WIPP Releases Preliminary Shipping Estimates</strong></span></p>
-        <p align="left">The  Department of Energy (DOE) has developed estimates for the resumption of  shipments of transuranic (TRU) waste to the Waste Isolation Pilot Plant (WIPP)  over the next 12 months. Shipments are expected to be made during that time  from Idaho, Los Alamos, Oak Ridge, the Savannah River Site, and Waste Control  Specialists.</p>
-        <p>Shipments of  TRU waste from generator sites across the U.S. are expected to commence in  April. Shipments from a given site can commence once the site has demonstrated  its readiness to load and ship TRU containers and has verified that waste  destined for WIPP meets the updated Documented Safety Analysis requirements. The  exact allocation and sequence for shipping will be adjusted based on the  emplacement rate at WIPP, operational needs at WIPP and generator sites, and  logistical issues (such as weather) that affect shipping.</p>
-        <p>&ldquo;We are  pleased that WIPP is once again emplacing waste. The suspension of disposal  operations has posed challenges at DOE sites, with backlogs of TRU waste  building up. Resuming shipments from generator sites is important to support  cleanup and ongoing missions at those sites. We look forward to doing that as  soon and as safely as possible,&rdquo; said Carlsbad Field Office Manager Todd  Shrader. </p>
-        <p>Shipments  will resume using the same Nuclear Regulatory Commission-certified TRUPACT II Type  B packaging and following the same stringent safety standards and driver  qualifications that have made the WIPP transportation program the model for  radioactive material shipping in the United States. </p>
-        <p><strong>Estimated  WIPP TRU Shipments - February 2017 through January 2018</strong></p>
-        <table border="0" cellspacing="0" cellpadding="0" width="337">
-          <tr>
-            <td width="156"><p align="center"><strong>Site</strong></p></td>
-            <td width="182"><p align="center"><strong>Projected    Shipments</strong></p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center">Idaho    Site</p></td>
-            <td width="182"><p align="center">61</p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center">Oak    Ridge Site</p></td>
-            <td width="182"><p align="center">24</p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center">Savannah    River Site</p></td>
-            <td width="182"><p align="center">8</p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center">Waste    Control Specialists</p></td>
-            <td width="182"><p align="center">11</p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center">Los    Alamos Site</p></td>
-            <td width="182"><p align="center">24</p></td>
-          </tr>
-          <tr>
-            <td width="156"><p align="center"><strong>TOTAL</strong></p></td>
-            <td width="182"><p align="center"><strong>128</strong></p></td>
-          </tr>
-        </table>
-        <p align="center"><strong>&nbsp;</strong></p>
+        <p align="left"><span style="font-size: small"><strong>WIPP Road Show Early Stops Planned in Carlsbad &amp; Hobbs</strong></span></p>
+        <p>Shipments of  transuranic (TRU) waste destined for the U.S Department of Energy&rsquo;s (DOE) Waste  Isolation Pilot Plant (WIPP) near Carlsbad, NM, are scheduled to resume in  April 2017. These will be the first shipments received at the facility since  the February 2014 incidents.</p>
+        <p>In  preparation for the resumption of shipping, the DOE Carlsbad Field Office will  be supporting state-sponsored road shows along the active transportation  routes. The road shows give local officials and members of the public the  chance to see the actual shipping package for TRU waste – the TRUPACT-II – and  to understand the WIPP transportation protocols and requirements, including  driver standards, package design and testing requirements, inspection  procedures, and emergency response plans and equipment.</p>
+        <p>Those  attending the state-sponsored event will have an opportunity to speak about  WIPP and its TRU waste shipping program with TRU truck drivers, local  transportation inspectors, local emergency responders and representatives from WIPP.  Road shows will be presented during the month of March along transportation  corridors covering New Mexico and Texas; the Southern Route (Alabama, Georgia,  Louisiana, Mississippi, and South Carolina) and the Western States Route  (Colorado, Idaho, Utah, and Wyoming) to WIPP. DOE will issue social media  updates, as the dates and times for additional road shows are confirmed. Road  shows confirmed for the coming week are listed below:</p>
+        <p><u>Carlsbad, NM</u><strong> </strong><br />
+          Wednesday, March 1, 2017<br />
+          10:00 a.m. – 1:00 p.m.<br />
+          Location: 2320 W. Pearce – Jenkins Home Furnishings Parking Lot</p>
+        <p><u>Hobbs, NM</u><br />
+          Thursday, March 2, 2017<br />
+          10:00 a.m. – 1:00 p.m.<br />
+          Location: 5317 N. Lovington Highway - New Mexico Junior College</p>
+        <p>WIPP has  safely transported more than 11,800 shipments to the facility, totaling more  than 14 million miles.  The road show  will give attendees the opportunity to see the actual shipping package and  become familiar with WIPP transportation protocols. Those attending will have  an opportunity to speak with representatives from WIPP about the project,  transportation requirements and shipping procedures. Additionally,  representatives from the carriers, the Commercial Vehicle Safety Alliance, trainers  from DOE&rsquo;s Transportation Emergency Preparedness Program and other DOE  representatives will be on-site to answer questions.</p>
         <p align="center"><strong>Next WIPP Town Hall Meeting – March 16</strong></p>
-        <p>The City of Carlsbad and DOE co-host Town  Hall meetings to provide updates on WIPP restart activities. The next meeting  will be Thursday, March 16, at 5:30 p.m. Location: Carlsbad City Council  Chambers, 101 N. Halagueno Street. WIPP Town Hall Meetings are live-streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.<br />
-    </p></td>
+        <p>The City of  Carlsbad and DOE co-host Town Hall meetings to provide updates on WIPP restart  activities. The next meeting will be Thursday, March 16, at 5:30 p.m. Location:  Carlsbad City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall  Meetings are live-streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.    </p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
-          <img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="file://///troi2/wwwroot/Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
           <br />
-          <img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="file://///troi2/wwwroot/Special/WIPP_CORR_Final_Report.pdf">WIPP CORR Final Report</a><br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_CORR_Final_Report.pdf">WIPP CORR Final Report</a><br />
           <br />
-          <img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="file://///troi2/wwwroot/Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a><br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a><br />
           <br />
-          <img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="file://///troi2/wwwroot/Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a><br />
+          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a><br />
         </p>
-        <p align="left"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
+        <p align="left"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
+        <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
           Rev. 5b Chapters 0-18</a></p>
-        <p><a href="file://///troi2/wwwroot/library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for 
+        <p><a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
+        <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for 
           Documented Safety Analysis, Rev. 5b </a> </p>
-        <p><a href="file://///troi2/wwwroot/Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events, Rev. 1</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="NWP CAP Plan" width="17" height="17" /> NWP Corrective Action Addendum for Radiological Release Event</a><br />
+        <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events, Rev. 1</a></p>
+        <p><a href="../Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="NWP CAP Plan" width="17" height="17" /> NWP Corrective Action Addendum for Radiological Release Event</a><br />
         </p>
-        <p><a href="file://///troi2/wwwroot/Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the Feb. 14 Radiological Event</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/Phase_2_AIB_Slides.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Investigation Summary Slides</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/AIB Report.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the Feb. 5 Fire<br />
+        <p><a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the Feb. 14 Radiological Event</a></p>
+        <p><a href="../Special/Phase_2_AIB_Slides.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Investigation Summary Slides</a></p>
+        <p><a href="../Special/AIB Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the Feb. 5 Fire<br />
           <br />
-          </a><a href="file://///troi2/wwwroot/Special/AIB Summary.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> AIB Investigation Summary Slides<br />
+          </a><a href="../Special/AIB Summary.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Investigation Summary Slides<br />
             </a><br />
-          <a href="file://///troi2/wwwroot/Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the Feb. 14
+          <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the Feb. 14
             Radiological Event</a><br />
   <br />
-          <a href="file://///troi2/wwwroot/Special/AIB_Rad_Report_Presentation.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Investigation Summary Slides</a><br />
+          <a href="../Special/AIB_Rad_Report_Presentation.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Investigation Summary Slides</a><br />
           <br />
-          <a href="file://///troi2/wwwroot/Special/DOE_WIPP_Salt_Haul_Fire_Corrective_Action_Plan.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for Fire Event</a><br />
+          <a href="../Special/DOE_WIPP_Salt_Haul_Fire_Corrective_Action_Plan.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for Fire Event</a><br />
           <br />
-          <a href="file://///troi2/wwwroot/Special/DOE_Rad_Phase1_CAP_Report.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for the Radiological Event</a></p>
-        <p><a href="file://///troi2/wwwroot/Special/EA_memo_10152015.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="" width="17" height="17" /> Office of Enterprise Assessments Operational Analysis of Safety Trends at the Waste Isolation Pilot Plant, May 2014 - May 2015</a><br />
+          <a href="../Special/DOE_Rad_Phase1_CAP_Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for the Radiological Event</a></p>
+        <p><a href="../Special/EA_memo_10152015.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Office of Enterprise Assessments Operational Analysis of Safety Trends at the Waste Isolation Pilot Plant, May 2014 - May 2015</a><br />
           <br />
-          <a href="file://///troi2/wwwroot/Special/FINAL NWP Fire and Phase 1 Rad CAP_REDACT.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> NWP Corrective Action Plan for the Fire and Radiological Events</a><br />
+          <a href="../Special/FINAL NWP Fire and Phase 1 Rad CAP_REDACT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> NWP Corrective Action Plan for the Fire and Radiological Events</a><br />
           <br />
-          <a href="file://///troi2/wwwroot/Special/TECHNICAL_ASSESSMENT_TEAM_REPORT.pdf" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" width="17" height="17" /> Technical Assessment Team Report </a></p>
+          <a href="../Special/TECHNICAL_ASSESSMENT_TEAM_REPORT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Technical Assessment Team Report </a></p>
         <h6 align="center">Supporting Documents</h6>
-        <p><a href="http://energy.gov/em/listings/supporting-technical-documents" target="_blank"><img src="file://///troi2/wwwroot/WIPPRecovery/Images/pdf_sm.gif" alt="" width="17" height="17" /> Supporting documents for the AIB and TAT reports</a></td>
+        <p><a href="http://energy.gov/em/listings/supporting-technical-documents" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Supporting documents for the AIB and TAT reports</a></td>
     </tr>
 </table>
   <hr />
@@ -173,20 +148,20 @@ body {
 
 <hr>
 <h3>Event Information</h3>
-<h6><a href="file://///troi2/wwwroot/WIPPRecovery/accident_desc.html">Accident Description</a></h6> 
-<h6><a href="file://///troi2/wwwroot/WIPPRecovery/protective_actions.html">Protective Actions</a></h6>
-<h6><a href="file://///troi2/wwwroot/WIPPRecovery/sampling_results.html">Sampling Results</a></h6>
-<h6><a href="file://///troi2/wwwroot/WIPPRecovery/plans_reports.html">Plans and Reports<br />
+<h6><a href="accident_desc.html">Accident Description</a></h6> 
+<h6><a href="protective_actions.html">Protective Actions</a></h6>
+<h6><a href="sampling_results.html">Sampling Results</a></h6>
+<h6><a href="plans_reports.html">Plans and Reports<br />
 </a></h6>
 <hr>
 <h3>News and Updates</h3>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/updates.html">Past WIPP Updates</a></h6>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/news.html">News Releases</a></h6> 
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/photo_video.html">Photo and Video</a>  </h6>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/faq.html">Frequently Asked Questions</a></h6>
-  <h6><a href="file://///troi2/wwwroot/WIPPRecovery/townhallmeeting.html">Town Hall Meetings</a><BR />
+  <h6><a href="updates.html">Past WIPP Updates</a></h6>
+  <h6><a href="news.html">News Releases</a></h6> 
+  <h6><a href="fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
+  <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
+  <h6><a href="photo_video.html">Photo and Video</a>  </h6>
+  <h6><a href="faq.html">Frequently Asked Questions</a></h6>
+  <h6><a href="townhallmeeting.html">Town Hall Meetings</a><BR />
   </h6>
   <hr>
 
@@ -199,7 +174,7 @@ body {
   <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
 
 <h6>WIPP Toolbox</h6>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/WWISWeb/index.aspx">WIPP Waste Information System Public Access</a></p>
+  <p class="indent20"><a href="../WWIS_temppage.html" title="WIPP Waste Information System Public Access Page Under Construction" target="_blank">WIPP Waste Information System Public Access</a></p>
   <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
   <p><br />
   </p>
@@ -216,7 +191,7 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 <p align="center"> <img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
 
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-  <script src="file://///troi2/wwwroot/WIPPRecovery/JS/jquery.slides.min.js"></script>
+  <script src="JS/jquery.slides.min.js"></script>
 
   <script>
     $(function(){
