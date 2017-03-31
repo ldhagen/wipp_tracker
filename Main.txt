@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->3/28/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->3/30/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,24 +78,32 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>February 27, 2017</strong><br />
+        <h6 align="left"><strong>March 30, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>WIPP Road Show Early Stops Planned in Carlsbad &amp; Hobbs</strong></span></p>
-        <p>Shipments of  transuranic (TRU) waste destined for the U.S Department of Energy&rsquo;s (DOE) Waste  Isolation Pilot Plant (WIPP) near Carlsbad, NM, are scheduled to resume in  April 2017. These will be the first shipments received at the facility since  the February 2014 incidents.</p>
-        <p>In  preparation for the resumption of shipping, the DOE Carlsbad Field Office will  be supporting state-sponsored road shows along the active transportation  routes. The road shows give local officials and members of the public the  chance to see the actual shipping package for TRU waste – the TRUPACT-II – and  to understand the WIPP transportation protocols and requirements, including  driver standards, package design and testing requirements, inspection  procedures, and emergency response plans and equipment.</p>
-        <p>Those  attending the state-sponsored event will have an opportunity to speak about  WIPP and its TRU waste shipping program with TRU truck drivers, local  transportation inspectors, local emergency responders and representatives from WIPP.  Road shows will be presented during the month of March along transportation  corridors covering New Mexico and Texas; the Southern Route (Alabama, Georgia,  Louisiana, Mississippi, and South Carolina) and the Western States Route  (Colorado, Idaho, Utah, and Wyoming) to WIPP. DOE will issue social media  updates, as the dates and times for additional road shows are confirmed. Road  shows confirmed for the coming week are listed below:</p>
-        <p><u>Carlsbad, NM</u><strong> </strong><br />
-          Wednesday, March 1, 2017<br />
-          10:00 a.m. – 1:00 p.m.<br />
-          Location: 2320 W. Pearce – Jenkins Home Furnishings Parking Lot</p>
-        <p><u>Hobbs, NM</u><br />
-          Thursday, March 2, 2017<br />
-          10:00 a.m. – 1:00 p.m.<br />
-          Location: 5317 N. Lovington Highway - New Mexico Junior College</p>
-        <p>WIPP has  safely transported more than 11,800 shipments to the facility, totaling more  than 14 million miles.  The road show  will give attendees the opportunity to see the actual shipping package and  become familiar with WIPP transportation protocols. Those attending will have  an opportunity to speak with representatives from WIPP about the project,  transportation requirements and shipping procedures. Additionally,  representatives from the carriers, the Commercial Vehicle Safety Alliance, trainers  from DOE&rsquo;s Transportation Emergency Preparedness Program and other DOE  representatives will be on-site to answer questions.</p>
-        <p align="center"><strong>Next WIPP Town Hall Meeting – March 16</strong></p>
-        <p>The City of  Carlsbad and DOE co-host Town Hall meetings to provide updates on WIPP restart  activities. The next meeting will be Thursday, March 16, at 5:30 p.m. Location:  Carlsbad City Council Chambers, 101 N. Halagueno Street. WIPP Town Hall  Meetings are live-streamed at <a href="http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.    </p></td>
+        <p align="left"><span style="font-size: small"><strong>Preparations Continue for Resumption of Shipments to WIPP<br />
+          <br />
+          Road shows underway in Idaho, Utah, Wyoming &amp; Colorado</strong></span><br />
+        </p>
+        <p>In preparation for the  resumption of shipments of transuranic (TRU) waste to the Waste Isolation Pilot  Plant (WIPP), located near Carlsbad, New Mexico, the U.S. Department of  Energy&rsquo;s (DOE) Carlsbad Field Office (CBFO) is supporting &ldquo;road shows&rdquo;  sponsored by state and tribal authorities along the transportation routes to  WIPP. Shipments to WIPP were suspended in February 2014 when two unrelated  incidents, an underground salt haul truck fire and a radiological release that  occurred as a result of a chemical reaction in a waste drum, caused the  temporary closure of the facility. WIPP officially reopened in January of 2017  and shipments from TRU waste generator sites across the DOE complex are  expected to resume in April 2017.<br />
+          <br />
+        Since it  began in 1999, the WIPP transportation program has maintained an excellent  safety record, thanks to strict driver qualifications; rigorous inspection  requirements for trucks, trailers and packages; use of Type B containers  certified by the U.S. Nuclear Regulatory Commission (NRC); and the close  coordination and planning with states and tribes that goes into preparation for  shipping.<br />
+        <br />
+        The  road shows are open to the public and are intended to provide local elected  officials, members of the public and the media with the opportunity for an  up-close look at the truck, trailer and TRUPACT-II shipping packages and a  chance to learn more about the rigorous WIPP transportation protocols designed  to ensure the safe transport of TRU waste. WIPP representatives, inspectors  from the Commercial Vehicle Safety Alliance, local emergency response personnel  and truck drivers are on hand and available to provide information and answer  questions on the WIPP transportation system.<br />
+        <br />
+        WIPP  road shows have been conducted throughout the month of March along the shipping  routes from waste generator sites around the country to WIPP. Earlier this  month, road shows were held in the communities near WIPP, followed by the  southern route, which includes the states of South Carolina, Georgia, Alabama,  Mississippi, Louisiana and Texas.</p>
+        <table width="380" border="0">
+          <tr>
+            <td><img src="Images/Road Show.jpg" width="380" height="377" alt="Road Show" /></td>
+          </tr>
+          <tr>
+            <td><p>Idaho State  Trooper and commercial vehicle enforcement officer Tony Anderson talks to  attendees at the kick-off of the WIPP Road Show for the western corridor  shipping route at Fort Hall, Idaho, on Monday, March 27.</p></td>
+          </tr>
+      </table>
+        <p>&nbsp;</p>
+        <p><strong>Like Us on Facebook</strong></p>
+        <p>The Carlsbad  Field Office recently added another communication tool to help stakeholders stay  informed about what&rsquo;s happening at WIPP. The WIPP Facebook page provides brief  highlights of information on all facets of the WIPP program, so be sure to<strong> like us on Facebook at WIPP – Waste  Isolation Pilot Plant</strong>. You can also find us on Twitter <strong><em>@WIPPNews</em></strong>. These social  media channels will also be important vehicles to share information with  stakeholders in case of a WIPP emergency, so be sure to look us up.</p>
+        <p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
