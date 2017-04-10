@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->3/30/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->4/10/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,31 +78,26 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>March 30, 2017</strong><br />
+        <h6 align="left"><strong>April 10, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>Preparations Continue for Resumption of Shipments to WIPP<br />
-          <br />
-          Road shows underway in Idaho, Utah, Wyoming &amp; Colorado</strong></span><br />
+        <p align="left"><span style="font-size: small"><strong>WIPP Receives First Shipment Since Reopening</strong></span><br />
         </p>
-        <p>In preparation for the  resumption of shipments of transuranic (TRU) waste to the Waste Isolation Pilot  Plant (WIPP), located near Carlsbad, New Mexico, the U.S. Department of  Energy&rsquo;s (DOE) Carlsbad Field Office (CBFO) is supporting &ldquo;road shows&rdquo;  sponsored by state and tribal authorities along the transportation routes to  WIPP. Shipments to WIPP were suspended in February 2014 when two unrelated  incidents, an underground salt haul truck fire and a radiological release that  occurred as a result of a chemical reaction in a waste drum, caused the  temporary closure of the facility. WIPP officially reopened in January of 2017  and shipments from TRU waste generator sites across the DOE complex are  expected to resume in April 2017.<br />
+        <p>The Department of Energy&rsquo;s (DOE) Waste Isolation Pilot Plant  (WIPP) today announced receipt of its first shipment of transuranic (TRU) waste  since WIPP reopened in January. The shipment from Idaho is an important  milestone for WIPP and for DOE host communities that have had to store TRU  waste since WIPP suspended operations in February 2014, when a truck fire and  unrelated radiological event temporarily closed the facility.</p>
+        <p>&ldquo;To see shipments arriving again at WIPP is celebrated not only by  the WIPP workforce and the Carlsbad community, but also by our DOE host  communities that support the critical missions of the Department,&rdquo; DOE Carlsbad  Field Office Manager Todd Shrader said.</p>
+        <p>Jack Zimmerman, Deputy Manager  for the Idaho Cleanup Project at the DOE Idaho Operations Office, said,  &ldquo;Due to the skill and dedication of our workers, the Idaho Site has  made remarkable progress over the years. We owe a great debt of gratitude to  every employee who has worked on this project. I speak for all of us when I say  that we are pleased to be shipping to WIPP again.&rdquo; <br />
           <br />
-        Since it  began in 1999, the WIPP transportation program has maintained an excellent  safety record, thanks to strict driver qualifications; rigorous inspection  requirements for trucks, trailers and packages; use of Type B containers  certified by the U.S. Nuclear Regulatory Commission (NRC); and the close  coordination and planning with states and tribes that goes into preparation for  shipping.<br />
-        <br />
-        The  road shows are open to the public and are intended to provide local elected  officials, members of the public and the media with the opportunity for an  up-close look at the truck, trailer and TRUPACT-II shipping packages and a  chance to learn more about the rigorous WIPP transportation protocols designed  to ensure the safe transport of TRU waste. WIPP representatives, inspectors  from the Commercial Vehicle Safety Alliance, local emergency response personnel  and truck drivers are on hand and available to provide information and answer  questions on the WIPP transportation system.<br />
-        <br />
-        WIPP  road shows have been conducted throughout the month of March along the shipping  routes from waste generator sites around the country to WIPP. Earlier this  month, road shows were held in the communities near WIPP, followed by the  southern route, which includes the states of South Carolina, Georgia, Alabama,  Mississippi, Louisiana and Texas.</p>
+          The facility is planning on receiving two shipments a week, ramping up to four  shipments a week by the end of 2017. Initial shipments are  expected from Idaho, Savannah River Site and Waste Control Specialists.  Shipments from Oak Ridge and Los Alamos National Laboratory are expected later  this year.</p>
+        <p>Eligibility for shipping is based on the generator sites verifying  that the TRU waste meets requirements for safe transportation and disposal. The  exact allocation and sequence for shipping will be adjusted based on the  emplacement rate at WIPP, operational needs at WIPP and generator sites, and  logistical issues, such as weather, that affect shipping.</p>
+        <p>See the shipment arrive <a href="../Special/Reopening First Shipment.mp4" target="_blank">here.</a></p>
         <table width="380" border="0">
           <tr>
-            <td><img src="Images/Road Show.jpg" width="380" height="377" alt="Road Show" /></td>
+            <td><img src="Images/First Shipment Arrival.jpg" width="380" height="238" alt="Shipment" /></td>
           </tr>
           <tr>
-            <td><p>Idaho State  Trooper and commercial vehicle enforcement officer Tony Anderson talks to  attendees at the kick-off of the WIPP Road Show for the western corridor  shipping route at Fort Hall, Idaho, on Monday, March 27.</p></td>
+            <td><p>The first waste shipment since February 2014 arrives at the WIPP Site.</p></td>
           </tr>
-      </table>
-        <p>&nbsp;</p>
-        <p><strong>Like Us on Facebook</strong></p>
-        <p>The Carlsbad  Field Office recently added another communication tool to help stakeholders stay  informed about what&rsquo;s happening at WIPP. The WIPP Facebook page provides brief  highlights of information on all facets of the WIPP program, so be sure to<strong> like us on Facebook at WIPP – Waste  Isolation Pilot Plant</strong>. You can also find us on Twitter <strong><em>@WIPPNews</em></strong>. These social  media channels will also be important vehicles to share information with  stakeholders in case of a WIPP emergency, so be sure to look us up.</p>
+  </table>
         <p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
