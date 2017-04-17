@@ -163,7 +163,6 @@ body {
   <h6><a href="fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
   <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
   <h6><a href="photo_video.html">Photo and Video</a>  </h6>
-  <h6><a href="faq.html">Frequently Asked Questions</a></h6>
   <h6><a href="townhallmeeting.html">Town Hall Meetings</a><BR />
   </h6>
   <hr>
