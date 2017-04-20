@@ -41,11 +41,11 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->4/10/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->4/20/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
-  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Home Page</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
+  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Archive</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
     <A href="http://www.wipp.energy.gov/search.asp">Search</A></div>
 </DIV>
 
@@ -78,26 +78,26 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>April 10, 2017</strong><br />
+        <h6 align="left"><strong>April 20, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>WIPP Receives First Shipment Since Reopening</strong></span><br />
+        <p align="left"><span style="font-size: small"><strong>WIPP's Mine Rescue Team Wins Competition</strong></span><br />
         </p>
-        <p>The Department of Energy&rsquo;s (DOE) Waste Isolation Pilot Plant  (WIPP) today announced receipt of its first shipment of transuranic (TRU) waste  since WIPP reopened in January. The shipment from Idaho is an important  milestone for WIPP and for DOE host communities that have had to store TRU  waste since WIPP suspended operations in February 2014, when a truck fire and  unrelated radiological event temporarily closed the facility.</p>
-        <p>&ldquo;To see shipments arriving again at WIPP is celebrated not only by  the WIPP workforce and the Carlsbad community, but also by our DOE host  communities that support the critical missions of the Department,&rdquo; DOE Carlsbad  Field Office Manager Todd Shrader said.</p>
-        <p>Jack Zimmerman, Deputy Manager  for the Idaho Cleanup Project at the DOE Idaho Operations Office, said,  &ldquo;Due to the skill and dedication of our workers, the Idaho Site has  made remarkable progress over the years. We owe a great debt of gratitude to  every employee who has worked on this project. I speak for all of us when I say  that we are pleased to be shipping to WIPP again.&rdquo; <br />
-          <br />
-          The facility is planning on receiving two shipments a week, ramping up to four  shipments a week by the end of 2017. Initial shipments are  expected from Idaho, Savannah River Site and Waste Control Specialists.  Shipments from Oak Ridge and Los Alamos National Laboratory are expected later  this year.</p>
-        <p>Eligibility for shipping is based on the generator sites verifying  that the TRU waste meets requirements for safe transportation and disposal. The  exact allocation and sequence for shipping will be adjusted based on the  emplacement rate at WIPP, operational needs at WIPP and generator sites, and  logistical issues, such as weather, that affect shipping.</p>
-        <p>See the shipment arrive <a href="../Special/Reopening First Shipment.mp4" target="_blank">here.</a></p>
+        <p>The  Waste Isolation Pilot Plant (WIPP) mine rescue teams (Red and Blue) recently  competed in the Southwest Regional Mine Rescue Association Competition, held in  Carlsbad, NM. The WIPP Red Team came away with top honors, being named the  Overall Contest Champion and taking first in the field competition, and WIPP  Blue Team members (Heath Fowler and Nico Dominguez) won the team technician  category.</p>
+        <p>&ldquo;We  have, arguably, the two best mine rescue teams in the country,&rdquo; said Phil  Breidenbach, Nuclear Waste Partnership President and Project Manager. &ldquo;It gives  me comfort to know that we have such skilled professionals ready to step in if  we ever need them.&rdquo;</p>
+        <p>The contest  included a first aid portion, which involves finding, treating and rescuing  trapped or injured individuals. The field portion consisted of exploring a  simulated mine, monitoring the underground air for gases, mapping the mine to  keep members informed of obstacles and routes, rescuing survivors, and  reestablishing ventilation. Another part of the competition is to maintain a  fresh air base that serves as a communication and command center for the team. The  teams&rsquo; performance supports the continued commitment by mine rescue individuals  to ensure emergency preparedness capabilities at the WIPP facility.</p>
+        <p>At WIPP and most other  mines, mine rescue team members are volunteers who report to work every day,  performing normal tasks. The teams are composed of hoisting supervisors,  mechanics, waste handlers, mining operators and other occupations. Teams  practice and prepare for the day they are called to a real emergency. These  volunteers devote countless hours, both before and after work, honing their skills.</p>
+        <p align="left">Mine rescue teams participate in several competitions each  year to sharpen their skills, share lessons learned and continually raise the  level of mine safety in the world. In real emergencies, the lives of mine  rescue team members and their coworkers depend on the proficiency of each  individual&rsquo;s skill and training.</p>
+        <p><strong>Like Us on Facebook </strong> <br />
+          The Carlsbad Field Office  recently added another communication tool to help stakeholders stay informed  about what&rsquo;s happening at WIPP. The WIPP Facebook page provides brief  highlights of information on all facets of the WIPP program, so be sure to <strong>like  us on Facebook at WIPP – Waste Isolation Pilot Plant</strong>. You can also find us  on Twitter <strong><em>@WIPPNews</em></strong>. <strong></strong></p>
         <table width="380" border="0">
           <tr>
-            <td><img src="Images/First Shipment Arrival.jpg" width="380" height="238" alt="Shipment" /></td>
+            <td><img src="../images/Mine Rescue.jpg" width="380" height="238" alt="mine rescue" /></td>
           </tr>
           <tr>
-            <td><p>The first waste shipment since February 2014 arrives at the WIPP Site.</p></td>
+            <td><p><strong>Members  of the WIPP Red Team prepare to begin the field portion of the mine rescue  competition recently held in Carlsbad, NM.</strong></p></td>
           </tr>
-  </table>
+</table>
         <p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
@@ -145,9 +145,7 @@ body {
 </DIV>
 <DIV id=sidebar>
 <DIV class=linkbox> 
-<h3>Recovery Page</h3>
-
-<p class="open_page">Home</p> 
+<h3>Home</h3> 
 
 <hr>
 <h3>Event Information</h3>
