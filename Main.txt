@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->5/3/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->5/4/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -174,7 +174,7 @@ body {
   <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
 
 <h6>WIPP Toolbox</h6>
-  <p class="indent20"><a href="../WWIS_temppage.html" title="WIPP Waste Information System Public Access Page Under Construction" target="_blank">WIPP Waste Information System Public Access</a></p>
+  <p class="indent20"><a href="http://www.wipp.energy.gov/WDSPA" title="WIPP Waste Information System Public Access Page Under Construction" target="_blank">WIPP Waste Information System Public Access</a></p>
   <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
   <p><br />
   </p>
