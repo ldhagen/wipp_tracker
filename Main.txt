@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->5/4/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->5/9/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,26 +78,20 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>April 20, 2017</strong><br />
+        <h6 align="left"><strong>May 4, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>WIPP's Mine Rescue Team Wins Competition</strong></span><br />
+        <p align="left"><span style="font-size: small"><strong>Bruce Covert Named NWP President &amp; Project Manager</strong></span>        </p>
+        <p>AIKEN, S.C. — AECOM,  a premier, fully integrated global infrastructure firm, announced today that Bruce Covert has been appointed  president and project manager of Nuclear Waste Partnership (NWP), the AECOM-led  company that manages the U.S. Department of Energy&rsquo;s (DOE) Waste Isolation  Pilot Plant (WIPP). </p>
+        <p>&ldquo;Bruce is a proven leader in the nuclear industry with extensive  experience in the DOE market,&rdquo; said John Vollmer, president, Management  Services group. &ldquo;His expertise and leadership will enable Nuclear Waste  Partnership to safely and effectively operate WIPP for the long term.&rdquo; </p>
+        <p>Mr. Covert brings more than 30 years of experience with AECOM legacy  companies in the management and operation of nuclear and other high-hazard  facilities for the DOE and the U.K.&rsquo;s Nuclear Decommissioning Authority (NDA).  His expertise envelops every aspect of the nuclear facility life-cycle, from  design and construction to start-up, operations, decommissioning, deactivation,  decontamination and demolition. </p>
+        <p>&ldquo;I&rsquo;m extremely excited to join NWP,&rdquo; said Mr. Covert. &ldquo;I commend the  Nuclear Waste Partnership employees for their hard work in getting WIPP back  into operation this year. I look forward to helping the DOE advance its mission  at WIPP and its role in cleaning up the DOE complex.&rdquo;</p>
+        <p>Most recently, Mr. Covert served as AECOM group vice president and project  director for waste management projects for Dounreay Site Restoration Limited,  Dounreay, U.K. He was responsible for safe delivery of the Waste and Shaft  &amp; Silo projects at Britain&rsquo;s former center for fast reactor research and  development. His leadership responsibilities included delivering  the site&rsquo;s waste program including characterization, transportation, storage  and disposal, along with treatment of low level and intermediate level waste  from the site&rsquo;s decommissioning program. He manages over 12,000 drums of contact-handled and remote-handled intermediate  level radioactive waste. Mr. Covert was also an active member of the National  Low Level Waste Program Board established to implement the U.K.&rsquo;s strategy for  the management of solid low level radioactive waste from the nuclear industry.</p>
+        <p>His most recent work in the U.S. was as project director, environmental,  safety, health and quality for Washington Closure Hanford (WCH) at the DOE&rsquo;s  Hanford site, where he led development of a &ldquo;best-in-class&rdquo; contractor  assurance system program that yielded outstanding safety, cost and schedule  performance. He also managed the regulatory relationship with the Environmental  Protection Agency and Washington State Department of Ecology to allow site  closure of the 220 square-mile River Corridor. As the WCH project director for  waste operations, he managed the recovery of the Environmental Restoration  Disposal Facility, including developing and implementing regulatory and  operational basis. </p>
+        <p>Mr. Covert replaces Phil Breidenbach who led recovery and restart  activities at WIPP since April 2015. Mr. Breidenbach will return to AECOM  supporting other projects in the DOE and nuclear market.<br />
         </p>
-        <p>The  Waste Isolation Pilot Plant (WIPP) mine rescue teams (Red and Blue) recently  competed in the Southwest Regional Mine Rescue Association Competition, held in  Carlsbad, NM. The WIPP Red Team came away with top honors, being named the  Overall Contest Champion and taking first in the field competition, and WIPP  Blue Team members (Heath Fowler and Nico Dominguez) won the team technician  category.</p>
-        <p>&ldquo;We  have, arguably, the two best mine rescue teams in the country,&rdquo; said Phil  Breidenbach, Nuclear Waste Partnership President and Project Manager. &ldquo;It gives  me comfort to know that we have such skilled professionals ready to step in if  we ever need them.&rdquo;</p>
-        <p>The contest  included a first aid portion, which involves finding, treating and rescuing  trapped or injured individuals. The field portion consisted of exploring a  simulated mine, monitoring the underground air for gases, mapping the mine to  keep members informed of obstacles and routes, rescuing survivors, and  reestablishing ventilation. Another part of the competition is to maintain a  fresh air base that serves as a communication and command center for the team. The  teams&rsquo; performance supports the continued commitment by mine rescue individuals  to ensure emergency preparedness capabilities at the WIPP facility.</p>
-        <p>At WIPP and most other  mines, mine rescue team members are volunteers who report to work every day,  performing normal tasks. The teams are composed of hoisting supervisors,  mechanics, waste handlers, mining operators and other occupations. Teams  practice and prepare for the day they are called to a real emergency. These  volunteers devote countless hours, both before and after work, honing their skills.</p>
-        <p align="left">Mine rescue teams participate in several competitions each  year to sharpen their skills, share lessons learned and continually raise the  level of mine safety in the world. In real emergencies, the lives of mine  rescue team members and their coworkers depend on the proficiency of each  individual&rsquo;s skill and training.</p>
-        <p><strong>Like Us on Facebook </strong> <br />
-          The Carlsbad Field Office  recently added another communication tool to help stakeholders stay informed  about what&rsquo;s happening at WIPP. The WIPP Facebook page provides brief  highlights of information on all facets of the WIPP program, so be sure to <strong>like  us on Facebook at WIPP – Waste Isolation Pilot Plant</strong>. You can also find us  on Twitter <strong><em>@WIPPNews</em></strong>. <strong></strong></p>
-        <table width="380" border="0">
-          <tr>
-            <td><img src="../images/Mine Rescue.jpg" width="380" height="238" alt="mine rescue" /></td>
-          </tr>
-          <tr>
-            <td><p><strong>Members  of the WIPP Red Team prepare to begin the field portion of the mine rescue  competition recently held in Carlsbad, NM.</strong></p></td>
-          </tr>
-</table>
+        <p>&ldquo;I want to thank Phil Breidenbach for his  fantastic leadership and steady hand that led to the restart of transuranic  waste operations at WIPP, and the resumption of shipments from the DOE sites  around the nation,&rdquo; said Vollmer. &ldquo;I wish Phil all the best in his next assignment  at AECOM.&rdquo;</p>
+        <p>&nbsp;</p>
         <p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
