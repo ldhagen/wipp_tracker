@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <HEAD>
@@ -181,10 +181,10 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 
 </DIV>
 </DIV>
-<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
-<p align="center"> <img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
+<p align="center"><img  id="Image1" src="https://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
+<p align="center"> <img  id="Image1" src="https://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
 
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="https://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
 
   <script>
