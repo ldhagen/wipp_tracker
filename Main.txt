@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <HEAD>
@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->5/9/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->6/1/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,21 +78,14 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>May 4, 2017</strong><br />
+        <h6 align="left"><strong>June 1, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>Bruce Covert Named NWP President &amp; Project Manager</strong></span>        </p>
-        <p>AIKEN, S.C. — AECOM,  a premier, fully integrated global infrastructure firm, announced today that Bruce Covert has been appointed  president and project manager of Nuclear Waste Partnership (NWP), the AECOM-led  company that manages the U.S. Department of Energy&rsquo;s (DOE) Waste Isolation  Pilot Plant (WIPP). </p>
-        <p>&ldquo;Bruce is a proven leader in the nuclear industry with extensive  experience in the DOE market,&rdquo; said John Vollmer, president, Management  Services group. &ldquo;His expertise and leadership will enable Nuclear Waste  Partnership to safely and effectively operate WIPP for the long term.&rdquo; </p>
-        <p>Mr. Covert brings more than 30 years of experience with AECOM legacy  companies in the management and operation of nuclear and other high-hazard  facilities for the DOE and the U.K.&rsquo;s Nuclear Decommissioning Authority (NDA).  His expertise envelops every aspect of the nuclear facility life-cycle, from  design and construction to start-up, operations, decommissioning, deactivation,  decontamination and demolition. </p>
-        <p>&ldquo;I&rsquo;m extremely excited to join NWP,&rdquo; said Mr. Covert. &ldquo;I commend the  Nuclear Waste Partnership employees for their hard work in getting WIPP back  into operation this year. I look forward to helping the DOE advance its mission  at WIPP and its role in cleaning up the DOE complex.&rdquo;</p>
-        <p>Most recently, Mr. Covert served as AECOM group vice president and project  director for waste management projects for Dounreay Site Restoration Limited,  Dounreay, U.K. He was responsible for safe delivery of the Waste and Shaft  &amp; Silo projects at Britain&rsquo;s former center for fast reactor research and  development. His leadership responsibilities included delivering  the site&rsquo;s waste program including characterization, transportation, storage  and disposal, along with treatment of low level and intermediate level waste  from the site&rsquo;s decommissioning program. He manages over 12,000 drums of contact-handled and remote-handled intermediate  level radioactive waste. Mr. Covert was also an active member of the National  Low Level Waste Program Board established to implement the U.K.&rsquo;s strategy for  the management of solid low level radioactive waste from the nuclear industry.</p>
-        <p>His most recent work in the U.S. was as project director, environmental,  safety, health and quality for Washington Closure Hanford (WCH) at the DOE&rsquo;s  Hanford site, where he led development of a &ldquo;best-in-class&rdquo; contractor  assurance system program that yielded outstanding safety, cost and schedule  performance. He also managed the regulatory relationship with the Environmental  Protection Agency and Washington State Department of Ecology to allow site  closure of the 220 square-mile River Corridor. As the WCH project director for  waste operations, he managed the recovery of the Environmental Restoration  Disposal Facility, including developing and implementing regulatory and  operational basis. </p>
-        <p>Mr. Covert replaces Phil Breidenbach who led recovery and restart  activities at WIPP since April 2015. Mr. Breidenbach will return to AECOM  supporting other projects in the DOE and nuclear market.<br />
-        </p>
-        <p>&ldquo;I want to thank Phil Breidenbach for his  fantastic leadership and steady hand that led to the restart of transuranic  waste operations at WIPP, and the resumption of shipments from the DOE sites  around the nation,&rdquo; said Vollmer. &ldquo;I wish Phil all the best in his next assignment  at AECOM.&rdquo;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p></td>
+        <p align="left"><span style="font-size: small"><strong>DOE Awards Contract for WIPP Transportation Services </strong></span></p>
+        <p>Cincinnati – The U.S Department of Energy (DOE) Environmental Management Consolidated Business Center today announced the award of a contract to CAST Specialty Transportation, Inc. (CAST) of Henderson, Colorado for the Waste Isolation Pilot Plant (WIPP) transportation services. The Indefinite-Delivery, Indefinite-Quantity contract will use firm-fixed price task orders, with some cost reimbursement (no fee) items, with an estimated value up to $112 million. There is a five-year performance period, which includes a 60-day transition.</p>
+        <p>CAST will provide facilities, personnel, and equipment to operate a local terminal within the Greater Carlsbad, New Mexico (within 10 miles) area and transportation and maintenance services necessary to support WIPP and shipments of transuranic (TRU) waste. TRU waste consists of clothing, tools, rags, debris, residues and other disposal items contaminated with radioactive elements – mostly plutonium. These elements are manmade and have an atomic number greater than uranium. TRU waste was generated during the research and production of nuclear weapons at national laboratories and weapons production facilities across the country.</p>
+        <p>Transportation services include carrier services for the safe transport of contact handled (CH) and remote handled (RH) TRU waste and mixed hazardous constituents including polychlorinated biphenyls (PCBs) and asbestos. Shipments are made between various DOE sites across the country and other defense-related TRU waste generator sites to the WIPP site, near Carlsbad, New Mexico.</p>
+        <p>TRU waste must be transported in Nuclear Regulatory Commission approved, Type-B packaging. Truck drivers must meet and maintaining stringent safety and hazardous materials hauling qualification.  WIPP is the nation&rsquo;s only deep-geologic repository to isolate defense-related transuranic (TRU) mixed waste from the environment.</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
@@ -151,7 +144,8 @@ body {
 <hr>
 <h3>News and Updates</h3>
   <h6><a href="updates.html">Past WIPP Updates</a></h6>
-  <h6><a href="news.html">News Releases</a></h6> 
+  <h6><a href="news.html">News Releases</a></h6>
+  <h6><a href="http://www.wipp.energy.gov/WIPPCommunityRelations/index.html">2017 WIPP Community Relations Plan </a> NEW</h6> 
   <h6><a href="fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
   <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
   <h6><a href="photo_video.html">Photo and Video</a>  </h6>
@@ -170,6 +164,7 @@ body {
 <h6>WIPP Toolbox</h6>
   <p class="indent20"><a href="http://www.wipp.energy.gov/WDSPA" title="WIPP Waste Information System Public Access Page Under Construction" target="_blank">WIPP Waste Information System Public Access</a></p>
   <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
+  <h6 class="linkbox"><a href="http://www.wipp.energy.gov/WIPPCommunityRelations/index.html"></a></h6>
   <p><br />
   </p>
 </DIV>
@@ -181,10 +176,10 @@ Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site In
 
 </DIV>
 </DIV>
-<p align="center"><img  id="Image1" src="https://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
-<p align="center"> <img  id="Image1" src="https://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
+<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
+<p align="center"> <img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
 
-<script src="https://code.jquery.com/jquery-latest.min.js"></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
   <script src="JS/jquery.slides.min.js"></script>
 
   <script>
