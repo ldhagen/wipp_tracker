@@ -41,7 +41,7 @@ body {
 </DIV>
 <DIV id=menu2>
   <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->6/1/17<!-- #EndDate -->
+    <!-- #BeginDate format:Am2 -->6/12/17<!-- #EndDate -->
   </p>
 </DIV>
 <DIV id=menu3>
@@ -78,14 +78,37 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>June 1, 2017</strong><br />
+        <h6 align="left"><strong>June 12, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>DOE Awards Contract for WIPP Transportation Services </strong></span></p>
-        <p>Cincinnati – The U.S Department of Energy (DOE) Environmental Management Consolidated Business Center today announced the award of a contract to CAST Specialty Transportation, Inc. (CAST) of Henderson, Colorado for the Waste Isolation Pilot Plant (WIPP) transportation services. The Indefinite-Delivery, Indefinite-Quantity contract will use firm-fixed price task orders, with some cost reimbursement (no fee) items, with an estimated value up to $112 million. There is a five-year performance period, which includes a 60-day transition.</p>
-        <p>CAST will provide facilities, personnel, and equipment to operate a local terminal within the Greater Carlsbad, New Mexico (within 10 miles) area and transportation and maintenance services necessary to support WIPP and shipments of transuranic (TRU) waste. TRU waste consists of clothing, tools, rags, debris, residues and other disposal items contaminated with radioactive elements – mostly plutonium. These elements are manmade and have an atomic number greater than uranium. TRU waste was generated during the research and production of nuclear weapons at national laboratories and weapons production facilities across the country.</p>
-        <p>Transportation services include carrier services for the safe transport of contact handled (CH) and remote handled (RH) TRU waste and mixed hazardous constituents including polychlorinated biphenyls (PCBs) and asbestos. Shipments are made between various DOE sites across the country and other defense-related TRU waste generator sites to the WIPP site, near Carlsbad, New Mexico.</p>
-        <p>TRU waste must be transported in Nuclear Regulatory Commission approved, Type-B packaging. Truck drivers must meet and maintaining stringent safety and hazardous materials hauling qualification.  WIPP is the nation&rsquo;s only deep-geologic repository to isolate defense-related transuranic (TRU) mixed waste from the environment.</p></td>
+        <p align="left"><span style="font-size: small"><strong>New President, Project Manager Takes Helm for NWP</strong></span></p>
+        <p>Nuclear  Waste Partnership LLC (NWP), the AECOM-led <br />
+          management and operating contractor  for the U.S. Department of Energy (DOE) at the Waste Isolation Pilot <br />
+          Plant  (WIPP), has a new president and project manager this week. Bruce Covert has  replaced Phil Breidenbach who, for the past two years, has led NWP efforts to  safely recover the facility and resume WIPP transuranic waste emplacement  operations.  </p>
+        <p> &ldquo;I  want to thank Phil for his hard work and leadership. He has been a true asset  to WIPP and an outstanding partner to the DOE Carlsbad Field Office (CBFO),&rdquo; said  CBFO Manager Todd Shrader.</p>
+        <p align="right">Covert  has been on site at WIPP for several weeks to prepare for the management change. Shrader says he expects a smooth transition. &ldquo;We&rsquo;re pleased to welcome  Bruce to the WIPP team and look forward to working with him as we continue  WIPP&rsquo;s important mission.&rdquo;</p>
+        <p>Covert brings more than 30 years of  experience with AECOM legacy companies in the management and operation of  nuclear and high hazard facilities for the DOE and the U.K.&rsquo;s Nuclear  Decommissioning Authority. 
+          He has broad expertise in nuclear facility operations, from design and  construction to start-up, operations and decommissioning. Most recently, Covert  served as AECOM group vice president and project director for waste management  projects for Dounreay Site Restoration Limited, Dounreay, U.K. Prior to that,  he was the project director for Environmental, Safety, Health and Quality for  Washington Closure Hanford.<br />
+          <br />
+  &ldquo;I count myself fortunate to have been part  of the team that <br />
+  reopened WIPP and saw transuranic waste shipments <br />
+  resume,&rdquo;  said Breidenbach. &ldquo;We have an amazing group of employees who care about the  WIPP mission and the Carlsbad and Hobbs communities. The future of WIPP is in  good hands, and I look forward to its continued success in the future.&rdquo; Breidenbach  will return to AECOM to support other projects in the DOE and nuclear market.<strong> </strong></p>
+        <p>WIPP  resumed waste emplacement operations in January 2017 and received its first  shipment of transuranic waste from Idaho National Laboratory on April 8, 2017,  following a 2014 underground vehicle fire and radiological release that  resulted in suspended operations.</p>
+        <p>&ldquo;Phil leaves some big shoes to fill,&rdquo; said  Covert. &ldquo;His steady hand and tenacity were integral to WIPP&rsquo;s recovery.  It was good to spend a few weeks with Phil as we  turn our eyes to the resumption of mining later this year.&rdquo;</p>
+        <table width="250" border="0">
+          <tr>
+            <td width="42"><img src="Images/Covertweb.jpg" width="158" height="227" alt="Covert" /></td>
+            <td width="198"><div align="center"><strong>Bruce Covert</strong></div></td>
+          </tr>
+          <tr>
+            <td><div align="center"><strong>Phil Breidenbach</strong></div></td>
+            <td><img src="Images/Breidenbachweb.jpg" width="158" height="199" alt="Breidenbach" /></td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <p><strong>Subscribe Now to Get Your WIPP News</strong> <br />
+          The Carlsbad Field Office  recently added a new subscription service, Gov Delivery, that makes it easier  than ever for stakeholders to receive their WIPP news. Simply <a href="https://public.govdelivery.com/accounts/USDOEOEM/subscribers/new?preferences=true">click  here</a> and indicate how (email or text) you want to receive your WIPP news.  You will also be asked to provide an email address or cell phone number  depending on the subscription type you select. Please select <strong>WIPP Update</strong> from the list of  subscriptions provided and click on submit. Stakeholders can also subscribe to  other information products that are offered by DOE&rsquo;s Office of Environmental  Management. Also be sure to like and share us on Facebook at <strong>WIPP – Waste  Isolation Pilot Plant</strong>. You can also find us on Twitter <strong><em>@WIPPNews</em></strong>. <strong></strong></p>
+<p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
