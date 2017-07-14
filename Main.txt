@@ -78,37 +78,25 @@ body {
 	    </div>  
         
       <h1>WIPP Update</h1>
-        <h6 align="left"><strong>June 12, 2017</strong><br />
+        <h6 align="left"><strong>July 13, 2017</strong><br />
           <br />
         </h6>
-        <p align="left"><span style="font-size: small"><strong>New President, Project Manager Takes Helm for NWP</strong></span></p>
-        <p>Nuclear  Waste Partnership LLC (NWP), the AECOM-led <br />
-          management and operating contractor  for the U.S. Department of Energy (DOE) at the Waste Isolation Pilot <br />
-          Plant  (WIPP), has a new president and project manager this week. Bruce Covert has  replaced Phil Breidenbach who, for the past two years, has led NWP efforts to  safely recover the facility and resume WIPP transuranic waste emplacement  operations.  </p>
-        <p> &ldquo;I  want to thank Phil for his hard work and leadership. He has been a true asset  to WIPP and an outstanding partner to the DOE Carlsbad Field Office (CBFO),&rdquo; said  CBFO Manager Todd Shrader.</p>
-        <p align="right">Covert  has been on site at WIPP for several weeks to prepare for the management change. Shrader says he expects a smooth transition. &ldquo;We&rsquo;re pleased to welcome  Bruce to the WIPP team and look forward to working with him as we continue  WIPP&rsquo;s important mission.&rdquo;</p>
-        <p>Covert brings more than 30 years of  experience with AECOM legacy companies in the management and operation of  nuclear and high hazard facilities for the DOE and the U.K.&rsquo;s Nuclear  Decommissioning Authority. 
-          He has broad expertise in nuclear facility operations, from design and  construction to start-up, operations and decommissioning. Most recently, Covert  served as AECOM group vice president and project director for waste management  projects for Dounreay Site Restoration Limited, Dounreay, U.K. Prior to that,  he was the project director for Environmental, Safety, Health and Quality for  Washington Closure Hanford.<br />
+        <p align="left"><span style="font-size: small"><strong>EPA Recertifies WIPP's Continued Compliance 
           <br />
-  &ldquo;I count myself fortunate to have been part  of the team that <br />
-  reopened WIPP and saw transuranic waste shipments <br />
-  resume,&rdquo;  said Breidenbach. &ldquo;We have an amazing group of employees who care about the  WIPP mission and the Carlsbad and Hobbs communities. The future of WIPP is in  good hands, and I look forward to its continued success in the future.&rdquo; Breidenbach  will return to AECOM to support other projects in the DOE and nuclear market.<strong> </strong></p>
-        <p>WIPP  resumed waste emplacement operations in January 2017 and received its first  shipment of transuranic waste from Idaho National Laboratory on April 8, 2017,  following a 2014 underground vehicle fire and radiological release that  resulted in suspended operations.</p>
-        <p>&ldquo;Phil leaves some big shoes to fill,&rdquo; said  Covert. &ldquo;His steady hand and tenacity were integral to WIPP&rsquo;s recovery.  It was good to spend a few weeks with Phil as we  turn our eyes to the resumption of mining later this year.&rdquo;</p>
-        <table width="250" border="0">
-          <tr>
-            <td width="42"><img src="Images/Covertweb.jpg" width="158" height="227" alt="Covert" /></td>
-            <td width="198"><div align="center"><strong>Bruce Covert</strong></div></td>
-          </tr>
-          <tr>
-            <td><div align="center"><strong>Phil Breidenbach</strong></div></td>
-            <td><img src="Images/Breidenbachweb.jpg" width="158" height="199" alt="Breidenbach" /></td>
-          </tr>
-        </table>
-        <p>&nbsp;</p>
-        <p><strong>Subscribe Now to Get Your WIPP News</strong> <br />
-          The Carlsbad Field Office  recently added a new subscription service, Gov Delivery, that makes it easier  than ever for stakeholders to receive their WIPP news. Simply <a href="https://public.govdelivery.com/accounts/USDOEOEM/subscribers/new?preferences=true">click  here</a> and indicate how (email or text) you want to receive your WIPP news.  You will also be asked to provide an email address or cell phone number  depending on the subscription type you select. Please select <strong>WIPP Update</strong> from the list of  subscriptions provided and click on submit. Stakeholders can also subscribe to  other information products that are offered by DOE&rsquo;s Office of Environmental  Management. Also be sure to like and share us on Facebook at <strong>WIPP – Waste  Isolation Pilot Plant</strong>. You can also find us on Twitter <strong><em>@WIPPNews</em></strong>. <strong></strong></p>
-<p>&nbsp;</p></td>
+        </strong></span></p>
+        <p align="center">The U.S.  Department of Energy (DOE) announced today the Waste Isolation Pilot Plant  (WIPP) has been recertified by the Environmental Protection Agency (EPA) and  remains in full compliance with applicable EPA regulations for transuranic  radioactive waste disposal.<br />
+          <br />
+  &ldquo;This  decision reconfirms WIPP&rsquo;s long-term ability to safely isolate transuranic  waste from the environment,&rdquo; said Todd Shrader, DOE Carlsbad Field Office  Manager. &ldquo;I want to thank everyone who worked on the EPA Compliance  Recertification Application. The recertification is highly important to the  continued operation of WIPP and represents a lot of work by our federal and  contractor staff and the EPA.&rdquo; <br />
+  <br />
+          EPA&rsquo;s recertification decision is based on a thorough review of information  submitted by DOE, independent technical analyses, and public comments. The  recertification process, which began in March 2014, was not related to recovery  efforts from the recent events at WIPP, but rather a process to verify that  changes at the site in the preceding five-year period comply with EPA disposal  standards for radioactive waste.<br />
+  <br />
+          DOE is  required by law to submit documentation of continued compliance at five-year  intervals until the facility is decommissioned. EPA first certified WIPP as  compliant in 1998. The initial Compliance Certification Application  demonstrated how the geological, hydrological, physical, chemical and  environmental characteristics of the site, along with engineered features of  the facility, would safely contain radioactive waste for a 10,000-year  regulatory time period.<br />
+  <br />
+          A copy of  EPA&rsquo;s WIPP recertification package is available at:  <a href="https://www.epa.gov/radiation/certification-and-recertification-wipp">https://www.epa.gov/radiation/certification-and-recertification-wipp</a><br />
+  <br />
+          WIPP is a DOE facility designed to safely isolate defense-related  transuranic waste from people and the environment. Waste temporarily stored at  sites around the country is shipped to WIPP and permanently disposed in rooms  mined out of an ancient salt formation 2,150 feet below the surface. WIPP,  which began waste disposal operations in 1999, is located 26 miles outside of  Carlsbad, N.M. WIPP has safely transported more than 11,000 shipments over more  than 14 million loaded miles.  </p>
+<p align="center">&nbsp;</p>
+        <p>&nbsp;</p></td>
       <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
         <p align="left"><br />
           <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
