@@ -1,215 +1,154 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0058)http://dynamicdrive.com/dynamicindex14/fadeinslideshow.htm -->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<HEAD>
-<meta name="msvalidate.01" content="E04157DFD334A77B7E6DAB14CAD59287" />
-<TITLE>Waste Isolation Pilot Plant</TITLE>
-<META name="Keywords" content="WIPP, waste,Isolation,Pilot,Plant,Waste Isolation Pilot Plant,Home,Carlsbad Field Office,CBFO,DOE,transuranic,radioactive,permanently,dispose,first,underground,repository,Hazardous,Facility,salt,mine,NTP,National TRU Programs,TRU">
-<META content=false name=MSSmartTagsPreventParsing>
-<META http-equiv=imagetoolbar content=no>
-<META http-equiv=Content-Language content=en-us>
-<META http-equiv=Content-Type content="text/html; charset=utf-8">
-<META content="Index, ALL" name=robots>
-<LINK href="wipp.css" type=text/css rel=stylesheet>
-<style type="text/css">
-body {
-	margin-left: 0px;
-	margin-right: 0px;
-}
-
-</style>
-<link href="font-awesome.min.css" type="text/css" rel="stylesheet"/>
-<link href="slide-style.css" type="text/css" rel="stylesheet"/>
-
-<META content="MSHTML 6.00.2900.5803" name=GENERATOR>
- 
-
-
-
-</HEAD>
-<BODY>
-
-
-<DIV id=wrapper>
-<DIV id=header> <a href="http://wipp.energy.gov" name="header" id="header">Logo</a></DIV>
-<DIV id=menu>
-<DIV id=menu1>
-<a href="https://twitter.com/WIPPNEWS" class="twitter-follow-button" data-show-count="false">Follow @WIPPNEWS</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-</script>
-</DIV>
-<DIV id=menu2>
-  <p>Last Updated: 
-    <!-- #BeginDate format:Am2 -->6/12/17<!-- #EndDate -->
-  </p>
-</DIV>
-<DIV id=menu3>
-  <div align="center"><A href="http://www.wipp.energy.gov/index.htm">WIPP Archive</A><img src="images/filler.png" /><a href="about.html">About WIPP</a><img src="images/filler.png" alt="" /><A href="http://www.wipp.energy.gov/contacts.htm">Contact Us</A><img src="images/filler.png" />
-    <A href="http://www.wipp.energy.gov/search.asp">Search</A></div>
-</DIV>
-
-</DIV>
-<DIV id=content>
-  <table width="658" border="0" cellpadding="7">
-    <tr>
-      <td width="386" rowspan="2" align="left" valign="top">
-      <div id="slides">
-    	<div>
-    		<img src="Images/Slideshow/10_2/SVS.jpg">
-    		<div class="caption">The supplemental ventilation system installed in the air intake drift</div>
-    	</div>
-    	<div>
-    		<img src="Images/Slideshow/10_2/Bolter.jpg">
-    		<div class="caption">WIPP's new hybrid (diesel/electric) bolter in the underground mine</div>
-    	</div>
-    	<div>
-    		<img src="Images/Slideshow/10_2/EOC.jpg">
-    		<div class="caption">A drill being run at WIPP's new Emergency Operations Center </div>
-    		</div>
-		<div>
-			<img src="Images/Slideshow/10_2/UG_Fire_Ambulance.jpg">
-			<div class="caption">Emergency response vehicles stationed in the WIPP underground</div>
-		</div>
-		
-          <a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa-chevron-left icon-large"></i></a>
-	      <a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa-chevron-right icon-large"></i></a>
-          
-	    </div>  
-        
-      <h1>WIPP Update</h1>
-        <h6 align="left"><strong>July 13, 2017</strong><br />
-          <br />
-        </h6>
-        <p align="left"><span style="font-size: small"><strong>EPA Recertifies WIPP's Continued Compliance 
-          <br />
-        </strong></span></p>
-        <p align="center">The U.S.  Department of Energy (DOE) announced today the Waste Isolation Pilot Plant  (WIPP) has been recertified by the Environmental Protection Agency (EPA) and  remains in full compliance with applicable EPA regulations for transuranic  radioactive waste disposal.<br />
-          <br />
-  &ldquo;This  decision reconfirms WIPP&rsquo;s long-term ability to safely isolate transuranic  waste from the environment,&rdquo; said Todd Shrader, DOE Carlsbad Field Office  Manager. &ldquo;I want to thank everyone who worked on the EPA Compliance  Recertification Application. The recertification is highly important to the  continued operation of WIPP and represents a lot of work by our federal and  contractor staff and the EPA.&rdquo; <br />
-  <br />
-          EPA&rsquo;s recertification decision is based on a thorough review of information  submitted by DOE, independent technical analyses, and public comments. The  recertification process, which began in March 2014, was not related to recovery  efforts from the recent events at WIPP, but rather a process to verify that  changes at the site in the preceding five-year period comply with EPA disposal  standards for radioactive waste.<br />
-  <br />
-          DOE is  required by law to submit documentation of continued compliance at five-year  intervals until the facility is decommissioned. EPA first certified WIPP as  compliant in 1998. The initial Compliance Certification Application  demonstrated how the geological, hydrological, physical, chemical and  environmental characteristics of the site, along with engineered features of  the facility, would safely contain radioactive waste for a 10,000-year  regulatory time period.<br />
-  <br />
-          A copy of  EPA&rsquo;s WIPP recertification package is available at:  <a href="https://www.epa.gov/radiation/certification-and-recertification-wipp">https://www.epa.gov/radiation/certification-and-recertification-wipp</a><br />
-  <br />
-          WIPP is a DOE facility designed to safely isolate defense-related  transuranic waste from people and the environment. Waste temporarily stored at  sites around the country is shipped to WIPP and permanently disposed in rooms  mined out of an ancient salt formation 2,150 feet below the surface. WIPP,  which began waste disposal operations in 1999, is located 26 miles outside of  Carlsbad, N.M. WIPP has safely transported more than 11,000 shipments over more  than 14 million loaded miles.  </p>
-<p align="center">&nbsp;</p>
-        <p>&nbsp;</p></td>
-      <td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC"><h4 align="center">Reports and Plans</h4>
-        <p align="left"><br />
-          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a><br />
-          <br />
-          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_CORR_Final_Report.pdf">WIPP CORR Final Report</a><br />
-          <br />
-          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a><br />
-          <br />
-          <img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a><br />
-        </p>
-        <p align="left"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://www.wipp.energy.gov/library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
-        <p><a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Documented Safety Analysis, 
-          Rev. 5b Chapters 0-18</a></p>
-        <p><a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Technical Safety Requirements</a></p>
-        <p><a href="../Special/SER_DSA_Rev_5.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> Safety Evaluation Report for 
-          Documented Safety Analysis, Rev. 5b </a> </p>
-        <p><a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> CBFO Corrective Action Plan for the Fire and Radiological Events, Rev. 1</a></p>
-        <p><a href="../Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="NWP CAP Plan" width="17" height="17" /> NWP Corrective Action Addendum for Radiological Release Event</a><br />
-        </p>
-        <p><a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Report on the Feb. 14 Radiological Event</a></p>
-        <p><a href="../Special/Phase_2_AIB_Slides.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Phase II Investigation Summary Slides</a></p>
-        <p><a href="../Special/AIB Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> AIB Investigation Report on the Feb. 5 Fire<br />
-          <br />
-          </a><a href="../Special/AIB Summary.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Investigation Summary Slides<br />
-            </a><br />
-          <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Report on the Feb. 14
-            Radiological Event</a><br />
-  <br />
-          <a href="../Special/AIB_Rad_Report_Presentation.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> AIB Phase I Investigation Summary Slides</a><br />
-          <br />
-          <a href="../Special/DOE_WIPP_Salt_Haul_Fire_Corrective_Action_Plan.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for Fire Event</a><br />
-          <br />
-          <a href="../Special/DOE_Rad_Phase1_CAP_Report.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Office of Environmental Management Corrective Action Plan for the Radiological Event</a></p>
-        <p><a href="../Special/EA_memo_10152015.pdf" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Office of Enterprise Assessments Operational Analysis of Safety Trends at the Waste Isolation Pilot Plant, May 2014 - May 2015</a><br />
-          <br />
-          <a href="../Special/FINAL NWP Fire and Phase 1 Rad CAP_REDACT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> NWP Corrective Action Plan for the Fire and Radiological Events</a><br />
-          <br />
-          <a href="../Special/TECHNICAL_ASSESSMENT_TEAM_REPORT.pdf" target="_blank"><img src="Images/pdf_sm.gif" width="17" height="17" /> Technical Assessment Team Report </a></p>
-        <h6 align="center">Supporting Documents</h6>
-        <p><a href="http://energy.gov/em/listings/supporting-technical-documents" target="_blank"><img src="Images/pdf_sm.gif" alt="" width="17" height="17" /> Supporting documents for the AIB and TAT reports</a></td>
-    </tr>
-</table>
-  <hr />
-</DIV>
-<DIV id=sidebar>
-<DIV class=linkbox> 
-<h3>Home</h3> 
-
-<hr>
-<h3>Event Information</h3>
-<h6><a href="accident_desc.html">Accident Description</a></h6> 
-<h6><a href="protective_actions.html">Protective Actions</a></h6>
-<h6><a href="sampling_results.html">Sampling Results</a></h6>
-<h6><a href="plans_reports.html">Plans and Reports<br />
-</a></h6>
-<hr>
-<h3>News and Updates</h3>
-  <h6><a href="updates.html">Past WIPP Updates</a></h6>
-  <h6><a href="news.html">News Releases</a></h6>
-  <h6><a href="http://www.wipp.energy.gov/WIPPCommunityRelations/index.html">2017 WIPP Community Relations Plan </a> NEW</h6> 
-  <h6><a href="fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
-  <h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
-  <h6><a href="photo_video.html">Photo and Video</a>  </h6>
-  <h6><a href="townhallmeeting.html">Town Hall Meetings</a><BR />
-  </h6>
-  <hr>
-
-<H3>Other WIPP Documents and Tools</H3>
-<h6>Hazardous Waste Permit</h6>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/library/Information_Repository.htm">Information Repository</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/library/STKInfo/STKInformation.htm">Stakeholder Documents</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/rfc/com_menu.htm">Submitted Modifications/Requests for Comments</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/rcradox/ProposedMods.htm">Information of Proposed Modifications</a></p>
-
-<h6>WIPP Toolbox</h6>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/WDSPA" title="WIPP Waste Information System Public Access Page Under Construction" target="_blank">WIPP Waste Information System Public Access</a></p>
-  <p class="indent20"><a href="http://www.wipp.energy.gov/chbay.html">CH Bay VOC Monitoring Report Page</a></p>
-  <h6 class="linkbox"><a href="http://www.wipp.energy.gov/WIPPCommunityRelations/index.html"></a></h6>
-  <p><br />
-  </p>
-</DIV>
-</DIV>
-<p class="floated">&nbsp;</p>
-<DIV id=footer>
-  <b>Notice To Users:</b> &nbsp;Use of this system constitutes consent to security monitoring and testing.  All activity is logged with your host name and IP address.&nbsp; For more information, please refer to the<a href="http://energy.gov/about-us/web-policies/privacy">DOE Privacy Policy </a> <br />
-Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site Inquiry">webmaster&#64wipp.ws </a>
-
-</DIV>
-</DIV>
-<p align="center"><img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPRecovery'" alt="Hit Counter." /></p>
-<p align="center"> <img  id="Image1" src="http://www.wipp.energy.gov/HitCounter/counter.aspx?Display='Total'&Fg='Transparent'&Font-Size=6&Bg='Transparent'&Page='WIPPHomePage'" alt="Hit Counter HP." /></p>
-
-<script src="http://code.jquery.com/jquery-latest.min.js"></script>
-  <script src="JS/jquery.slides.min.js"></script>
-
-  <script>
-    $(function(){
-      $("#slides").slidesjs({
-        width: 380,
-        height: 283,
-		navigation: false,
-		 play: {
-      		active: true,
-       		effect: "slide",
-		    interval: 5000,
-			auto: true,
-			swap: true,
-			pauseOnHover: false,
-			restartDelay: 2500
-    	}
-      });
-    });
-  </script>
-
-</BODY></HTML>
+<!doctype html>
+<html lang="en-us">
+<head>
+<title>Waste Isolation Pilot Plant</title>
+<META name="Keywords" content="WIPP, waste,Isolation,Pilot,Plant,Waste Isolation Pilot Plant,Home,Carlsbad Field Office,CBFO,DOE,transuranic,radioactive,permanently,dispose,first,underground,repository,Hazardous,Facility,salt,mine,NTP,National TRU Programs,TRU" />
+<META http-equiv="Content-Language" content="en-us" />
+<META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META content="Index, ALL" name="robots" />
+<link href="wipp.css" type="text/css" rel="stylesheet" />
+<link href="slide-style.css" type="text/css" rel="stylesheet" />
+<link href="favicon.ico" rel="WIPP icon" />
+</head>
+<body>
+
+<div id="wrapper">
+<div id="header"><a href="//wipp.energy.gov" id="header">Logo</a></div>
+<div id="menu">
+<div id="menu1">
+<a href="https://twitter.com/WIPPNEWS" class="twitter-follow-button" data-show-count="false">Follow @WIPPNEWS</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div id="menu2">
+<p>Last Updated: <!-- #BeginDate format:Am2 -->10/5/17<!-- #EndDate --></p>
+</div>
+<div id="menu3">
+<div align="center"><a href="//www.wipp.energy.gov">WIPP Home Page</a><img src="images/filler.png" alt="" /><a href="about.html">About WIPP</a></div>
+</div>
+</div>
+
+<div id="content">
+<table width="658" border="0" cellpadding="7">
+<tr>
+<td width="386" rowspan="2" align="left" valign="top">
+<div id="slides">
+<div>
+	<img src="Images/Slideshow/10_2/SVS.jpg">
+	<div class="caption">The supplemental ventilation system installed in the air intake drift</div>
+</div>
+<div>
+	<img src="Images/Slideshow/10_2/Bolter.jpg">
+	<div class="caption">WIPP's new hybrid (diesel/electric) bolter in the underground mine</div>
+</div>
+<div>
+	<img src="Images/Slideshow/10_2/EOC.jpg">
+	<div class="caption">A drill being run at WIPP's new Emergency Operations Center</div>
+</div>
+<div>
+	<img src="Images/Slideshow/10_2/UG_Fire_Ambulance.jpg">
+	<div class="caption">Emergency response vehicles stationed in the WIPP underground</div>
+</div>
+
+<a href="#" class="slidesjs-previous slidesjs-navigation"><i class="fa-chevron-left icon-large"></i></a>
+<a href="#" class="slidesjs-next slidesjs-navigation"><i class="fa-chevron-right icon-large"></i></a>
+
+</div>
+
+<h1>WIPP Update</h1>
+<h6 align="left"><strong>September 28, 2017</strong></h6>
+
+<br /><br />
+
+<p align="left"><span style="font-size: small"><strong>WIPP Monitoring Potential Rock Fall</strong></span>
+
+<p>Highly-sensitive ground monitoring instrumentation in Panel 7, Room 6, of the WIPP underground is indicating increasing ground movement rates. This area has been prohibited to personnel access for more than a year, meaning no one has entered the area. The increased rates of movement are a sign of ground (rock) instability and indicate a possible rock fall will occur. Based on current instrumentation  readings and experiences from Panel 7, Room 4, last year, the likelihood of a  rock fall in Room 6 is increasing. Rock falls are not uncommon in prohibited  areas of the WIPP underground, where ground control activities are not being performed.</p>
+<p>Salt movement is expected in the WIPP underground and is one reason salt was selected as a disposal medium. All underground openings at WIPP are closely monitored on a regular basis, and closure rates throughout the underground are tracked and recorded.</p>
+<p>During the past year, extensive bolting (ground control) activities have been performed and completed throughout Panel 7 to stabilize the ground conditions for employee safety and waste emplacement. These activities did not include Room 6, which was prohibited from entry due to existing ground conditions. The remainder of Panel 7 remains stable, with expected rates of salt closure.</p>
+<p>The potential rock fall in Panel 7, Room 6, is not expected to have any impact on the rest of the existing panel, including the TRU waste containers that have been permanently disposed of in the panel. These conclusions are based on a previous rock fall that occurred in Panel 7, Room 4,  with similar ground control. All occupied areas in the underground have  significant ground control and maintenance activities performed on a regular basis.</p>
+<p>Employees who work in the underground have been informed of the situation and will continue to receive weekly updates. The safety of the workforce is the top priority. Plans are being developed and precautions taken to ensure continued workforce safety.</p>
+
+<p><strong>Next WIPP Town Hall Meeting Scheduled September 28</strong></p>
+<P>The City of Carlsbad and DOE will co-host a Town Hall meeting featuring updates on WIPP operations activities. The meeting is scheduled for Thursday, September 28, at 5:30 p.m. Location: Carlsbad City Council Chambers, 101 N. Halagueno Street. Live streaming of the meeting can be seen at <a href="http://links.govdelivery.com:80/track?type=click&amp;enid=ZWFzPTEmbWFpbGluZ2lkPTIwMTcwOTI4Ljc4NzY4MTcxJm1lc3NhZ2VpZD1NREItUFJELUJVTC0yMDE3MDkyOC43ODc2ODE3MSZkYXRhYmFzZWlkPTEwMDEmc2VyaWFsPTE3MjQ4MTEwJmVtYWlsaWQ9dmljdG9yaWEucGFya2VyQHdpcHAud3MmdXNlcmlkPXZpY3RvcmlhLnBhcmtlckB3aXBwLndzJmZsPSZleHRyYT1NdWx0aXZhcmlhdGVJZD0mJiY=&amp;&amp;&amp;100&amp;&amp;&amp;http://new.livestream.com/rrv/">http://new.livestream.com/rrv/</a>.</p>
+
+</td>
+<td width="238" height="337" align="center" valign="top" bgcolor="#FFFFCC">
+
+<h4 align="center">Reports and Plans</h4>
+
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../library/NEPA/EA_AGSC.pdf">Environmental Assessment for the WIPP Above Ground Storage Capability Project and the Notice of Availability, Draft A, DOE/EA-2604<br />(December 2017)</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_DORR_Final_Report.pdf">WIPP DORR Final Report</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/WIPP_CORR_Final_Report.pdf">WIPP CORR Final Report</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/MSHA_Technical_Support_Evaluation.pdf">MSHA Technical Support Evaluation</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Supplemental_Analysis.pdf">Supplemental Analysis WIPP Operations December 2016</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../library/wac/WAC.pdf">Waste Acceptance Criteria (WAC), Rev. 8</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/DSA_Rev_5_Chapters_0-18.pdf" target="_blank"> Documented Safety Analysis, Rev. 5b Chapters 0-18</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../library/DSA/TSR_R5b_NRB.pdf" title="Waste Isolation Pilot Plant Technical Safety Requirements" target="_blank"> Technical Safety Requirements</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/SER_DSA_Rev_5.pdf" target="_blank">Safety Evaluation Report for Documented Safety Analysis, Rev. 5b</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/CBFO_CAP_Rev1_Redacted.pdf" target="_blank"> CBFO Corrective Action Plan for the Fire and Radiological Events, Rev. 1</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/NWP_Phase2_Rad_CAP_Redacted.pdf" target="_blank"> NWP Corrective Action Addendum for Radiological Release Event</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/AIB_WIPP Rad_Event Report_Phase II.pdf" target="_blank"> AIB Phase II Report on the Feb. 14 Radiological Event</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/Phase_2_AIB_Slides.pdf" target="_blank"> AIB Phase II Investigation Summary Slides</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/AIB Report.pdf" target="_blank"> AIB Investigation Report on the Feb. 5 Fire</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/AIB Summary.pdf" target="_blank"> AIB Investigation Summary Slides</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/AIB_Final_WIPP_Rad_Release_Phase1_04_22_2014.pdf" target="_blank"> AIB Phase I Report on the Feb. 14 Radiological Event</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/AIB_Rad_Report_Presentation.pdf" target="_blank"> AIB Phase I Investigation Summary Slides</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/DOE_WIPP_Salt_Haul_Fire_Corrective_Action_Plan.pdf" target="_blank"> Office of Environmental Management Corrective Action Plan for Fire Event</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/DOE_Rad_Phase1_CAP_Report.pdf" target="_blank"> Office of Environmental Management Corrective Action Plan for the Radiological Event</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/EA_memo_10152015.pdf" target="_blank"> Office of Enterprise Assessments Operational Analysis of Safety Trends at the Waste Isolation Pilot Plant, May 2014 - May 2015</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/FINAL NWP Fire and Phase 1 Rad CAP_REDACT.pdf" target="_blank"> NWP Corrective Action Plan for the Fire and Radiological Events</a></p>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="../Special/TECHNICAL_ASSESSMENT_TEAM_REPORT.pdf" target="_blank"> Technical Assessment Team Report</a></p>
+
+<h6 align="center">Supporting Documents</h6>
+<p><img src="Images/pdf_sm.gif" alt="CBFO CAP Plan" width="17" height="17" /> <a href="http://energy.gov/em/listings/supporting-technical-documents" target="_blank"> Supporting documents for the AIB and TAT reports</a>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div id="sidebar">
+<div class="linkbox"> 
+<h3>Recovery Page</h3>
+<h6><a href="recovery.html">Home</a></h6> 
+<hr />
+<h3>Event Information</h3>
+<h6><a href="accident_desc.html">Accident Description</a></h6> 
+<h6><a href="protective_actions.html">Protective Actions</a></h6>
+<h6><a href="sampling_results.html">Sampling Results</a></h6>
+<h6><a href="plans_reports.html">Plans and Reports</a></h6>
+<hr>
+<h3>News and Updates</h3>
+<h6><a href="updates.html">Past WIPP Updates</a></h6>
+<h6><a href="news.html">News Releases</a></h6>
+<h6><a href="fact_sheets.html">Fact Sheets, Papers, Presentations</a></h6>
+<h6><a href="Images/Disposal-In-Salt.png" target="_blank">Geologic Disposal in Salt Not in Question</a></h6>
+<h6><a href="photo_video.html">Photo and Video</a></h6>
+<h6><a href="faq.html">Frequently Asked Questions</a></h6>
+<h6><a href="townhallmeeting.html">Town Hall Meetings</a></h6>
+<hr />
+<H3>Other WIPP Documents and Tools</H3>
+<h6>Hazardous Waste Permit</h6>
+<p class="indent20"><a href="//www.wipp.energy.gov/information-repository-index.asp">Information Repository</a></p>
+<p class="indent20"><a href="//www.wipp.energy.gov/Stakeholders/Notice.aspx">Stakeholder Notification</a></p>
+<p class="indent20"><a href="//www.wipp.energy.gov/stakeholders-information-index.asp">Stakeholder Documents</a></p>
+<p class="indent20"><a href="//www.wipp.energy.gov/rcra-com-menu.asp">Submitted Modifications/Requests for Comments</a></p>
+<p class="indent20"><a href="//www.wipp.energy.gov/rcra-proposed-mods.asp">Information of Proposed Modifications</a></p>
+<h6>WIPP Toolbox</h6>
+<p class="indent20"><a href="//www.wipp.energy.gov/WDSPA">WIPP Waste Information System Public Access</a></p>
+<p class="indent20"><a href="//www.wipp.energy.gov/chbay.asp">CH Bay VOC Monitoring Report Page</a></p>
+<br />
+</div>
+</div>
+
+<div id="footer">
+<b>Notice To Users:</b> Use of this system constitutes consent to security monitoring and testing. All activity is logged with your host name and IP address. For more information, please refer to the <a href="http://energy.gov/about-us/web-policies/privacy">DOE Privacy Policy</a><br />
+Please report problems to: <a href="mailto:webmaster@wipp.ws?subject=Web Site Inquiry">webmaster&#64;wipp.ws</a>
+</div>
+</div>
+
+
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="JS/jquery.slides.min.js"></script>
+<script>$(function(){$("#slides").slidesjs({width: 380,height: 283,navigation: false,play: {active: true,effect: "slide",interval: 5000,auto: true,swap: true,pauseOnHover: false,restartDelay: 2500}});});</script>
+</body>
+</html>
